@@ -1,0 +1,80 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: calc(100% - 40px);
+    padding: 20px;
+    background-color: #242424;
+    z-index: 100;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.dropdown-menu{
+    position: relative;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+}
+
+/* Родитель dropdown */
+.dropdown {
+  position: relative;   /* ВАЖНО */
+  display: inline-block;
+}
+
+/* Само меню */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+
+  right: 0;     /* 🔥 вместо left: 0 */
+  left: auto;   /* обязательно сбрасываем */
+
+  background: #1e1e1e;
+  color: #ffffff;
+
+  border: 1px solid #333;
+  min-width: 240px;
+
+  list-style: none;
+  padding: 8px 0;
+  margin: 0;
+
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+  z-index: 1000;
+
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* пункты */
+.dropdown-menu li {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.dropdown-menu li:hover {
+  background: #111111;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+}
+.logo a{
+  color: #ffffff;
+}
+.logo img{
+  width: 50px;
+}

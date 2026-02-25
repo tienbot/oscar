@@ -1,0 +1,31 @@
+.loading{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.loading-more{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1em;
+    color: #777;
+}
+
+.loaded-all{
+    text-align: center;
+    padding: 60px 20px;
+    color: #555;
+    font-style: italic;
+}
+
+.movies-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 24px;
+    margin-bottom: 40px;
+}

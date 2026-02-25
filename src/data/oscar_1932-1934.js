@@ -1,0 +1,18203 @@
+const data = [
+    {
+        "year": 1934,
+        "films": [
+            {
+                "kinopoiskId": 7681,
+                "nameRu": "Кавалькада",
+                "nameOriginal": "Cavalcade",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7681.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/7681.jpg",
+                "reviewsCount": 5,
+                "ratingGoodReview": 70,
+                "ratingGoodReviewVoteCount": 3,
+                "ratingKinopoisk": 5.8,
+                "ratingKinopoiskVoteCount": 716,
+                "ratingImdb": 5.8,
+                "ratingImdbVoteCount": 6124,
+                "ratingFilmCritics": 5.7,
+                "ratingFilmCriticsVoteCount": 36,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "военный"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 205334,
+                        "nameRu": "Фрэнк Ллойд",
+                        "nameEn": "Frank Lloyd",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205334.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 202361,
+                        "nameRu": "Диана Виньяр",
+                        "nameEn": "Diana Wynyard",
+                        "description": "Jane Marryot",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202361.jpg"
+                    },
+                    {
+                        "id": 193881,
+                        "nameRu": "Клайв Брук",
+                        "nameEn": "Clive Brook",
+                        "description": "Robert Marryot",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193881.jpg"
+                    },
+                    {
+                        "id": 201838,
+                        "nameRu": "Уна О’Коннор",
+                        "nameEn": "Una O'Connor",
+                        "description": "Ellen Bridges",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201838.jpg"
+                    },
+                    {
+                        "id": 217260,
+                        "nameRu": "Герберт Мандин",
+                        "nameEn": "Herbert Mundin",
+                        "description": "Alfred Bridges",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217260.jpg"
+                    },
+                    {
+                        "id": 216959,
+                        "nameRu": "Берил Мерсер",
+                        "nameEn": "Beryl Mercer",
+                        "description": "Cook",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216959.jpg"
+                    },
+                    {
+                        "id": 196936,
+                        "nameRu": "Ирен Браун",
+                        "nameEn": "Irene Browne",
+                        "description": "Margaret Harris",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196936.jpg"
+                    },
+                    {
+                        "id": 213301,
+                        "nameRu": "Темпе Пиготт",
+                        "nameEn": "Tempe Pigott",
+                        "description": "Mrs. Snapper",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213301.jpg"
+                    },
+                    {
+                        "id": 209655,
+                        "nameRu": "Мерл Тоттенэм",
+                        "nameEn": "Merle Tottenham",
+                        "description": "Annie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209655.jpg"
+                    },
+                    {
+                        "id": 201664,
+                        "nameRu": "Фрэнк Лоутон",
+                        "nameEn": "Frank Lawton",
+                        "description": "Joe Marryot",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201664.jpg"
+                    },
+                    {
+                        "id": 200357,
+                        "nameRu": "Урсула Джинс",
+                        "nameEn": "Ursula Jeans",
+                        "description": "Fanny Bridges",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200357.jpg"
+                    },
+                    {
+                        "id": 197103,
+                        "nameRu": "Маргарет Линдси",
+                        "nameEn": "Margaret Lindsay",
+                        "description": "Edith Harris",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197103.jpg"
+                    },
+                    {
+                        "id": 190744,
+                        "nameRu": "Джон Варбертон",
+                        "nameEn": "John Warburton",
+                        "description": "Edward Marryot",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_190744.jpg"
+                    },
+                    {
+                        "id": 209373,
+                        "nameRu": "Билли Беван",
+                        "nameEn": "Billy Bevan",
+                        "description": "George Grainger",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209373.jpg"
+                    },
+                    {
+                        "id": 201642,
+                        "nameRu": "Десмонд Робертс",
+                        "nameEn": "Desmond Roberts",
+                        "description": "Ronnie James",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201642.jpg"
+                    },
+                    {
+                        "id": 202062,
+                        "nameRu": "Дики Хендерсон",
+                        "nameEn": "Dickie Henderson",
+                        "description": "Master Edward (в титрах: Dick Henderson Jr.)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202062.jpg"
+                    },
+                    {
+                        "id": 216801,
+                        "nameRu": "Дуглас Скотт",
+                        "nameEn": "Douglas Scott",
+                        "description": "Master Joey",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216801.jpg"
+                    },
+                    {
+                        "id": 220287,
+                        "nameRu": "Шила МакДжилл",
+                        "nameEn": "Sheila MacGill",
+                        "description": "Edith (Child)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220287.jpg"
+                    },
+                    {
+                        "id": 204403,
+                        "nameRu": "Бонита Грэнвилл",
+                        "nameEn": "Bonita Granville",
+                        "description": "Fanny (Child)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204403.jpg"
+                    },
+                    {
+                        "id": 209891,
+                        "nameRu": "Гарри Аллен",
+                        "nameEn": "Harry Allen",
+                        "description": "Busker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209891.jpg"
+                    },
+                    {
+                        "id": 199159,
+                        "nameRu": "Фрэнк Эткинсон",
+                        "nameEn": "Frank Atkinson",
+                        "description": "Uncle Dick, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199159.jpg"
+                    },
+                    {
+                        "id": 214232,
+                        "nameRu": "Лайонел Бельмор",
+                        "nameEn": "Lionel Belmore",
+                        "description": "Uncle George, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214232.jpg"
+                    },
+                    {
+                        "id": 213323,
+                        "nameRu": "Тед Биллингс",
+                        "nameEn": "Ted Billings",
+                        "description": "Newspaper Peddler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213323.jpg"
+                    },
+                    {
+                        "id": 220288,
+                        "nameRu": "Аделе Крэйн",
+                        "nameEn": "Adele Crane",
+                        "description": "Ada, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220288.jpg"
+                    },
+                    {
+                        "id": 5615996,
+                        "nameRu": "",
+                        "nameEn": "Nancy Crowley",
+                        "description": "Little Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5615996.jpg"
+                    },
+                    {
+                        "id": 214242,
+                        "nameRu": "Ховард Дейвис",
+                        "nameEn": "Howard Davies",
+                        "description": "Agitator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214242.jpg"
+                    },
+                    {
+                        "id": 207680,
+                        "nameRu": "Кай Деслис",
+                        "nameEn": "Kay Deslys",
+                        "description": "Barmaid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207680.jpg"
+                    },
+                    {
+                        "id": 200986,
+                        "nameRu": "Мэри Форбс",
+                        "nameEn": "Mary Forbes",
+                        "description": "Duchess of Churt, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200986.jpg"
+                    },
+                    {
+                        "id": 193886,
+                        "nameRu": "Бетти Грэйбл",
+                        "nameEn": "Betty Grable",
+                        "description": "Blonde Girl on Couch, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193886.jpg"
+                    },
+                    {
+                        "id": 220289,
+                        "nameRu": "Дэнни Мак Грант",
+                        "nameEn": "Dannie Mac Grant",
+                        "description": "Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220289.jpg"
+                    },
+                    {
+                        "id": 214862,
+                        "nameRu": "Лоуренс Грант",
+                        "nameEn": "Lawrence Grant",
+                        "description": "Man at Microphone, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214862.jpg"
+                    },
+                    {
+                        "id": 203152,
+                        "nameRu": "Стюарт Холл",
+                        "nameEn": "Stuart Hall",
+                        "description": "Lieutenant Edgar, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203152.jpg"
+                    },
+                    {
+                        "id": 217467,
+                        "nameRu": "Винтер Холл",
+                        "nameEn": "Winter Hall",
+                        "description": "Minister on the Pulpit, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217467.jpg"
+                    },
+                    {
+                        "id": 211404,
+                        "nameRu": "Брэндон Херст",
+                        "nameEn": "Brandon Hurst",
+                        "description": "Gilbert & Sullivan Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211404.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Speaker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 366671,
+                        "nameRu": "Брюс Лайн",
+                        "nameEn": "Bruce Line",
+                        "description": "Boy Scout, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366671.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Doctor on Street, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 219753,
+                        "nameRu": "Вилфрид Норт",
+                        "nameEn": "Wilfrid North",
+                        "description": "Man Talking to Colonel, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219753.jpg"
+                    },
+                    {
+                        "id": 214445,
+                        "nameRu": "Хелен Пэрриш",
+                        "nameEn": "Helen Parrish",
+                        "description": "Screaming Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214445.jpg"
+                    },
+                    {
+                        "id": 186826,
+                        "nameRu": "Роберт Пэрриш",
+                        "nameEn": "Robert Parrish",
+                        "description": "Boy Scout, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_186826.jpg"
+                    },
+                    {
+                        "id": 170936,
+                        "nameRu": "Ричард Куайн",
+                        "nameEn": "Richard Quine",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_170936.jpg"
+                    },
+                    {
+                        "id": 217213,
+                        "nameRu": "Том Рикеттс",
+                        "nameEn": "Tom Ricketts",
+                        "description": "Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217213.jpg"
+                    },
+                    {
+                        "id": 196586,
+                        "nameRu": "Джон Роджерс",
+                        "nameEn": "John Rogers",
+                        "description": "Busker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196586.jpg"
+                    },
+                    {
+                        "id": 220290,
+                        "nameRu": "Энн Шоу",
+                        "nameEn": "Ann Shaw",
+                        "description": "Mirabelle, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220290.jpg"
+                    },
+                    {
+                        "id": 211388,
+                        "nameRu": "Ч. Монтегю Шоу",
+                        "nameEn": "C. Montague Shaw",
+                        "description": "Major Domo, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211388.jpg"
+                    },
+                    {
+                        "id": 213305,
+                        "nameRu": "Йорк Шервуд",
+                        "nameEn": "Yorke Sherwood",
+                        "description": "Cabby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213305.jpg"
+                    },
+                    {
+                        "id": 216066,
+                        "nameRu": "Пэт Сомерсет",
+                        "nameEn": "Pat Somerset",
+                        "description": "Ringsider, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216066.jpg"
+                    },
+                    {
+                        "id": 212269,
+                        "nameRu": "Уилл Стэнтон",
+                        "nameEn": "Will Stanton",
+                        "description": "Tommy Jolly, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212269.jpg"
+                    },
+                    {
+                        "id": 219275,
+                        "nameRu": "Мэри Стюарт",
+                        "nameEn": "Mary Stewart",
+                        "description": "Dancer / Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219275.jpg"
+                    },
+                    {
+                        "id": 1650070,
+                        "nameRu": "",
+                        "nameEn": "Gelal Talata",
+                        "description": "Recruiting Girl Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1650070.jpg"
+                    },
+                    {
+                        "id": 217133,
+                        "nameRu": "Дэвид Торренс",
+                        "nameEn": "David Torrence",
+                        "description": "Man at Disarmament Conference, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217133.jpg"
+                    },
+                    {
+                        "id": 209328,
+                        "nameRu": "Дуглас Уолтон",
+                        "nameEn": "Douglas Walton",
+                        "description": "Soldier Friend of Joe, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209328.jpg"
+                    },
+                    {
+                        "id": 363285,
+                        "nameRu": "Маргарит Уорнер",
+                        "nameEn": "Marguerite Warner",
+                        "description": "Recruiting Girl Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363285.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Robert the Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 197746,
+                        "nameRu": "Соня Левин",
+                        "nameEn": "Sonya Levien",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197746.jpg"
+                    },
+                    {
+                        "id": 16459,
+                        "nameRu": "Ноэл Кауард",
+                        "nameEn": "Noël Coward",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_16459.jpg"
+                    },
+                    {
+                        "id": 220021,
+                        "nameRu": "Реджинальд Беркли",
+                        "nameEn": "Reginald Berkeley",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220021.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 205334,
+                        "nameRu": "Фрэнк Ллойд",
+                        "nameEn": "Frank Lloyd",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205334.jpg"
+                    },
+                    {
+                        "id": 219537,
+                        "nameRu": "Винфилд Р. Шиэн",
+                        "nameEn": "Winfield R. Sheehan",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219537.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 216266,
+                        "nameRu": "Джон Ф. Сайц",
+                        "nameEn": "John F. Seitz",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216266.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220415,
+                        "nameRu": "Питер Брунелли",
+                        "nameEn": "Peter Brunelli",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220415.jpg"
+                    },
+                    {
+                        "id": 220417,
+                        "nameRu": "Луис Де Франческо",
+                        "nameEn": "Louis De Francesco",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220417.jpg"
+                    },
+                    {
+                        "id": 220739,
+                        "nameRu": "Артур Ланж",
+                        "nameEn": "Arthur Lange",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220739.jpg"
+                    },
+                    {
+                        "id": 365548,
+                        "nameRu": "Ж.С. Замечник",
+                        "nameEn": "J.S. Zamecnik",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365548.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2014042,
+                        "nameRu": "Уильям С. Дарлинг",
+                        "nameEn": "William S. Darling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014042.jpg"
+                    },
+                    {
+                        "id": 2011312,
+                        "nameRu": "Эрл Луик",
+                        "nameEn": "Earl Luick",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2011312.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2020933,
+                        "nameRu": "Маргарет Клэйнси",
+                        "nameEn": "Margaret Clancey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2020933.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 52 мин",
+                "description": "Фильм «Кавалькада» охватывает исторический период с празднования 1899 Нового года до 31 декабря 1933. Перед глазами героев проходят такие события, как англо-бурская война, смерть королевы Виктории, кораблекрушение «Титаника» и Первая мировая война.",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 2014042,
+                                "nameRu": "Уильям С. Дарлинг",
+                                "nameEn": "William S. Darling",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/2014042.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 202361,
+                                "nameRu": "Диана Виньяр",
+                                "nameEn": "Diana Wynyard",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/202361.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": true,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший режиссер",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 205334,
+                                "nameRu": "Фрэнк Ллойд",
+                                "nameEn": "Frank Lloyd",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/205334.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/7681/",
+                "webUrl": "https://www.kinopoisk.ru/film/7681/",
+                "lastSync": "2024-12-28T07:11:51.426Z"
+            },
+            {
+                "kinopoiskId": 3382,
+                "nameRu": "Прощай, оружие",
+                "nameOriginal": "A Farewell to Arms",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3382.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/3382.jpg",
+                "reviewsCount": 9,
+                "ratingGoodReview": 83,
+                "ratingGoodReviewVoteCount": 6,
+                "ratingKinopoisk": 6.7,
+                "ratingKinopoiskVoteCount": 1130,
+                "ratingImdb": 6.4,
+                "ratingImdbVoteCount": 7024,
+                "ratingFilmCritics": 7.5,
+                "ratingFilmCriticsVoteCount": 16,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "военный"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 210545,
+                        "nameRu": "Фрэнк Борзеги",
+                        "nameEn": "Frank Borzage",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210545.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 176964,
+                        "nameRu": "Хелен Хэйес",
+                        "nameEn": "Helen Hayes",
+                        "description": "Catherine",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176964.jpg"
+                    },
+                    {
+                        "id": 180597,
+                        "nameRu": "Гэри Купер",
+                        "nameEn": "Gary Cooper",
+                        "description": "Frederic",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180597.jpg"
+                    },
+                    {
+                        "id": 80118,
+                        "nameRu": "Адольф Менжу",
+                        "nameEn": "Adolphe Menjou",
+                        "description": "Rinaldi",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80118.jpg"
+                    },
+                    {
+                        "id": 205861,
+                        "nameRu": "Мэри Филипс",
+                        "nameEn": "Mary Philips",
+                        "description": "Ferguson",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205861.jpg"
+                    },
+                    {
+                        "id": 195029,
+                        "nameRu": "Джек Ла Ру",
+                        "nameEn": "Jack La Rue",
+                        "description": "Priest",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195029.jpg"
+                    },
+                    {
+                        "id": 219657,
+                        "nameRu": "Бланш Фредеричи",
+                        "nameEn": "Blanche Friderici",
+                        "description": "Head Nurse",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219657.jpg"
+                    },
+                    {
+                        "id": 200986,
+                        "nameRu": "Мэри Форбс",
+                        "nameEn": "Mary Forbes",
+                        "description": "Miss Van Campen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200986.jpg"
+                    },
+                    {
+                        "id": 213988,
+                        "nameRu": "Гилберт Эмери",
+                        "nameEn": "Gilbert Emery",
+                        "description": "British Major",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213988.jpg"
+                    },
+                    {
+                        "id": 220572,
+                        "nameRu": "Элис Эдейр",
+                        "nameEn": "Alice Adair",
+                        "description": "Cafe Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220572.jpg"
+                    },
+                    {
+                        "id": 213125,
+                        "nameRu": "Генри Арметта",
+                        "nameEn": "Henry Armetta",
+                        "description": "Bonello, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213125.jpg"
+                    },
+                    {
+                        "id": 211981,
+                        "nameRu": "Херман Бинг",
+                        "nameEn": "Herman Bing",
+                        "description": "Swiss Postal Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211981.jpg"
+                    },
+                    {
+                        "id": 218115,
+                        "nameRu": "Агостино Боргато",
+                        "nameEn": "Agostino Borgato",
+                        "description": "Giulio, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218115.jpg"
+                    },
+                    {
+                        "id": 216193,
+                        "nameRu": "",
+                        "nameEn": "Robert Cauterio",
+                        "description": "Gordini, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216193.jpg"
+                    },
+                    {
+                        "id": 209218,
+                        "nameRu": "Марсель Кордей",
+                        "nameEn": "Marcelle Corday",
+                        "description": "Swiss Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209218.jpg"
+                    },
+                    {
+                        "id": 205776,
+                        "nameRu": "Джино Коррадо",
+                        "nameEn": "Gino Corrado",
+                        "description": "Italian Soldier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205776.jpg"
+                    },
+                    {
+                        "id": 220573,
+                        "nameRu": "Пегги Каннингэм",
+                        "nameEn": "Peggy Cunningham",
+                        "description": "Molly, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220573.jpg"
+                    },
+                    {
+                        "id": 205403,
+                        "nameRu": "Джордж Умберт",
+                        "nameEn": "George Humbert",
+                        "description": "Piani, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205403.jpg"
+                    },
+                    {
+                        "id": 214964,
+                        "nameRu": "Уильям Ирвинг",
+                        "nameEn": "William Irving",
+                        "description": "Frustrated Opera Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214964.jpg"
+                    },
+                    {
+                        "id": 194184,
+                        "nameRu": "Дорис Ллойд",
+                        "nameEn": "Doris Lloyd",
+                        "description": "Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194184.jpg"
+                    },
+                    {
+                        "id": 215638,
+                        "nameRu": "Фред Малатеста",
+                        "nameEn": "Fred Malatesta",
+                        "description": "Manera, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215638.jpg"
+                    },
+                    {
+                        "id": 213682,
+                        "nameRu": "Пол Поркази",
+                        "nameEn": "Paul Porcasi",
+                        "description": "Harry, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213682.jpg"
+                    },
+                    {
+                        "id": 217213,
+                        "nameRu": "Том Рикеттс",
+                        "nameEn": "Tom Ricketts",
+                        "description": "Count Greffi, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217213.jpg"
+                    },
+                    {
+                        "id": 220114,
+                        "nameRu": "Фредерик Салливан",
+                        "nameEn": "Frederick Sullivan",
+                        "description": "Swiss Café Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220114.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 204460,
+                        "nameRu": "Бенжамин Глейзер",
+                        "nameEn": "Benjamin Glazer",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204460.jpg"
+                    },
+                    {
+                        "id": 211656,
+                        "nameRu": "Оливер Х.П. Гаррет",
+                        "nameEn": "Oliver H.P. Garrett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211656.jpg"
+                    },
+                    {
+                        "id": 2801,
+                        "nameRu": "Эрнест Хемингуэй",
+                        "nameEn": "Ernest Hemingway",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2801.jpg"
+                    },
+                    {
+                        "id": 206553,
+                        "nameRu": "Лоуренс Сталлингс",
+                        "nameEn": "Laurence Stallings",
+                        "description": "пьеса, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206553.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 210545,
+                        "nameRu": "Фрэнк Борзеги",
+                        "nameEn": "Frank Borzage",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210545.jpg"
+                    },
+                    {
+                        "id": 220574,
+                        "nameRu": "Эдвард А. Блатт",
+                        "nameEn": "Edward A. Blatt",
+                        "description": "ассоциированный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220574.jpg"
+                    },
+                    {
+                        "id": 204460,
+                        "nameRu": "Бенжамин Глейзер",
+                        "nameEn": "Benjamin Glazer",
+                        "description": "ассоциированный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204460.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 118652,
+                        "nameRu": "Чарльз Лэнг",
+                        "nameEn": "Charles Lang",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_118652.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220360,
+                        "nameRu": "Херман Хэнд",
+                        "nameEn": "Herman Hand",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220360.jpg"
+                    },
+                    {
+                        "id": 362947,
+                        "nameRu": "В. Франке Харлинг",
+                        "nameEn": "W. Franke Harling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362947.jpg"
+                    },
+                    {
+                        "id": 219312,
+                        "nameRu": "Бернхард Каун",
+                        "nameEn": "Bernhard Kaun",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219312.jpg"
+                    },
+                    {
+                        "id": 218333,
+                        "nameRu": "Джон Лайполд",
+                        "nameEn": "John Leipold",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218333.jpg"
+                    },
+                    {
+                        "id": 217527,
+                        "nameRu": "Пол Марквардт",
+                        "nameEn": "Paul Marquardt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217527.jpg"
+                    },
+                    {
+                        "id": 220624,
+                        "nameRu": "Ральф Рэйнгер",
+                        "nameEn": "Ralph Rainger",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220624.jpg"
+                    },
+                    {
+                        "id": 220361,
+                        "nameRu": "Милан Родер",
+                        "nameEn": "Milan Roder",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220361.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2010483,
+                        "nameRu": "Роланд Андерсон",
+                        "nameEn": "Roland Anderson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2010483.jpg"
+                    },
+                    {
+                        "id": 218337,
+                        "nameRu": "Ханс Драйер",
+                        "nameEn": "Hans Dreier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218337.jpg"
+                    },
+                    {
+                        "id": 220364,
+                        "nameRu": "Трэвис Бэнтон",
+                        "nameEn": "Travis Banton",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220364.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 362859,
+                        "nameRu": "Ото Ловеринг",
+                        "nameEn": "Otho Lovering",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362859.jpg"
+                    },
+                    {
+                        "id": 360534,
+                        "nameRu": "Джордж Николс мл.",
+                        "nameEn": "George Nichols Jr.",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360534.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 20 мин",
+                "description": "Первая мировая война. Австро-итальянский фронт. Американец Фредерик Генри добровольно вступает в ряды итальянской армии. Среди бесчеловечного хаоса боевых действий он встречает англичанку-медсестру Кэтрин Баркли, но война накладывает тяжелый, неизгладимый отпечаток на их любовь...",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 218337,
+                                "nameRu": "Ханс Драйер",
+                                "nameEn": "Hans Dreier",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/218337.jpg"
+                            },
+                            {
+                                "kinopoiskId": 2010483,
+                                "nameRu": "Роланд Андерсон",
+                                "nameEn": "Roland Anderson",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/2010483.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 118652,
+                                "nameRu": "Чарльз Лэнг",
+                                "nameEn": "Charles Lang",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/118652.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший звук",
+                        "win": true,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/3382/",
+                "webUrl": "https://www.kinopoisk.ru/film/3382/",
+                "lastSync": "2024-12-28T07:11:51.588Z"
+            },
+            {
+                "kinopoiskId": 8284,
+                "nameRu": "Я – беглый каторжник",
+                "nameOriginal": "I Am a Fugitive from a Chain Gang",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8284.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8284.jpg",
+                "reviewsCount": 8,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 8,
+                "ratingKinopoisk": 7.7,
+                "ratingKinopoiskVoteCount": 1332,
+                "ratingImdb": 8.2,
+                "ratingImdbVoteCount": 14765,
+                "ratingFilmCritics": 8.2,
+                "ratingFilmCriticsVoteCount": 28,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "криминал"
+                    },
+                    {
+                        "genre": "фильм-нуар"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 190215,
+                        "nameRu": "Мервин ЛеРой",
+                        "nameEn": "Mervyn LeRoy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_190215.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 200342,
+                        "nameRu": "Пол Муни",
+                        "nameEn": "Paul Muni",
+                        "description": "James Allen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200342.jpg"
+                    },
+                    {
+                        "id": 195537,
+                        "nameRu": "Гленда Фаррелл",
+                        "nameEn": "Glenda Farrell",
+                        "description": "Marie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195537.jpg"
+                    },
+                    {
+                        "id": 212969,
+                        "nameRu": "Хелен Винсон",
+                        "nameEn": "Helen Vinson",
+                        "description": "Helen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212969.jpg"
+                    },
+                    {
+                        "id": 219748,
+                        "nameRu": "Ноэль Френсис",
+                        "nameEn": "Noel Francis",
+                        "description": "Linda",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219748.jpg"
+                    },
+                    {
+                        "id": 207028,
+                        "nameRu": "Престон Фостер",
+                        "nameEn": "Preston Foster",
+                        "description": "Pete",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207028.jpg"
+                    },
+                    {
+                        "id": 181861,
+                        "nameRu": "Аллен Дженкинс",
+                        "nameEn": "Allen Jenkins",
+                        "description": "Barney Sykes",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181861.jpg"
+                    },
+                    {
+                        "id": 216754,
+                        "nameRu": "Бертон Черчилль",
+                        "nameEn": "Berton Churchill",
+                        "description": "The Judge",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216754.jpg"
+                    },
+                    {
+                        "id": 215422,
+                        "nameRu": "Эдвард Эллис",
+                        "nameEn": "Edward Ellis",
+                        "description": "Bomber Wells",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215422.jpg"
+                    },
+                    {
+                        "id": 220246,
+                        "nameRu": "Дэвид Ландау",
+                        "nameEn": "David Landau",
+                        "description": "The Warden",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220246.jpg"
+                    },
+                    {
+                        "id": 216260,
+                        "nameRu": "Хейл Хэмилтон",
+                        "nameEn": "Hale Hamilton",
+                        "description": "Rev. Robert Allen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216260.jpg"
+                    },
+                    {
+                        "id": 216958,
+                        "nameRu": "Сэлли Блейн",
+                        "nameEn": "Sally Blane",
+                        "description": "Alice",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216958.jpg"
+                    },
+                    {
+                        "id": 216271,
+                        "nameRu": "Луиз Картер",
+                        "nameEn": "Louise Carter",
+                        "description": "Mother Allen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216271.jpg"
+                    },
+                    {
+                        "id": 211248,
+                        "nameRu": "Уиллард Робертсон",
+                        "nameEn": "Willard Robertson",
+                        "description": "Prison Board Chairman",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211248.jpg"
+                    },
+                    {
+                        "id": 217413,
+                        "nameRu": "Роберт МакУэйд",
+                        "nameEn": "Robert McWade",
+                        "description": "Attorney",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217413.jpg"
+                    },
+                    {
+                        "id": 943389,
+                        "nameRu": "Роберт Уоррик",
+                        "nameEn": "Robert Warwick",
+                        "description": "Fuller",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_943389.jpg"
+                    },
+                    {
+                        "id": 220577,
+                        "nameRu": "Уильям Ле Маире",
+                        "nameEn": "William Le Maire",
+                        "description": "A Texan (в титрах: William LeMaire)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220577.jpg"
+                    },
+                    {
+                        "id": 202046,
+                        "nameRu": "Эрвилль Алдерсон",
+                        "nameEn": "Erville Alderson",
+                        "description": "Police Chief, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202046.jpg"
+                    },
+                    {
+                        "id": 205753,
+                        "nameRu": "Ирвинг Бэйкон",
+                        "nameEn": "Irving Bacon",
+                        "description": "Bill - Barber, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205753.jpg"
+                    },
+                    {
+                        "id": 215299,
+                        "nameRu": "Реджинальд Барлоу",
+                        "nameEn": "Reginald Barlow",
+                        "description": "Mr. Parker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215299.jpg"
+                    },
+                    {
+                        "id": 200395,
+                        "nameRu": "Джеймс Белл",
+                        "nameEn": "James Bell",
+                        "description": "Red, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200395.jpg"
+                    },
+                    {
+                        "id": 207054,
+                        "nameRu": "Эверетт Браун",
+                        "nameEn": "Everett Brown",
+                        "description": "Sebastian T. Yale, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207054.jpg"
+                    },
+                    {
+                        "id": 213413,
+                        "nameRu": "Фредерик Бертон",
+                        "nameEn": "Frederick Burton",
+                        "description": "Southern Prison Official, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213413.jpg"
+                    },
+                    {
+                        "id": 216127,
+                        "nameRu": "А.С. «Поп» Байрон",
+                        "nameEn": "A.S. «Pop» Byron",
+                        "description": "Cop in Barber Shop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216127.jpg"
+                    },
+                    {
+                        "id": 211445,
+                        "nameRu": "Эдди Чандлер",
+                        "nameEn": "Eddy Chandler",
+                        "description": "Job Foreman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211445.jpg"
+                    },
+                    {
+                        "id": 209235,
+                        "nameRu": "Уоллис Кларк",
+                        "nameEn": "Wallis Clark",
+                        "description": "Chicago Lawyer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209235.jpg"
+                    },
+                    {
+                        "id": 205262,
+                        "nameRu": "Дж. Пэт Коллинз",
+                        "nameEn": "G. Pat Collins",
+                        "description": "Wilson, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205262.jpg"
+                    },
+                    {
+                        "id": 217518,
+                        "nameRu": "Джордж Купер",
+                        "nameEn": "George Cooper",
+                        "description": "Vaudevillian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217518.jpg"
+                    },
+                    {
+                        "id": 209005,
+                        "nameRu": "Джек Кертис",
+                        "nameEn": "Jack Curtis",
+                        "description": "Prison Guard, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209005.jpg"
+                    },
+                    {
+                        "id": 199352,
+                        "nameRu": "Дагласс Дамбрилл",
+                        "nameEn": "Douglass Dumbrille",
+                        "description": "District Attorney, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199352.jpg"
+                    },
+                    {
+                        "id": 218470,
+                        "nameRu": "Дж. Фрэнк Глендон",
+                        "nameEn": "J. Frank Glendon",
+                        "description": "Arresting Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218470.jpg"
+                    },
+                    {
+                        "id": 213978,
+                        "nameRu": "Лью Келли",
+                        "nameEn": "Lew Kelly",
+                        "description": "Diner Cook, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213978.jpg"
+                    },
+                    {
+                        "id": 195029,
+                        "nameRu": "Джек Ла Ру",
+                        "nameEn": "Jack La Rue",
+                        "description": "Ackerman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195029.jpg"
+                    },
+                    {
+                        "id": 216261,
+                        "nameRu": "Эдвард ЛеСэйнт",
+                        "nameEn": "Edward LeSaint",
+                        "description": "Chamber of Commerce Chairman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216261.jpg"
+                    },
+                    {
+                        "id": 215423,
+                        "nameRu": "Уолтер Лонг",
+                        "nameEn": "Walter Long",
+                        "description": "Blacksmith, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215423.jpg"
+                    },
+                    {
+                        "id": 204434,
+                        "nameRu": "Джек Лоу",
+                        "nameEn": "Jack Low",
+                        "description": "Big Prisoner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204434.jpg"
+                    },
+                    {
+                        "id": 215604,
+                        "nameRu": "Джон Марстон",
+                        "nameEn": "John Marston",
+                        "description": "Prison Commissioner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215604.jpg"
+                    },
+                    {
+                        "id": 207728,
+                        "nameRu": "Чарльз МакЭвой",
+                        "nameEn": "Charles McAvoy",
+                        "description": "Cop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207728.jpg"
+                    },
+                    {
+                        "id": 213242,
+                        "nameRu": "Эдвард МакНамара",
+                        "nameEn": "Edward McNamara",
+                        "description": "Second Warden, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213242.jpg"
+                    },
+                    {
+                        "id": 210433,
+                        "nameRu": "Чарльз Миддлтон",
+                        "nameEn": "Charles Middleton",
+                        "description": "Train Conductor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210433.jpg"
+                    },
+                    {
+                        "id": 208465,
+                        "nameRu": "Деннис О’Кифи",
+                        "nameEn": "Dennis O'Keefe",
+                        "description": "Café Chateau Dancer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208465.jpg"
+                    },
+                    {
+                        "id": 216017,
+                        "nameRu": "Уильям Поли",
+                        "nameEn": "William Pawley",
+                        "description": "Doggy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216017.jpg"
+                    },
+                    {
+                        "id": 364081,
+                        "nameRu": "Чарльз Селлон",
+                        "nameEn": "Charles Sellon",
+                        "description": "Hot Dog Stand Owner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364081.jpg"
+                    },
+                    {
+                        "id": 207734,
+                        "nameRu": "Аллен Д. Сьюэлл",
+                        "nameEn": "Allen D. Sewall",
+                        "description": "Train Station Guard, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207734.jpg"
+                    },
+                    {
+                        "id": 207167,
+                        "nameRu": "Ли Шамвэй",
+                        "nameEn": "Lee Shumway",
+                        "description": "Arresting Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207167.jpg"
+                    },
+                    {
+                        "id": 216984,
+                        "nameRu": "Уильям Х. Штраусс",
+                        "nameEn": "William H. Strauss",
+                        "description": "Pawnbroker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216984.jpg"
+                    },
+                    {
+                        "id": 218295,
+                        "nameRu": "Шила Терри",
+                        "nameEn": "Sheila Terry",
+                        "description": "Allen's Secretary, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218295.jpg"
+                    },
+                    {
+                        "id": 211931,
+                        "nameRu": "",
+                        "nameEn": "Fred «Snowflake» Toones",
+                        "description": "Marine on Ship, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211931.jpg"
+                    },
+                    {
+                        "id": 210283,
+                        "nameRu": "Джек Уайз",
+                        "nameEn": "Jack Wise",
+                        "description": "Tailor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210283.jpg"
+                    },
+                    {
+                        "id": 205339,
+                        "nameRu": "Гарри Вудс",
+                        "nameEn": "Harry Woods",
+                        "description": "Prison Guard, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205339.jpg"
+                    },
+                    {
+                        "id": 216329,
+                        "nameRu": "Джон Рэй",
+                        "nameEn": "John Wray",
+                        "description": "Nordine, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216329.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 220576,
+                        "nameRu": "Роберт Э. Барнс",
+                        "nameEn": "Robert E. Burns",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220576.jpg"
+                    },
+                    {
+                        "id": 214551,
+                        "nameRu": "Ховард Дж. Грин",
+                        "nameEn": "Howard J. Green",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214551.jpg"
+                    },
+                    {
+                        "id": 215926,
+                        "nameRu": "Браун Холмс",
+                        "nameEn": "Brown Holmes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215926.jpg"
+                    },
+                    {
+                        "id": 214740,
+                        "nameRu": "Шеридан Гибни",
+                        "nameEn": "Sheridan Gibney",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214740.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 179989,
+                        "nameRu": "Хэл Б. Уоллис",
+                        "nameEn": "Hal B. Wallis",
+                        "description": "исполнительный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_179989.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220137,
+                        "nameRu": "Сол Полито",
+                        "nameEn": "Sol Polito",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220137.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 219312,
+                        "nameRu": "Бернхард Каун",
+                        "nameEn": "Bernhard Kaun",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219312.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 220138,
+                        "nameRu": "Джек Окей",
+                        "nameEn": "Jack Okey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220138.jpg"
+                    },
+                    {
+                        "id": 1999459,
+                        "nameRu": "Орри-Келли",
+                        "nameEn": "Orry-Kelly",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1999459.jpg"
+                    },
+                    {
+                        "id": 2027918,
+                        "nameRu": "Альберт С. Уилсон",
+                        "nameEn": "Albert C. Wilson",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2027918.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2015776,
+                        "nameRu": "Уильям Холмс",
+                        "nameEn": "William Holmes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2015776.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "16+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 32 мин",
+                "description": "Ветеран Джеймс Аллен отказывается вернуться на старую фабрику и постепенно деградирует. Случайно он оказывается вовлеченным в ограбление. После этого он попадает на каторгу…",
+                "oscar": [
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 200342,
+                                "nameRu": "Пол Муни",
+                                "nameEn": "Paul Muni",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/200342.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший звук",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/8284/",
+                "webUrl": "https://www.kinopoisk.ru/film/8284/",
+                "lastSync": "2024-12-28T07:11:51.753Z"
+            },
+            {
+                "kinopoiskId": 33105,
+                "nameRu": "Нежная улыбка",
+                "nameOriginal": "Smilin' Through",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/33105.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/33105.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 5.9,
+                "ratingKinopoiskVoteCount": 202,
+                "ratingImdb": 6.9,
+                "ratingImdbVoteCount": 1605,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 206846,
+                        "nameRu": "Сидни Франклин",
+                        "nameEn": "Sidney Franklin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206846.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 115213,
+                        "nameRu": "Норма Ширер",
+                        "nameEn": "Norma Shearer",
+                        "description": "Kathleen / Moonyeen Clare",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_115213.jpg"
+                    },
+                    {
+                        "id": 180612,
+                        "nameRu": "Фредрик Марч",
+                        "nameEn": "Fredric March",
+                        "description": "Kenneth Wayne / Jeremy Wayne",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180612.jpg"
+                    },
+                    {
+                        "id": 215193,
+                        "nameRu": "Лесли Говард",
+                        "nameEn": "Leslie Howard",
+                        "description": "Sir John Carteret",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215193.jpg"
+                    },
+                    {
+                        "id": 219268,
+                        "nameRu": "О.П. Хегги",
+                        "nameEn": "O.P. Heggie",
+                        "description": "Dr. Owen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219268.jpg"
+                    },
+                    {
+                        "id": 217140,
+                        "nameRu": "Ральф Форбс",
+                        "nameEn": "Ralph Forbes",
+                        "description": "Willie Ainley",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217140.jpg"
+                    },
+                    {
+                        "id": 216959,
+                        "nameRu": "Берил Мерсер",
+                        "nameEn": "Beryl Mercer",
+                        "description": "Mrs. Crouch",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216959.jpg"
+                    },
+                    {
+                        "id": 215043,
+                        "nameRu": "Маргарет Седдон",
+                        "nameEn": "Margaret Seddon",
+                        "description": "Ellen, the Maid",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215043.jpg"
+                    },
+                    {
+                        "id": 213331,
+                        "nameRu": "Форрестер Харви",
+                        "nameEn": "Forrester Harvey",
+                        "description": "Orderly",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213331.jpg"
+                    },
+                    {
+                        "id": 219408,
+                        "nameRu": "Херберт Банстон",
+                        "nameEn": "Herbert Bunston",
+                        "description": "Minister, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219408.jpg"
+                    },
+                    {
+                        "id": 209880,
+                        "nameRu": "Джеймс Буш",
+                        "nameEn": "James Bush",
+                        "description": "Young Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209880.jpg"
+                    },
+                    {
+                        "id": 220097,
+                        "nameRu": "Мэри Карлайл",
+                        "nameEn": "Mary Carlisle",
+                        "description": "Young Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220097.jpg"
+                    },
+                    {
+                        "id": 213094,
+                        "nameRu": "Кора Сью Коллинз",
+                        "nameEn": "Cora Sue Collins",
+                        "description": "Young Kathleen, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213094.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Richard Clare, Moonyeen's Father, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 217133,
+                        "nameRu": "Дэвид Торренс",
+                        "nameEn": "David Torrence",
+                        "description": "Gardener, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217133.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 214456,
+                        "nameRu": "Джейн Коул",
+                        "nameEn": "Jane Cowl",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214456.jpg"
+                    },
+                    {
+                        "id": 213564,
+                        "nameRu": "Джейн Мерфин",
+                        "nameEn": "Jane Murfin",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213564.jpg"
+                    },
+                    {
+                        "id": 207874,
+                        "nameRu": "Эрнест Вайда",
+                        "nameEn": "Ernest Vajda",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207874.jpg"
+                    },
+                    {
+                        "id": 213789,
+                        "nameRu": "Клодин Уэст",
+                        "nameEn": "Claudine West",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213789.jpg"
+                    },
+                    {
+                        "id": 102545,
+                        "nameRu": "Доналд Огден Стюарт",
+                        "nameEn": "Donald Ogden Stewart",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102545.jpg"
+                    },
+                    {
+                        "id": 220753,
+                        "nameRu": "Джеймс Б. Фаган",
+                        "nameEn": "James B. Fagan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220753.jpg"
+                    },
+                    {
+                        "id": 23079,
+                        "nameRu": "Джон Л. Болдерстон",
+                        "nameEn": "John L. Balderston",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23079.jpg"
+                    },
+                    {
+                        "id": 172138,
+                        "nameRu": "Фрэнсис Мэрион",
+                        "nameEn": "Frances Marion",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172138.jpg"
+                    },
+                    {
+                        "id": 211143,
+                        "nameRu": "Джон Миэн",
+                        "nameEn": "John Meehan",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211143.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 192222,
+                        "nameRu": "Альберт Левин",
+                        "nameEn": "Albert Lewin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192222.jpg"
+                    },
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 216493,
+                        "nameRu": "Ли Гармс",
+                        "nameEn": "Lee Garmes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216493.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 153916,
+                        "nameRu": "Маргарет Бут",
+                        "nameEn": "Margaret Booth",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_153916.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 38 мин",
+                "description": "Джон живет один в течение 30 лет после смерти жены Клэр. Однако его близкий друг Оуэнс убеждает Джона позаботиться о своей племяннице Кэйтлин, чьи родители пропали в море. Кэтлин на тот момент всего пять лет, однако время идет, она становится молодой девушкой, которая удивительно похожа на Клэр…",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/33105/",
+                "webUrl": "https://www.kinopoisk.ru/film/33105/",
+                "lastSync": "2024-12-28T07:11:51.907Z"
+            },
+            {
+                "kinopoiskId": 8333,
+                "nameRu": "42-я улица",
+                "nameOriginal": "42nd Street",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8333.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8333.jpg",
+                "reviewsCount": 3,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 3,
+                "ratingKinopoisk": 6.7,
+                "ratingKinopoiskVoteCount": 1049,
+                "ratingImdb": 7.3,
+                "ratingImdbVoteCount": 13232,
+                "ratingFilmCritics": 7.9,
+                "ratingFilmCriticsVoteCount": 25,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 206778,
+                        "nameRu": "Ллойд Бэйкон",
+                        "nameEn": "Lloyd Bacon",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206778.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 180591,
+                        "nameRu": "Уорнер Бакстер",
+                        "nameEn": "Warner Baxter",
+                        "description": "Julian Marsh",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180591.jpg"
+                    },
+                    {
+                        "id": 220292,
+                        "nameRu": "Биби Дэниелс",
+                        "nameEn": "Bebe Daniels",
+                        "description": "Dorothy Brock",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220292.jpg"
+                    },
+                    {
+                        "id": 175587,
+                        "nameRu": "Джордж Брент",
+                        "nameEn": "George Brent",
+                        "description": "Pat Denning",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_175587.jpg"
+                    },
+                    {
+                        "id": 135531,
+                        "nameRu": "Руби Килер",
+                        "nameEn": "Ruby Keeler",
+                        "description": "Peggy Sawyer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135531.jpg"
+                    },
+                    {
+                        "id": 210506,
+                        "nameRu": "Гай Кибби",
+                        "nameEn": "Guy Kibbee",
+                        "description": "Abner Dillon",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210506.jpg"
+                    },
+                    {
+                        "id": 193468,
+                        "nameRu": "Уна Меркел",
+                        "nameEn": "Una Merkel",
+                        "description": "Lorraine Fleming",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193468.jpg"
+                    },
+                    {
+                        "id": 154905,
+                        "nameRu": "Джинджер Роджерс",
+                        "nameEn": "Ginger Rogers",
+                        "description": "Ann Lowell",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154905.jpg"
+                    },
+                    {
+                        "id": 211516,
+                        "nameRu": "Нед Спаркс",
+                        "nameEn": "Ned Sparks",
+                        "description": "Thomas Barry",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211516.jpg"
+                    },
+                    {
+                        "id": 180614,
+                        "nameRu": "Дик Пауэлл",
+                        "nameEn": "Dick Powell",
+                        "description": "Billy Lawler",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180614.jpg"
+                    },
+                    {
+                        "id": 181861,
+                        "nameRu": "Аллен Дженкинс",
+                        "nameEn": "Allen Jenkins",
+                        "description": "Mac Elroy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181861.jpg"
+                    },
+                    {
+                        "id": 218618,
+                        "nameRu": "Эдвард Дж. Наджент",
+                        "nameEn": "Edward J. Nugent",
+                        "description": "Terry",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218618.jpg"
+                    },
+                    {
+                        "id": 217413,
+                        "nameRu": "Роберт МакУэйд",
+                        "nameEn": "Robert McWade",
+                        "description": "Jones",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217413.jpg"
+                    },
+                    {
+                        "id": 198237,
+                        "nameRu": "Джордж Э. Стоун",
+                        "nameEn": "George E. Stone",
+                        "description": "Andy Lee",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198237.jpg"
+                    },
+                    {
+                        "id": 220293,
+                        "nameRu": "Гарри Экст",
+                        "nameEn": "Harry Akst",
+                        "description": "Jerry, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220293.jpg"
+                    },
+                    {
+                        "id": 7081224,
+                        "nameRu": "",
+                        "nameEn": "Virginia Albertson",
+                        "description": "Chorus Girl, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7081224.jpg"
+                    },
+                    {
+                        "id": 220294,
+                        "nameRu": "Лоретта Эндрюс",
+                        "nameEn": "Loretta Andrews",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220294.jpg"
+                    },
+                    {
+                        "id": 218158,
+                        "nameRu": "Мари Арбакль",
+                        "nameEn": "Marie Arbuckle",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218158.jpg"
+                    },
+                    {
+                        "id": 3725361,
+                        "nameRu": "Элис Арнольд",
+                        "nameEn": "Alice Arnold",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3725361.jpg"
+                    },
+                    {
+                        "id": 215208,
+                        "nameRu": "Джоан Барклай",
+                        "nameEn": "Joan Barclay",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215208.jpg"
+                    },
+                    {
+                        "id": 220023,
+                        "nameRu": "Мюриэль Баррет",
+                        "nameEn": "Muriel Barrett",
+                        "description": "Chorus girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220023.jpg"
+                    },
+                    {
+                        "id": 220552,
+                        "nameRu": "Бетти Бассетт",
+                        "nameEn": "Betty Bassett",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220552.jpg"
+                    },
+                    {
+                        "id": 199567,
+                        "nameRu": "Луиз Биверс",
+                        "nameEn": "Louise Beavers",
+                        "description": "Pansy - Dorothy's Maid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199567.jpg"
+                    },
+                    {
+                        "id": 220052,
+                        "nameRu": "",
+                        "nameEn": "Audrene Brier",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220052.jpg"
+                    },
+                    {
+                        "id": 349124,
+                        "nameRu": "",
+                        "nameEn": "Tex Brodus",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_349124.jpg"
+                    },
+                    {
+                        "id": 220295,
+                        "nameRu": "Линн Браунинг",
+                        "nameEn": "Lynn Browning",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220295.jpg"
+                    },
+                    {
+                        "id": 220296,
+                        "nameRu": "Эдна Каллахэн",
+                        "nameEn": "Edna Callahan",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220296.jpg"
+                    },
+                    {
+                        "id": 220297,
+                        "nameRu": "",
+                        "nameEn": "Maxine Cantway",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220297.jpg"
+                    },
+                    {
+                        "id": 215808,
+                        "nameRu": "Маргарет Кэртхью",
+                        "nameEn": "Margaret Carthew",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215808.jpg"
+                    },
+                    {
+                        "id": 5391715,
+                        "nameRu": "",
+                        "nameEn": "Azelie Cecil",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5391715.jpg"
+                    },
+                    {
+                        "id": 209235,
+                        "nameRu": "Уоллис Кларк",
+                        "nameEn": "Wallis Clark",
+                        "description": "Dr. Chadwick, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209235.jpg"
+                    },
+                    {
+                        "id": 91628,
+                        "nameRu": "Дороти Кунан Веллман",
+                        "nameEn": "Dorothy Coonan Wellman",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_91628.jpg"
+                    },
+                    {
+                        "id": 220553,
+                        "nameRu": "Хэйзел Крэвен",
+                        "nameEn": "Hazel Craven",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220553.jpg"
+                    },
+                    {
+                        "id": 1488649,
+                        "nameRu": "Сью Кертис",
+                        "nameEn": "Sue Curtis",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1488649.jpg"
+                    },
+                    {
+                        "id": 218081,
+                        "nameRu": "Вирджиния Дэбни",
+                        "nameEn": "Virginia Dabney",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218081.jpg"
+                    },
+                    {
+                        "id": 7081225,
+                        "nameRu": "",
+                        "nameEn": "Mary Daly",
+                        "description": "Chorus Girl, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7081225.jpg"
+                    },
+                    {
+                        "id": 923534,
+                        "nameRu": "Пэтси Дэйли",
+                        "nameEn": "Patsy Daly",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_923534.jpg"
+                    },
+                    {
+                        "id": 6911360,
+                        "nameRu": "",
+                        "nameEn": "Irma Dane",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6911360.jpg"
+                    },
+                    {
+                        "id": 4660149,
+                        "nameRu": "",
+                        "nameEn": "Dallas Dexter",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4660149.jpg"
+                    },
+                    {
+                        "id": 364592,
+                        "nameRu": "Джоан Дикс",
+                        "nameEn": "Joan Dix",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364592.jpg"
+                    },
+                    {
+                        "id": 364626,
+                        "nameRu": "Милдред Диксон",
+                        "nameEn": "Mildred Dixon",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364626.jpg"
+                    },
+                    {
+                        "id": 219310,
+                        "nameRu": "Аль Дубин",
+                        "nameEn": "Al Dubin",
+                        "description": "Stout Songwriter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219310.jpg"
+                    },
+                    {
+                        "id": 220152,
+                        "nameRu": "Рут Эддингс",
+                        "nameEn": "Ruth Eddings",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220152.jpg"
+                    },
+                    {
+                        "id": 220298,
+                        "nameRu": "Патриция Эллис",
+                        "nameEn": "Patricia Ellis",
+                        "description": "Secretary, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220298.jpg"
+                    },
+                    {
+                        "id": 204344,
+                        "nameRu": "Кэй Инглиш",
+                        "nameEn": "Kay English",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204344.jpg"
+                    },
+                    {
+                        "id": 365915,
+                        "nameRu": "Эстелла Эссекс",
+                        "nameEn": "Estella Essex",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365915.jpg"
+                    },
+                    {
+                        "id": 220300,
+                        "nameRu": "Пэтси Фарнум",
+                        "nameEn": "Patsy Farnum",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220300.jpg"
+                    },
+                    {
+                        "id": 220154,
+                        "nameRu": "Глория Фэйт",
+                        "nameEn": "Gloria Faythe",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220154.jpg"
+                    },
+                    {
+                        "id": 195325,
+                        "nameRu": "Бесс Флауэрс",
+                        "nameEn": "Bess Flowers",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195325.jpg"
+                    },
+                    {
+                        "id": 923353,
+                        "nameRu": "Дикси Френсис",
+                        "nameEn": "Dixie Francis",
+                        "description": "Extra on Stage, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_923353.jpg"
+                    },
+                    {
+                        "id": 214105,
+                        "nameRu": "Шуга Гейс",
+                        "nameEn": "Sugar Geise",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214105.jpg"
+                    },
+                    {
+                        "id": 364014,
+                        "nameRu": "Вирджиния Джордж",
+                        "nameEn": "Virginia George",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364014.jpg"
+                    },
+                    {
+                        "id": 203102,
+                        "nameRu": "Джун Глори",
+                        "nameEn": "June Glory",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203102.jpg"
+                    },
+                    {
+                        "id": 2393088,
+                        "nameRu": "",
+                        "nameEn": "Bernice Graves",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2393088.jpg"
+                    },
+                    {
+                        "id": 212668,
+                        "nameRu": "Харриэтт Хэддон",
+                        "nameEn": "Harriette Haddon",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212668.jpg"
+                    },
+                    {
+                        "id": 7018051,
+                        "nameRu": "",
+                        "nameEn": "Beatrice Hagen",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7018051.jpg"
+                    },
+                    {
+                        "id": 364622,
+                        "nameRu": "Сэлли Хайнс",
+                        "nameEn": "Sally Haines",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364622.jpg"
+                    },
+                    {
+                        "id": 358185,
+                        "nameRu": "Мэри Халсли",
+                        "nameEn": "Mary Halsey",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358185.jpg"
+                    },
+                    {
+                        "id": 210178,
+                        "nameRu": "Тереза Харрис",
+                        "nameEn": "Theresa Harris",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210178.jpg"
+                    },
+                    {
+                        "id": 189473,
+                        "nameRu": "Шеп Хотон",
+                        "nameEn": "Shep Houghton",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189473.jpg"
+                    },
+                    {
+                        "id": 220301,
+                        "nameRu": "Энн Хови",
+                        "nameEn": "Ann Hovey",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220301.jpg"
+                    },
+                    {
+                        "id": 211520,
+                        "nameRu": "Джордж Ирвинг",
+                        "nameEn": "George Irving",
+                        "description": "House Doctor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211520.jpg"
+                    },
+                    {
+                        "id": 220385,
+                        "nameRu": "Пичес Джексон",
+                        "nameEn": "Peaches Jackson",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220385.jpg"
+                    },
+                    {
+                        "id": 220302,
+                        "nameRu": "Элис Янс",
+                        "nameEn": "Alice Jans",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220302.jpg"
+                    },
+                    {
+                        "id": 6686191,
+                        "nameRu": "",
+                        "nameEn": "Ruth Jennings",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6686191.jpg"
+                    },
+                    {
+                        "id": 220303,
+                        "nameRu": "Эвелин Джойс",
+                        "nameEn": "Evelyn Joice",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220303.jpg"
+                    },
+                    {
+                        "id": 219897,
+                        "nameRu": "Гертруда Килер",
+                        "nameEn": "Gertrude Keeler",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219897.jpg"
+                    },
+                    {
+                        "id": 220304,
+                        "nameRu": "Хелен Килер",
+                        "nameEn": "Helen Keeler",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220304.jpg"
+                    },
+                    {
+                        "id": 194702,
+                        "nameRu": "Том Кеннеди",
+                        "nameEn": "Tom Kennedy",
+                        "description": "Slim Murphy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194702.jpg"
+                    },
+                    {
+                        "id": 207489,
+                        "nameRu": "Милтон Кибби",
+                        "nameEn": "Milton Kibbee",
+                        "description": "News Spreader, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207489.jpg"
+                    },
+                    {
+                        "id": 220306,
+                        "nameRu": "Маргарет Ла Марр",
+                        "nameEn": "Margaret La Marr",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220306.jpg"
+                    },
+                    {
+                        "id": 195029,
+                        "nameRu": "Джек Ла Ру",
+                        "nameEn": "Jack La Rue",
+                        "description": "Mug with Murphy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195029.jpg"
+                    },
+                    {
+                        "id": 220305,
+                        "nameRu": "Аделе Лэси",
+                        "nameEn": "Adele Lacy",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220305.jpg"
+                    },
+                    {
+                        "id": 146771,
+                        "nameRu": "Чарльз Лэйн",
+                        "nameEn": "Charles Lane",
+                        "description": "Author of «Pretty Lady», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_146771.jpg"
+                    },
+                    {
+                        "id": 7081226,
+                        "nameRu": "",
+                        "nameEn": "Rose Lane",
+                        "description": "Chorus Girl, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7081226.jpg"
+                    },
+                    {
+                        "id": 220307,
+                        "nameRu": "Лорена Лейсон",
+                        "nameEn": "Lorena Layson",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220307.jpg"
+                    },
+                    {
+                        "id": 218732,
+                        "nameRu": "Пэтси Ли",
+                        "nameEn": "Patsy Lee",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218732.jpg"
+                    },
+                    {
+                        "id": 220557,
+                        "nameRu": "Нэнси Линн",
+                        "nameEn": "Nancy Lyon",
+                        "description": "Chorus girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220557.jpg"
+                    },
+                    {
+                        "id": 220308,
+                        "nameRu": "Ив Марси",
+                        "nameEn": "Eve Marcy",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220308.jpg"
+                    },
+                    {
+                        "id": 197810,
+                        "nameRu": "Кермит Мэйнард",
+                        "nameEn": "Kermit Maynard",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197810.jpg"
+                    },
+                    {
+                        "id": 220069,
+                        "nameRu": "Лаура Морс",
+                        "nameEn": "Laura Morse",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220069.jpg"
+                    },
+                    {
+                        "id": 220559,
+                        "nameRu": "Нэнси Нэш",
+                        "nameEn": "Nancy Nash",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220559.jpg"
+                    },
+                    {
+                        "id": 211531,
+                        "nameRu": "Кларенс Нордстром",
+                        "nameEn": "Clarence Nordstrom",
+                        "description": "Groom in «Shuffle Off to Buffalo» Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211531.jpg"
+                    },
+                    {
+                        "id": 194999,
+                        "nameRu": "Дэйв О’Брайэн",
+                        "nameEn": "Dave O'Brien",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194999.jpg"
+                    },
+                    {
+                        "id": 6744519,
+                        "nameRu": "",
+                        "nameEn": "Dorothy O'Connell",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6744519.jpg"
+                    },
+                    {
+                        "id": 208465,
+                        "nameRu": "Деннис О’Кифи",
+                        "nameEn": "Dennis O'Keefe",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208465.jpg"
+                    },
+                    {
+                        "id": 214585,
+                        "nameRu": "Нита Пайк",
+                        "nameEn": "Nita Pike",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214585.jpg"
+                    },
+                    {
+                        "id": 1488639,
+                        "nameRu": "Сью Рейни",
+                        "nameEn": "Sue Rainey",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1488639.jpg"
+                    },
+                    {
+                        "id": 7081227,
+                        "nameRu": "",
+                        "nameEn": "Sandra Rambeau",
+                        "description": "Chorus Girl, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7081227.jpg"
+                    },
+                    {
+                        "id": 220309,
+                        "nameRu": "Аньес Рэй",
+                        "nameEn": "Agnes Ray",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220309.jpg"
+                    },
+                    {
+                        "id": 367517,
+                        "nameRu": "",
+                        "nameEn": "Betty Recklaw",
+                        "description": "Chorus, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367517.jpg"
+                    },
+                    {
+                        "id": 220299,
+                        "nameRu": "Рени Эванс",
+                        "nameEn": "Renee Evans",
+                        "description": "Extra on Stage, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220299.jpg"
+                    },
+                    {
+                        "id": 219231,
+                        "nameRu": "Донна Мэй Робертс",
+                        "nameEn": "Donna Mae Roberts",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219231.jpg"
+                    },
+                    {
+                        "id": 216289,
+                        "nameRu": "Клер Рошелль",
+                        "nameEn": "Claire Rochelle",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216289.jpg"
+                    },
+                    {
+                        "id": 220310,
+                        "nameRu": "Барбара Роджерс",
+                        "nameEn": "Barbara Rogers",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220310.jpg"
+                    },
+                    {
+                        "id": 213981,
+                        "nameRu": "Клифф Сом",
+                        "nameEn": "Cliff Saum",
+                        "description": "Dimmer Board Operator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213981.jpg"
+                    },
+                    {
+                        "id": 3274798,
+                        "nameRu": "Денис Сойер",
+                        "nameEn": "Denise Sawyer",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3274798.jpg"
+                    },
+                    {
+                        "id": 171686,
+                        "nameRu": "Рольф Седан",
+                        "nameEn": "Rolfe Sedan",
+                        "description": "Extra on Stage, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_171686.jpg"
+                    },
+                    {
+                        "id": 200089,
+                        "nameRu": "Гарри Сеймур",
+                        "nameEn": "Harry Seymour",
+                        "description": "Aide, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200089.jpg"
+                    },
+                    {
+                        "id": 220311,
+                        "nameRu": "",
+                        "nameEn": "Jayne Shadduck",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220311.jpg"
+                    },
+                    {
+                        "id": 1483968,
+                        "nameRu": "",
+                        "nameEn": "The Sizzlers",
+                        "description": "Singing Policemen, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1483968.jpg"
+                    },
+                    {
+                        "id": 220461,
+                        "nameRu": "Би Стивенс",
+                        "nameEn": "Bee Stephens",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220461.jpg"
+                    },
+                    {
+                        "id": 218757,
+                        "nameRu": "Элис Стомбс",
+                        "nameEn": "Alice Stombs",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218757.jpg"
+                    },
+                    {
+                        "id": 199699,
+                        "nameRu": "Лайл Талбот",
+                        "nameEn": "Lyle Talbot",
+                        "description": "Geoffrey Warning, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199699.jpg"
+                    },
+                    {
+                        "id": 367732,
+                        "nameRu": "Вирджиния Томас",
+                        "nameEn": "Virginia Thomas",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367732.jpg"
+                    },
+                    {
+                        "id": 220312,
+                        "nameRu": "Грэйс Тобин",
+                        "nameEn": "Grace Tobin",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220312.jpg"
+                    },
+                    {
+                        "id": 1483969,
+                        "nameRu": "",
+                        "nameEn": "The Village Barn Hill Billies",
+                        "description": "The Village Barn Hill Billies, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1483969.jpg"
+                    },
+                    {
+                        "id": 219343,
+                        "nameRu": "Элис Даль",
+                        "nameEn": "Alice Dahl",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219343.jpg"
+                    },
+                    {
+                        "id": 218691,
+                        "nameRu": "Генри Б. Уолтхолл",
+                        "nameEn": "Henry B. Walthall",
+                        "description": "Concerned Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218691.jpg"
+                    },
+                    {
+                        "id": 219311,
+                        "nameRu": "Гарри Уоррен",
+                        "nameEn": "Harry Warren",
+                        "description": "Short Songwriter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219311.jpg"
+                    },
+                    {
+                        "id": 216357,
+                        "nameRu": "Дороти Уайт",
+                        "nameEn": "Dorothy White",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216357.jpg"
+                    },
+                    {
+                        "id": 218850,
+                        "nameRu": "Рени Уитни",
+                        "nameEn": "Renee Whitney",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218850.jpg"
+                    },
+                    {
+                        "id": 7081228,
+                        "nameRu": "",
+                        "nameEn": "Emily Williams",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7081228.jpg"
+                    },
+                    {
+                        "id": 220313,
+                        "nameRu": "Пэт Уинг",
+                        "nameEn": "Pat Wing",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220313.jpg"
+                    },
+                    {
+                        "id": 217531,
+                        "nameRu": "Тоби Уинг",
+                        "nameEn": "Toby Wing",
+                        "description": "Blonde in «Young and Healthy» Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217531.jpg"
+                    },
+                    {
+                        "id": 7070625,
+                        "nameRu": "",
+                        "nameEn": "Evelyn Wise",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7070625.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 195469,
+                        "nameRu": "Райан Джеймс",
+                        "nameEn": "Rian James",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195469.jpg"
+                    },
+                    {
+                        "id": 186628,
+                        "nameRu": "Джеймс Сеймур",
+                        "nameEn": "James Seymour",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_186628.jpg"
+                    },
+                    {
+                        "id": 213995,
+                        "nameRu": "",
+                        "nameEn": "Bradford Ropes",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213995.jpg"
+                    },
+                    {
+                        "id": 220291,
+                        "nameRu": "Уитни Болтон",
+                        "nameEn": "Whitney Bolton",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220291.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 194434,
+                        "nameRu": "Дэррил Ф. Занук",
+                        "nameEn": "Darryl F. Zanuck",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194434.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220137,
+                        "nameRu": "Сол Полито",
+                        "nameEn": "Sol Polito",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220137.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 220138,
+                        "nameRu": "Джек Окей",
+                        "nameEn": "Jack Okey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220138.jpg"
+                    },
+                    {
+                        "id": 1999459,
+                        "nameRu": "Орри-Келли",
+                        "nameEn": "Orry-Kelly",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1999459.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2012027,
+                        "nameRu": "Томас Прэтт",
+                        "nameEn": "Thomas Pratt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2012027.jpg"
+                    },
+                    {
+                        "id": 2019014,
+                        "nameRu": "Фрэнк Уэр",
+                        "nameEn": "Frank Ware",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2019014.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 29 мин",
+                "description": "В фильме показаны пять напряженных недель из жизни труппы. Изнурительная работа, любовь, музыка, танцы день и ночь. Так рождается мюзикл, которому суждено с успехом идти на театральных подмостках многие годы.",
+                "oscar": [
+                    {
+                        "name": "Лучший звук",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/8333/",
+                "webUrl": "https://www.kinopoisk.ru/film/8333/",
+                "lastSync": "2024-12-28T07:11:52.081Z"
+            },
+            {
+                "kinopoiskId": 10793,
+                "nameRu": "Леди на один день",
+                "nameOriginal": "Lady for a Day",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/10793.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/10793.jpg",
+                "reviewsCount": 3,
+                "ratingGoodReview": 83,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 6.8,
+                "ratingKinopoiskVoteCount": 792,
+                "ratingImdb": 7.4,
+                "ratingImdbVoteCount": 4760,
+                "ratingFilmCritics": 7.6,
+                "ratingFilmCriticsVoteCount": 13,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 154897,
+                        "nameRu": "Фрэнк Капра",
+                        "nameEn": "Frank Capra",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154897.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 211727,
+                        "nameRu": "Уоррен Уильям",
+                        "nameEn": "Warren William",
+                        "description": "Dave the Dude",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211727.jpg"
+                    },
+                    {
+                        "id": 216255,
+                        "nameRu": "Мэй Робсон",
+                        "nameEn": "May Robson",
+                        "description": "Apple Annie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216255.jpg"
+                    },
+                    {
+                        "id": 210506,
+                        "nameRu": "Гай Кибби",
+                        "nameEn": "Guy Kibbee",
+                        "description": "Judge Blake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210506.jpg"
+                    },
+                    {
+                        "id": 195537,
+                        "nameRu": "Гленда Фаррелл",
+                        "nameEn": "Glenda Farrell",
+                        "description": "Missouri Martin",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195537.jpg"
+                    },
+                    {
+                        "id": 211516,
+                        "nameRu": "Нед Спаркс",
+                        "nameEn": "Ned Sparks",
+                        "description": "Happy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211516.jpg"
+                    },
+                    {
+                        "id": 217193,
+                        "nameRu": "Уолтер Коннолли",
+                        "nameEn": "Walter Connolly",
+                        "description": "Count Romero",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217193.jpg"
+                    },
+                    {
+                        "id": 192867,
+                        "nameRu": "Джин Паркер",
+                        "nameEn": "Jean Parker",
+                        "description": "Louise",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192867.jpg"
+                    },
+                    {
+                        "id": 194992,
+                        "nameRu": "Нат Пендлтон",
+                        "nameEn": "Nat Pendleton",
+                        "description": "Shakespeare",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194992.jpg"
+                    },
+                    {
+                        "id": 203491,
+                        "nameRu": "Бэрри Нортон",
+                        "nameEn": "Barry Norton",
+                        "description": "Carlos",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203491.jpg"
+                    },
+                    {
+                        "id": 209813,
+                        "nameRu": "Хэллиуэлл Хоббс",
+                        "nameEn": "Halliwell Hobbes",
+                        "description": "Butler",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209813.jpg"
+                    },
+                    {
+                        "id": 214993,
+                        "nameRu": "Хобарт Босворт",
+                        "nameEn": "Hobart Bosworth",
+                        "description": "Governor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214993.jpg"
+                    },
+                    {
+                        "id": 208980,
+                        "nameRu": "Роберт Эмметт О’Коннор",
+                        "nameEn": "Robert Emmett O'Connor",
+                        "description": "Inspector",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208980.jpg"
+                    },
+                    {
+                        "id": 211569,
+                        "nameRu": "Эрни Адамс",
+                        "nameEn": "Ernie Adams",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211569.jpg"
+                    },
+                    {
+                        "id": 205753,
+                        "nameRu": "Ирвинг Бэйкон",
+                        "nameEn": "Irving Bacon",
+                        "description": "Pool Hall Dupe, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205753.jpg"
+                    },
+                    {
+                        "id": 200111,
+                        "nameRu": "Уорд Бонд",
+                        "nameEn": "Ward Bond",
+                        "description": "Mounted Policeman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200111.jpg"
+                    },
+                    {
+                        "id": 217120,
+                        "nameRu": "Джо Бордо",
+                        "nameEn": "Joe Bordeaux",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217120.jpg"
+                    },
+                    {
+                        "id": 213488,
+                        "nameRu": "Гарри Брэдли",
+                        "nameEn": "Harry C. Bradley",
+                        "description": "Lloyd - Hotel Mail Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213488.jpg"
+                    },
+                    {
+                        "id": 216997,
+                        "nameRu": "Рэймонд Браун",
+                        "nameEn": "Raymond Brown",
+                        "description": "Seated Man in Mayor's Office, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216997.jpg"
+                    },
+                    {
+                        "id": 218429,
+                        "nameRu": "Чарльз А. Браун",
+                        "nameEn": "Charles A. Browne",
+                        "description": "Society Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218429.jpg"
+                    },
+                    {
+                        "id": 209235,
+                        "nameRu": "Уоллис Кларк",
+                        "nameEn": "Wallis Clark",
+                        "description": "Commissioner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209235.jpg"
+                    },
+                    {
+                        "id": 217518,
+                        "nameRu": "Джордж Купер",
+                        "nameEn": "George Cooper",
+                        "description": "Cheesecake, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217518.jpg"
+                    },
+                    {
+                        "id": 210794,
+                        "nameRu": "Сидни Д’Элбрук",
+                        "nameEn": "Sidney D'Albrook",
+                        "description": "Louis the Lug - Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210794.jpg"
+                    },
+                    {
+                        "id": 207721,
+                        "nameRu": "Джей Итон",
+                        "nameEn": "Jay Eaton",
+                        "description": "Hotel Desk Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207721.jpg"
+                    },
+                    {
+                        "id": 215546,
+                        "nameRu": "Фрэнк Фаннинг",
+                        "nameEn": "Frank Fanning",
+                        "description": "Plainclothesman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215546.jpg"
+                    },
+                    {
+                        "id": 214524,
+                        "nameRu": "Джулия Гриффит",
+                        "nameEn": "Julia Griffith",
+                        "description": "Dowager in Mayor's Entourage, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214524.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Ship News Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 206912,
+                        "nameRu": "Чак Хэмилтон",
+                        "nameEn": "Chuck Hamilton",
+                        "description": "Detective, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206912.jpg"
+                    },
+                    {
+                        "id": 213331,
+                        "nameRu": "Форрестер Харви",
+                        "nameEn": "Forrester Harvey",
+                        "description": "Oscar - Hotel Employee with Letter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213331.jpg"
+                    },
+                    {
+                        "id": 210078,
+                        "nameRu": "Сэмюэл С. Хайндс",
+                        "nameEn": "Samuel S. Hinds",
+                        "description": "Mayor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210078.jpg"
+                    },
+                    {
+                        "id": 363800,
+                        "nameRu": "Фрэнк Холлидэй",
+                        "nameEn": "Frank Holliday",
+                        "description": "Second Detective, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363800.jpg"
+                    },
+                    {
+                        "id": 207304,
+                        "nameRu": "Тайни Джонс",
+                        "nameEn": "Tiny Jones",
+                        "description": "Flower Peddler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207304.jpg"
+                    },
+                    {
+                        "id": 213978,
+                        "nameRu": "Лью Келли",
+                        "nameEn": "Lew Kelly",
+                        "description": "Harry the Horse - Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213978.jpg"
+                    },
+                    {
+                        "id": 207489,
+                        "nameRu": "Милтон Кибби",
+                        "nameEn": "Milton Kibbee",
+                        "description": "Man in Mayor's Office, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207489.jpg"
+                    },
+                    {
+                        "id": 208252,
+                        "nameRu": "Боб Кортман",
+                        "nameEn": "Bob Kortman",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208252.jpg"
+                    },
+                    {
+                        "id": 23669,
+                        "nameRu": "Марк Лоуренс",
+                        "nameEn": "Marc Lawrence",
+                        "description": "Nick - Mug at Reception, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23669.jpg"
+                    },
+                    {
+                        "id": 216261,
+                        "nameRu": "Эдвард ЛеСэйнт",
+                        "nameEn": "Edward LeSaint",
+                        "description": "Police Capt. Moore, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216261.jpg"
+                    },
+                    {
+                        "id": 198677,
+                        "nameRu": "Том Лондон",
+                        "nameEn": "Tom London",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198677.jpg"
+                    },
+                    {
+                        "id": 207728,
+                        "nameRu": "Чарльз МакЭвой",
+                        "nameEn": "Charles McAvoy",
+                        "description": "Detective, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207728.jpg"
+                    },
+                    {
+                        "id": 220332,
+                        "nameRu": "Дад Миллс",
+                        "nameEn": "Dad Mills",
+                        "description": "Blind Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220332.jpg"
+                    },
+                    {
+                        "id": 217819,
+                        "nameRu": "Мики Морита",
+                        "nameEn": "Miki Morita",
+                        "description": "Dave the Dude's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217819.jpg"
+                    },
+                    {
+                        "id": 211384,
+                        "nameRu": "Джон Нортпол",
+                        "nameEn": "John Northpole",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211384.jpg"
+                    },
+                    {
+                        "id": 215791,
+                        "nameRu": "Кай Робинсон",
+                        "nameEn": "Ky Robinson",
+                        "description": "First Detective, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215791.jpg"
+                    },
+                    {
+                        "id": 198236,
+                        "nameRu": "Уилльям Ф. Солс",
+                        "nameEn": "William F. Sauls",
+                        "description": "Legless Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198236.jpg"
+                    },
+                    {
+                        "id": 212558,
+                        "nameRu": "Гарри Симельс",
+                        "nameEn": "Harry Semels",
+                        "description": "The Greek - «Fly on Sugar» Winner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212558.jpg"
+                    },
+                    {
+                        "id": 587112,
+                        "nameRu": "Шорти",
+                        "nameEn": "Shorty",
+                        "description": "Legless Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_587112.jpg"
+                    },
+                    {
+                        "id": 201204,
+                        "nameRu": "Чарльз Салливан",
+                        "nameEn": "Charles Sullivan",
+                        "description": "Butch - Mug at Reception, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201204.jpg"
+                    },
+                    {
+                        "id": 215561,
+                        "nameRu": "Эмма Тэнси",
+                        "nameEn": "Emma Tansey",
+                        "description": "Annie's Upstairs Neighbor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215561.jpg"
+                    },
+                    {
+                        "id": 200553,
+                        "nameRu": "Гарри Тенбрук",
+                        "nameEn": "Harry Tenbrook",
+                        "description": "Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200553.jpg"
+                    },
+                    {
+                        "id": 209734,
+                        "nameRu": "Лео Уайт",
+                        "nameEn": "Leo White",
+                        "description": "Pierre, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209734.jpg"
+                    },
+                    {
+                        "id": 197211,
+                        "nameRu": "Блэкки Уайтфорд",
+                        "nameEn": "Blackie Whiteford",
+                        "description": "Mex - Reception Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197211.jpg"
+                    },
+                    {
+                        "id": 219872,
+                        "nameRu": "Флоренция Уикс",
+                        "nameEn": "Florence Wix",
+                        "description": "Nightclub Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219872.jpg"
+                    },
+                    {
+                        "id": 215721,
+                        "nameRu": "Уильям Вортингтон",
+                        "nameEn": "William Worthington",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215721.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 39060,
+                        "nameRu": "Роберт Рискин",
+                        "nameEn": "Robert Riskin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_39060.jpg"
+                    },
+                    {
+                        "id": 136097,
+                        "nameRu": "Дэймон Раньон",
+                        "nameEn": "Damon Runyon",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_136097.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 211492,
+                        "nameRu": "Гарри Кон",
+                        "nameEn": "Harry Cohn",
+                        "description": "исполнительный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211492.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 356354,
+                        "nameRu": "Джозеф Уолкер",
+                        "nameEn": "Joseph Walker",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356354.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 360507,
+                        "nameRu": "Ховард Джексон",
+                        "nameEn": "Howard Jackson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360507.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2000479,
+                        "nameRu": "Стивен Гуссон",
+                        "nameEn": "Stephen Goosson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2000479.jpg"
+                    },
+                    {
+                        "id": 2000480,
+                        "nameRu": "Роберт Каллох",
+                        "nameEn": "Robert Kalloch",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2000480.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2000478,
+                        "nameRu": "Джин Хавлик",
+                        "nameEn": "Gene Havlick",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2000478.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 36 мин",
+                "description": "В канун Рождества Энни, бывшая аристократка, а ныне уличная торговка яблоками, получает известие из Европы о приезде дочери Луизы с женихом Карлосом и отцом жениха - графом Ромеро, помешанном на титулах и богатстве.\n\nЕстественно, они и не подозревают, в каком положении находится Энни. Дочь не видела свою мать двенадцать лет, а «богатая американка», в своих письмах лгала дочурке, что живет в достатке и роскоши. Друзья Энни, бедняки и уличные попрошайки, приходят ей на помощь: они разыгрывают перед графом и его сыном забавный и трогательный спектакль, в котором Энни становится «леди на один день». ",
+                "oscar": [
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 39060,
+                                "nameRu": "Роберт Рискин",
+                                "nameEn": "Robert Riskin",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/39060.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 216255,
+                                "nameRu": "Мэй Робсон",
+                                "nameEn": "May Robson",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/216255.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший режиссер",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 154897,
+                                "nameRu": "Фрэнк Капра",
+                                "nameEn": "Frank Capra",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/154897.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/10793/",
+                "webUrl": "https://www.kinopoisk.ru/film/10793/",
+                "lastSync": "2024-12-28T07:12:07.760Z"
+            },
+            {
+                "kinopoiskId": 15591,
+                "nameRu": "Маленькие женщины",
+                "nameOriginal": "Little Women",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15591.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15591.jpg",
+                "reviewsCount": 7,
+                "ratingGoodReview": 92,
+                "ratingGoodReviewVoteCount": 5,
+                "ratingKinopoisk": 7,
+                "ratingKinopoiskVoteCount": 1113,
+                "ratingImdb": 7.2,
+                "ratingImdbVoteCount": 8075,
+                "ratingFilmCritics": 8.4,
+                "ratingFilmCriticsVoteCount": 19,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "военный"
+                    },
+                    {
+                        "genre": "семейный"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 167171,
+                        "nameRu": "Джордж Кьюкор",
+                        "nameEn": "George Cukor",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_167171.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 102546,
+                        "nameRu": "Кэтрин Хепберн",
+                        "nameEn": "Katharine Hepburn",
+                        "description": "Jo March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102546.jpg"
+                    },
+                    {
+                        "id": 177573,
+                        "nameRu": "Джоан Беннетт",
+                        "nameEn": "Joan Bennett",
+                        "description": "Amy March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_177573.jpg"
+                    },
+                    {
+                        "id": 905639,
+                        "nameRu": "Пол Лукас",
+                        "nameEn": "Paul Lukas",
+                        "description": "Professor Bhaer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_905639.jpg"
+                    },
+                    {
+                        "id": 216011,
+                        "nameRu": "Эдна Мэй Оливер",
+                        "nameEn": "Edna May Oliver",
+                        "description": "Aunt March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216011.jpg"
+                    },
+                    {
+                        "id": 192867,
+                        "nameRu": "Джин Паркер",
+                        "nameEn": "Jean Parker",
+                        "description": "Beth March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192867.jpg"
+                    },
+                    {
+                        "id": 211115,
+                        "nameRu": "Фрэнсис Ди",
+                        "nameEn": "Frances Dee",
+                        "description": "Meg March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211115.jpg"
+                    },
+                    {
+                        "id": 210365,
+                        "nameRu": "Генри Стивенсон",
+                        "nameEn": "Henry Stephenson",
+                        "description": "Mr. Laurence",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210365.jpg"
+                    },
+                    {
+                        "id": 218428,
+                        "nameRu": "Дугласс Монтгомери",
+                        "nameEn": "Douglass Montgomery",
+                        "description": "Laurie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218428.jpg"
+                    },
+                    {
+                        "id": 191982,
+                        "nameRu": "Джон Лодж",
+                        "nameEn": "John Lodge",
+                        "description": "Brooke (в титрах: John Davis Lodge)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_191982.jpg"
+                    },
+                    {
+                        "id": 199839,
+                        "nameRu": "Спринг Байинтон",
+                        "nameEn": "Spring Byington",
+                        "description": "Marmee March",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199839.jpg"
+                    },
+                    {
+                        "id": 210078,
+                        "nameRu": "Сэмюэл С. Хайндс",
+                        "nameEn": "Samuel S. Hinds",
+                        "description": "Mr. March (в титрах: Samuel Hinds)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210078.jpg"
+                    },
+                    {
+                        "id": 210793,
+                        "nameRu": "Мэйбл Колкорд",
+                        "nameEn": "Mabel Colcord",
+                        "description": "Hannah",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210793.jpg"
+                    },
+                    {
+                        "id": 217326,
+                        "nameRu": "Мэрион Балу",
+                        "nameEn": "Marion Ballou",
+                        "description": "Mrs. Kirke",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217326.jpg"
+                    },
+                    {
+                        "id": 190151,
+                        "nameRu": "Нидия Вестман",
+                        "nameEn": "Nydia Westman",
+                        "description": "Mamie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_190151.jpg"
+                    },
+                    {
+                        "id": 218051,
+                        "nameRu": "Гарри Бересфорд",
+                        "nameEn": "Harry Beresford",
+                        "description": "Doctor Bangs",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218051.jpg"
+                    },
+                    {
+                        "id": 415382,
+                        "nameRu": "Нина Борже",
+                        "nameEn": "Nina Borget",
+                        "description": "Housekeeper, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_415382.jpg"
+                    },
+                    {
+                        "id": 220609,
+                        "nameRu": "Франческа Браджиотти",
+                        "nameEn": "Francesca Braggiotti",
+                        "description": "Dance Teacher, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220609.jpg"
+                    },
+                    {
+                        "id": 216782,
+                        "nameRu": "Люк Косгрейв",
+                        "nameEn": "Luke Cosgrave",
+                        "description": "Old Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216782.jpg"
+                    },
+                    {
+                        "id": 219632,
+                        "nameRu": "Флоренс Энрайт",
+                        "nameEn": "Florence Enright",
+                        "description": "Seamstress, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219632.jpg"
+                    },
+                    {
+                        "id": 216540,
+                        "nameRu": "Харольд Энтвистл",
+                        "nameEn": "Harold Entwistle",
+                        "description": "Laurence's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216540.jpg"
+                    },
+                    {
+                        "id": 220370,
+                        "nameRu": "Джун Филмер",
+                        "nameEn": "June Filmer",
+                        "description": "Tina, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220370.jpg"
+                    },
+                    {
+                        "id": 204403,
+                        "nameRu": "Бонита Грэнвилл",
+                        "nameEn": "Bonita Granville",
+                        "description": "Amy's Classmate, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204403.jpg"
+                    },
+                    {
+                        "id": 217522,
+                        "nameRu": "Дороти Грэй",
+                        "nameEn": "Dorothy Gray",
+                        "description": "Girl at Boarding House, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217522.jpg"
+                    },
+                    {
+                        "id": 191654,
+                        "nameRu": "Роберт «Базз» Генри",
+                        "nameEn": "Robert «Buzz» Henry",
+                        "description": "Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_191654.jpg"
+                    },
+                    {
+                        "id": 216859,
+                        "nameRu": "Вирджиния Хауэлл",
+                        "nameEn": "Virginia Howell",
+                        "description": "War Worker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216859.jpg"
+                    },
+                    {
+                        "id": 201295,
+                        "nameRu": "Олин Ховлин",
+                        "nameEn": "Olin Howland",
+                        "description": "Mr. Davis, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201295.jpg"
+                    },
+                    {
+                        "id": 363940,
+                        "nameRu": "",
+                        "nameEn": "Tony Kales",
+                        "description": "Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363940.jpg"
+                    },
+                    {
+                        "id": 213948,
+                        "nameRu": "Мэрлин Ноулден",
+                        "nameEn": "Marilyn Knowlden",
+                        "description": "Amy's Classmate, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213948.jpg"
+                    },
+                    {
+                        "id": 192857,
+                        "nameRu": "Марина Кошец",
+                        "nameEn": "Marina Koshetz",
+                        "description": "Flo King, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192857.jpg"
+                    },
+                    {
+                        "id": 460641,
+                        "nameRu": "Лили Лодж",
+                        "nameEn": "Lily Lodge",
+                        "description": "Lily, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_460641.jpg"
+                    },
+                    {
+                        "id": 370195,
+                        "nameRu": "Чарльз Миллер",
+                        "nameEn": "Charles Miller",
+                        "description": "Minister, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_370195.jpg"
+                    },
+                    {
+                        "id": 165928,
+                        "nameRu": "",
+                        "nameEn": "June Smaney",
+                        "description": "Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_165928.jpg"
+                    },
+                    {
+                        "id": 218489,
+                        "nameRu": "Мэри Уоллес",
+                        "nameEn": "Mary Wallace",
+                        "description": "Boarding House Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218489.jpg"
+                    },
+                    {
+                        "id": 218688,
+                        "nameRu": "Ховард Уилсон",
+                        "nameEn": "Howard Wilson",
+                        "description": "Young Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218688.jpg"
+                    },
+                    {
+                        "id": 361868,
+                        "nameRu": "Шорти Вудс",
+                        "nameEn": "Shorty Woods",
+                        "description": "Sleigh Driver, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361868.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 76557,
+                        "nameRu": "Луиза Мэй Олкотт",
+                        "nameEn": "Louisa May Alcott",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_76557.jpg"
+                    },
+                    {
+                        "id": 206301,
+                        "nameRu": "Сара Й. Мэйсон",
+                        "nameEn": "Sarah Y. Mason",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206301.jpg"
+                    },
+                    {
+                        "id": 206300,
+                        "nameRu": "Виктор Хирман",
+                        "nameEn": "Victor Heerman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206300.jpg"
+                    },
+                    {
+                        "id": 221072,
+                        "nameRu": "Дель Эндрюс",
+                        "nameEn": "Del Andrews",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221072.jpg"
+                    },
+                    {
+                        "id": 367302,
+                        "nameRu": "Альфред Блок",
+                        "nameEn": "Alfred Block",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367302.jpg"
+                    },
+                    {
+                        "id": 197770,
+                        "nameRu": "Чарльз Брэкетт",
+                        "nameEn": "Charles Brackett",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197770.jpg"
+                    },
+                    {
+                        "id": 365470,
+                        "nameRu": "Салисбери Филд",
+                        "nameEn": "Salisbury Field",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365470.jpg"
+                    },
+                    {
+                        "id": 204401,
+                        "nameRu": "Дэвид Хемпстед",
+                        "nameEn": "David Hempstead",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204401.jpg"
+                    },
+                    {
+                        "id": 213564,
+                        "nameRu": "Джейн Мерфин",
+                        "nameEn": "Jane Murfin",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213564.jpg"
+                    },
+                    {
+                        "id": 340223,
+                        "nameRu": "Дж.Б. Штерн",
+                        "nameEn": "G.B. Stern",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_340223.jpg"
+                    },
+                    {
+                        "id": 212882,
+                        "nameRu": "Ванда Тачок",
+                        "nameEn": "Wanda Tuchock",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212882.jpg"
+                    },
+                    {
+                        "id": 194375,
+                        "nameRu": "Джон Твист",
+                        "nameEn": "John Twist",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194375.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 64822,
+                        "nameRu": "Мериан К. Купер",
+                        "nameEn": "Merian C. Cooper",
+                        "description": "исполнительный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_64822.jpg"
+                    },
+                    {
+                        "id": 213307,
+                        "nameRu": "Кеннет МакГовэн",
+                        "nameEn": "Kenneth Macgowan",
+                        "description": "ассоциированный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213307.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 2609789,
+                        "nameRu": "Генри В. Джеррард",
+                        "nameEn": "Henry W. Gerrard",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2609789.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 202348,
+                        "nameRu": "Макс Штайнер",
+                        "nameEn": "Max Steiner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202348.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2003323,
+                        "nameRu": "Ван Нест Полглейс",
+                        "nameEn": "Van Nest Polglase",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2003323.jpg"
+                    },
+                    {
+                        "id": 206257,
+                        "nameRu": "Уолтер Планкетт",
+                        "nameEn": "Walter Plunkett",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206257.jpg"
+                    },
+                    {
+                        "id": 2016263,
+                        "nameRu": "Сидни Мур",
+                        "nameEn": "Sydney Moore",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2016263.jpg"
+                    },
+                    {
+                        "id": 3950564,
+                        "nameRu": "Рэй Мойер",
+                        "nameEn": "Ray Moyer",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3950564.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 361205,
+                        "nameRu": "Джек Китчин",
+                        "nameEn": "Jack Kitchin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361205.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 55 мин",
+                "description": "Гражданская война в США. Сестры Мэг, Джо, Бесс и Эмми живут дружно, невзирая на внешние обстоятельства. Их отец находится на фронте, и семье, ведомой их любимой мамой, необходимо как-то свести концы с концами. Существенную помощь семейству оказывают их сосед мистер Лоуренс и его внук Лори...",
+                "oscar": [
+                    {
+                        "name": "Лучший режиссер",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 167171,
+                                "nameRu": "Джордж Кьюкор",
+                                "nameEn": "George Cukor",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/167171.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 206300,
+                                "nameRu": "Виктор Хирман",
+                                "nameEn": "Victor Heerman",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/206300.jpg"
+                            },
+                            {
+                                "kinopoiskId": 206301,
+                                "nameRu": "Сара Й. Мэйсон",
+                                "nameEn": "Sarah Y. Mason",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/206301.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15591/",
+                "webUrl": "https://www.kinopoisk.ru/film/15591/",
+                "lastSync": "2024-12-28T07:12:07.902Z"
+            },
+            {
+                "kinopoiskId": 16664,
+                "nameRu": "Частная жизнь Генриха VIII",
+                "nameOriginal": "The Private Life of Henry VIII",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/16664.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/16664.jpg",
+                "reviewsCount": 9,
+                "ratingGoodReview": 89,
+                "ratingGoodReviewVoteCount": 8,
+                "ratingKinopoisk": 6.8,
+                "ratingKinopoiskVoteCount": 701,
+                "ratingImdb": 7,
+                "ratingImdbVoteCount": 5008,
+                "ratingFilmCritics": 8,
+                "ratingFilmCriticsVoteCount": 19,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "Великобритания"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 25005,
+                        "nameRu": "Александр Корда",
+                        "nameEn": "Alexander Korda",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_25005.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 177180,
+                        "nameRu": "Чарльз Лотон",
+                        "nameEn": "Charles Laughton",
+                        "description": "Henry VIII",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_177180.jpg"
+                    },
+                    {
+                        "id": 200960,
+                        "nameRu": "Роберт Донат",
+                        "nameEn": "Robert Donat",
+                        "description": "Thomas Culpeper",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200960.jpg"
+                    },
+                    {
+                        "id": 211196,
+                        "nameRu": "Франклин Дайалл",
+                        "nameEn": "Franklin Dyall",
+                        "description": "Thomas Cromwell",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211196.jpg"
+                    },
+                    {
+                        "id": 212768,
+                        "nameRu": "Майлз Мандер",
+                        "nameEn": "Miles Mander",
+                        "description": "Wriothesley",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212768.jpg"
+                    },
+                    {
+                        "id": 218178,
+                        "nameRu": "Лоренс Ханрей",
+                        "nameEn": "Lawrence Hanray",
+                        "description": "Archbishop Cranmer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218178.jpg"
+                    },
+                    {
+                        "id": 213762,
+                        "nameRu": "Уильям Остин",
+                        "nameEn": "William Austin",
+                        "description": "Duke of Cleves",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213762.jpg"
+                    },
+                    {
+                        "id": 202601,
+                        "nameRu": "Джон Лодер",
+                        "nameEn": "John Loder",
+                        "description": "Peynell",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202601.jpg"
+                    },
+                    {
+                        "id": 205869,
+                        "nameRu": "Клод Аллистер",
+                        "nameEn": "Claud Allister",
+                        "description": "Cornell (в титрах: Claude Allister)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205869.jpg"
+                    },
+                    {
+                        "id": 204176,
+                        "nameRu": "Гибб МакЛафлин",
+                        "nameEn": "Gibb McLaughlin",
+                        "description": "The French Executioner (в титрах: Gibb Mc.Laughlin)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204176.jpg"
+                    },
+                    {
+                        "id": 218021,
+                        "nameRu": "Сэм Ливси",
+                        "nameEn": "Sam Livesey",
+                        "description": "The English Executioner",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218021.jpg"
+                    },
+                    {
+                        "id": 192231,
+                        "nameRu": "Мерл Оберон",
+                        "nameEn": "Merle Oberon",
+                        "description": "Anne Boleyn - The Second Wife",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192231.jpg"
+                    },
+                    {
+                        "id": 205968,
+                        "nameRu": "Уэнди Барри",
+                        "nameEn": "Wendy Barrie",
+                        "description": "Jane Seymour - The Third Wife",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205968.jpg"
+                    },
+                    {
+                        "id": 156449,
+                        "nameRu": "Эльза Ланчестер",
+                        "nameEn": "Elsa Lanchester",
+                        "description": "Anne of Cleves - The Fourth Wife",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_156449.jpg"
+                    },
+                    {
+                        "id": 183238,
+                        "nameRu": "Бинни Барнс",
+                        "nameEn": "Binnie Barnes",
+                        "description": "Katherine Howard - The Fifth Wife",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183238.jpg"
+                    },
+                    {
+                        "id": 200468,
+                        "nameRu": "Эверли Грегг",
+                        "nameEn": "Everley Gregg",
+                        "description": "Katherine Parr - The Sixth Wife",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200468.jpg"
+                    },
+                    {
+                        "id": 219104,
+                        "nameRu": "Леди Три",
+                        "nameEn": "Lady Tree",
+                        "description": "The King's Nurse",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219104.jpg"
+                    },
+                    {
+                        "id": 217248,
+                        "nameRu": "Фредерик Калли",
+                        "nameEn": "Frederick Culley",
+                        "description": "Duke of Norfolk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217248.jpg"
+                    },
+                    {
+                        "id": 211207,
+                        "nameRu": "Марк Дейли",
+                        "nameEn": "Mark Daly",
+                        "description": "Bit Part, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211207.jpg"
+                    },
+                    {
+                        "id": 215280,
+                        "nameRu": "",
+                        "nameEn": "Toni Edgar-Bruce",
+                        "description": "Spectator at Executions, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215280.jpg"
+                    },
+                    {
+                        "id": 218126,
+                        "nameRu": "Энни Эсмонд",
+                        "nameEn": "Annie Esmond",
+                        "description": "The Cook's Wife, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218126.jpg"
+                    },
+                    {
+                        "id": 219910,
+                        "nameRu": "Уильям Хеугхэн",
+                        "nameEn": "William Heughan",
+                        "description": "Kingston, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219910.jpg"
+                    },
+                    {
+                        "id": 124542,
+                        "nameRu": "Артур Ховард",
+                        "nameEn": "Arthur Howard",
+                        "description": "Kitchen Helper, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_124542.jpg"
+                    },
+                    {
+                        "id": 212851,
+                        "nameRu": "Джуди Келли",
+                        "nameEn": "Judy Kelly",
+                        "description": "Lady Rochford, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212851.jpg"
+                    },
+                    {
+                        "id": 192152,
+                        "nameRu": "Уолли Патч",
+                        "nameEn": "Wally Patch",
+                        "description": "Butcher in Kitchen, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192152.jpg"
+                    },
+                    {
+                        "id": 210639,
+                        "nameRu": "Хэй Питри",
+                        "nameEn": "Hay Petrie",
+                        "description": "The King's Barber, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210639.jpg"
+                    },
+                    {
+                        "id": 176055,
+                        "nameRu": "Терри-Томас",
+                        "nameEn": "Terry-Thomas",
+                        "description": "Extra, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176055.jpg"
+                    },
+                    {
+                        "id": 218452,
+                        "nameRu": "Джон Тернбулл",
+                        "nameEn": "John Turnbull",
+                        "description": "Hans Holbein, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218452.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 214304,
+                        "nameRu": "Лайош Биро",
+                        "nameEn": "Lajos Biró",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214304.jpg"
+                    },
+                    {
+                        "id": 206840,
+                        "nameRu": "Артур Уимперис",
+                        "nameEn": "Arthur Wimperis",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206840.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 25005,
+                        "nameRu": "Александр Корда",
+                        "nameEn": "Alexander Korda",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_25005.jpg"
+                    },
+                    {
+                        "id": 220120,
+                        "nameRu": "Людовико Теплиц",
+                        "nameEn": "Ludovico Toeplitz",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220120.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 205002,
+                        "nameRu": "Жорж Периналь",
+                        "nameEn": "Georges Périnal",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205002.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 471761,
+                        "nameRu": "Курт Шрёдер",
+                        "nameEn": "Kurt Schröder",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_471761.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2014288,
+                        "nameRu": "Джон Армстронг",
+                        "nameEn": "John Armstrong",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014288.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 633936,
+                        "nameRu": "Стефен Харрисон",
+                        "nameEn": "Stephen Harrison",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_633936.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 37 мин",
+                "description": "Этот фильм рассказывает историю жизни одного из самых известных королей Англии Генриха VIII, а больше всего он стал известен необычным для христианина числом браков, некоторые из них заканчивались казнью бывшей супруги. Помимо своих жен Генрих VIII не гнушался и уничтожением своих политических противников, среди которых был и великий гуманист Томас Мор, а также церковной реформой, приведшей к появлению англиканской церкви. Генрих VIII был женат шесть раз. \n\nСудьба его супруг заучивается английскими школьниками при помощи мнемонической фразы «развёлся – казнил – умерла – развёлся – казнил – пережила». От первых трёх браков у него было 10 детей, из которых выжило только трое – Мария от первого брака, Елизавета от второго и Эдуард от третьего. Все они впоследствии царствовали. Последние три брака Генриха были бездетными.",
+                "oscar": [
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 177180,
+                                "nameRu": "Чарльз Лотон",
+                                "nameEn": "Charles Laughton",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/177180.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/16664/",
+                "webUrl": "https://www.kinopoisk.ru/film/16664/",
+                "lastSync": "2024-12-28T07:12:08.050Z"
+            },
+            {
+                "kinopoiskId": 1037,
+                "nameRu": "Она обошлась с ним нечестно",
+                "nameOriginal": "She Done Him Wrong",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1037.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1037.jpg",
+                "reviewsCount": 5,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 4,
+                "ratingKinopoisk": 5.9,
+                "ratingKinopoiskVoteCount": 625,
+                "ratingImdb": 6.3,
+                "ratingImdbVoteCount": 7189,
+                "ratingFilmCritics": 7.5,
+                "ratingFilmCriticsVoteCount": 40,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "история"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 219384,
+                        "nameRu": "Лоуелл Шерман",
+                        "nameEn": "Lowell Sherman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219384.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 175280,
+                        "nameRu": "Мэй Уэст",
+                        "nameEn": "Mae West",
+                        "description": "Lady Lou",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_175280.jpg"
+                    },
+                    {
+                        "id": 154898,
+                        "nameRu": "Кэри Грант",
+                        "nameEn": "Cary Grant",
+                        "description": "Captain Cummings",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154898.jpg"
+                    },
+                    {
+                        "id": 78815,
+                        "nameRu": "Оуэн Мур",
+                        "nameEn": "Owen Moore",
+                        "description": "Chick Clark",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_78815.jpg"
+                    },
+                    {
+                        "id": 164748,
+                        "nameRu": "Гилберт Роланд",
+                        "nameEn": "Gilbert Roland",
+                        "description": "Serge Stanieff",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_164748.jpg"
+                    },
+                    {
+                        "id": 215223,
+                        "nameRu": "Ной Бири",
+                        "nameEn": "Noah Beery",
+                        "description": "Gus Jordan (в титрах: Noah Beery Sr.)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215223.jpg"
+                    },
+                    {
+                        "id": 220246,
+                        "nameRu": "Дэвид Ландау",
+                        "nameEn": "David Landau",
+                        "description": "Dan Flynn",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220246.jpg"
+                    },
+                    {
+                        "id": 215781,
+                        "nameRu": "Рафаэла Оттиано",
+                        "nameEn": "Rafaela Ottiano",
+                        "description": "Russian Rita",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215781.jpg"
+                    },
+                    {
+                        "id": 180615,
+                        "nameRu": "Дьюи Робинсон",
+                        "nameEn": "Dewey Robinson",
+                        "description": "Spider Kane",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180615.jpg"
+                    },
+                    {
+                        "id": 194404,
+                        "nameRu": "Рошелль Хадсон",
+                        "nameEn": "Rochelle Hudson",
+                        "description": "Sally",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194404.jpg"
+                    },
+                    {
+                        "id": 219017,
+                        "nameRu": "Таммани Янг",
+                        "nameEn": "Tammany Young",
+                        "description": "Chuck Connors",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219017.jpg"
+                    },
+                    {
+                        "id": 192602,
+                        "nameRu": "Фаззи Найт",
+                        "nameEn": "Fuzzy Knight",
+                        "description": "Rag Time Kelly",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192602.jpg"
+                    },
+                    {
+                        "id": 1061188,
+                        "nameRu": "Грэйс Хэмилтон",
+                        "nameEn": "Grace La Rue",
+                        "description": "Frances",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1061188.jpg"
+                    },
+                    {
+                        "id": 212293,
+                        "nameRu": "Роберт Хоманс",
+                        "nameEn": "Robert Homans",
+                        "description": "Doheney (в титрах: Robert E. Homans)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212293.jpg"
+                    },
+                    {
+                        "id": 199567,
+                        "nameRu": "Луиз Биверс",
+                        "nameEn": "Louise Beavers",
+                        "description": "Pearl",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199567.jpg"
+                    },
+                    {
+                        "id": 211569,
+                        "nameRu": "Эрни Адамс",
+                        "nameEn": "Ernie Adams",
+                        "description": "Man in Audience, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211569.jpg"
+                    },
+                    {
+                        "id": 192994,
+                        "nameRu": "Билли Блэтчер",
+                        "nameEn": "Billy Bletcher",
+                        "description": "Singing Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192994.jpg"
+                    },
+                    {
+                        "id": 195086,
+                        "nameRu": "Вэйд Ботелер",
+                        "nameEn": "Wade Boteler",
+                        "description": "Dan's Pal, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195086.jpg"
+                    },
+                    {
+                        "id": 197753,
+                        "nameRu": "Джек Карр",
+                        "nameEn": "Jack Carr",
+                        "description": "Patron Who Hits His Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197753.jpg"
+                    },
+                    {
+                        "id": 204408,
+                        "nameRu": "Хейни Конклин",
+                        "nameEn": "Heinie Conklin",
+                        "description": "Street Cleaner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204408.jpg"
+                    },
+                    {
+                        "id": 220248,
+                        "nameRu": "Майк Донлин",
+                        "nameEn": "Mike Donlin",
+                        "description": "Tout, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220248.jpg"
+                    },
+                    {
+                        "id": 218497,
+                        "nameRu": "Джеймс Иглз",
+                        "nameEn": "James Eagles",
+                        "description": "Pete, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218497.jpg"
+                    },
+                    {
+                        "id": 211997,
+                        "nameRu": "Ферн Эмметт",
+                        "nameEn": "Fern Emmett",
+                        "description": "Woman in Conversation, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211997.jpg"
+                    },
+                    {
+                        "id": 216540,
+                        "nameRu": "Харольд Энтвистл",
+                        "nameEn": "Harold Entwistle",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216540.jpg"
+                    },
+                    {
+                        "id": 210066,
+                        "nameRu": "Мэри Гордон",
+                        "nameEn": "Mary Gordon",
+                        "description": "Cleaning Lady, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210066.jpg"
+                    },
+                    {
+                        "id": 220064,
+                        "nameRu": "Эджи Херринг",
+                        "nameEn": "Aggie Herring",
+                        "description": "Mrs. Flaherty, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220064.jpg"
+                    },
+                    {
+                        "id": 206232,
+                        "nameRu": "Аль Хилл",
+                        "nameEn": "Al Hill",
+                        "description": "Barfly, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206232.jpg"
+                    },
+                    {
+                        "id": 215479,
+                        "nameRu": "Артур Хаусман",
+                        "nameEn": "Arthur Housman",
+                        "description": "Hungry Barfly, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215479.jpg"
+                    },
+                    {
+                        "id": 194702,
+                        "nameRu": "Том Кеннеди",
+                        "nameEn": "Tom Kennedy",
+                        "description": "Big Bill - Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194702.jpg"
+                    },
+                    {
+                        "id": 219225,
+                        "nameRu": "Ли Колмар",
+                        "nameEn": "Lee Kohlmar",
+                        "description": "Jacobson, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219225.jpg"
+                    },
+                    {
+                        "id": 189475,
+                        "nameRu": "Майкл Марк",
+                        "nameEn": "Michael Mark",
+                        "description": "Janitor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189475.jpg"
+                    },
+                    {
+                        "id": 210212,
+                        "nameRu": "Том МакГуайр",
+                        "nameEn": "Tom McGuire",
+                        "description": "Mike - Lou's Coachman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210212.jpg"
+                    },
+                    {
+                        "id": 202238,
+                        "nameRu": "Фрэнк Миллс",
+                        "nameEn": "Frank Mills",
+                        "description": "Barfly, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202238.jpg"
+                    },
+                    {
+                        "id": 210526,
+                        "nameRu": "Фрэнк Моран",
+                        "nameEn": "Frank Moran",
+                        "description": "Framed Convict, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210526.jpg"
+                    },
+                    {
+                        "id": 206739,
+                        "nameRu": "Ли Фелпс",
+                        "nameEn": "Lee Phelps",
+                        "description": "Waiter-Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206739.jpg"
+                    },
+                    {
+                        "id": 208798,
+                        "nameRu": "Фред Сэнтли",
+                        "nameEn": "Fred Santley",
+                        "description": "The Tenor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208798.jpg"
+                    },
+                    {
+                        "id": 1306881,
+                        "nameRu": "Билли Б. Ван",
+                        "nameEn": "Billy B. Van",
+                        "description": "Pianist, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1306881.jpg"
+                    },
+                    {
+                        "id": 213151,
+                        "nameRu": "Эллинор Вандервеер",
+                        "nameEn": "Ellinor Vanderveer",
+                        "description": "Well-Wisher in Audience, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213151.jpg"
+                    },
+                    {
+                        "id": 220249,
+                        "nameRu": "Гарри Уоллес",
+                        "nameEn": "Harry Wallace",
+                        "description": "Steak McGarry, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220249.jpg"
+                    },
+                    {
+                        "id": 923167,
+                        "nameRu": "Гарри Уоррен",
+                        "nameEn": "Harry Warren",
+                        "description": "Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_923167.jpg"
+                    },
+                    {
+                        "id": 209734,
+                        "nameRu": "Лео Уайт",
+                        "nameEn": "Leo White",
+                        "description": "Pedestrian Tipping Hat to Lou, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209734.jpg"
+                    },
+                    {
+                        "id": 219872,
+                        "nameRu": "Флоренция Уикс",
+                        "nameEn": "Florence Wix",
+                        "description": "Disapproving Passerby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219872.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 175280,
+                        "nameRu": "Мэй Уэст",
+                        "nameEn": "Mae West",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_175280.jpg"
+                    },
+                    {
+                        "id": 218660,
+                        "nameRu": "Харви Ф. Тью",
+                        "nameEn": "Harvey F. Thew",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218660.jpg"
+                    },
+                    {
+                        "id": 210896,
+                        "nameRu": "Джон Брайт",
+                        "nameEn": "John Bright",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210896.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 211355,
+                        "nameRu": "Уильям ЛеБарон",
+                        "nameEn": "William LeBaron",
+                        "description": "ассоциированный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211355.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 118652,
+                        "nameRu": "Чарльз Лэнг",
+                        "nameEn": "Charles Lang",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_118652.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 218333,
+                        "nameRu": "Джон Лайполд",
+                        "nameEn": "John Leipold",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218333.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 264129,
+                        "nameRu": "Роберт Ашер",
+                        "nameEn": "Robert Usher",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_264129.jpg"
+                    },
+                    {
+                        "id": 80116,
+                        "nameRu": "Эдит Хэд",
+                        "nameEn": "Edith Head",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80116.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 204670,
+                        "nameRu": "Александр Холл",
+                        "nameEn": "Alexander Hall",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204670.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 6 мин",
+                "description": "Леди Лу - хозяйка салуна в Нью-Йорке, за которой ухаживают два бизнесмена. Она живет в роскошных апартаментах, имеет огромную коллекцию бриллиантов и не нуждается в мужчинах. Тем не менее, когда на ее жизненном пути появляется новый сосед, Лу охватывает страсть...",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/1037/",
+                "webUrl": "https://www.kinopoisk.ru/film/1037/",
+                "lastSync": "2024-12-28T07:12:08.204Z"
+            },
+            {
+                "kinopoiskId": 21868,
+                "nameRu": "Ярмарка штата",
+                "nameOriginal": "State Fair",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/21868.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/21868.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 5.5,
+                "ratingKinopoiskVoteCount": 170,
+                "ratingImdb": 6.7,
+                "ratingImdbVoteCount": 1171,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 200420,
+                        "nameRu": "Генри Кинг",
+                        "nameEn": "Henry King",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200420.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 218095,
+                        "nameRu": "Джанет Гейнор",
+                        "nameEn": "Janet Gaynor",
+                        "description": "Margy Frake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218095.jpg"
+                    },
+                    {
+                        "id": 11114,
+                        "nameRu": "Уилл Роджерс",
+                        "nameEn": "Will Rogers",
+                        "description": "Abel Frake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_11114.jpg"
+                    },
+                    {
+                        "id": 176605,
+                        "nameRu": "Лью Эйрз",
+                        "nameEn": "Lew Ayres",
+                        "description": "Pat Gilbert",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176605.jpg"
+                    },
+                    {
+                        "id": 211191,
+                        "nameRu": "Сэлли Эйлерс",
+                        "nameEn": "Sally Eilers",
+                        "description": "Emily Joyce",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211191.jpg"
+                    },
+                    {
+                        "id": 112935,
+                        "nameRu": "Норман Фостер",
+                        "nameEn": "Norman Foster",
+                        "description": "Wayne Frake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_112935.jpg"
+                    },
+                    {
+                        "id": 219793,
+                        "nameRu": "Луиз Дрессер",
+                        "nameEn": "Louise Dresser",
+                        "description": "Melissa Frake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219793.jpg"
+                    },
+                    {
+                        "id": 212937,
+                        "nameRu": "Фрэнк Крэвен",
+                        "nameEn": "Frank Craven",
+                        "description": "Storekeeper",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212937.jpg"
+                    },
+                    {
+                        "id": 146249,
+                        "nameRu": "Виктор Джори",
+                        "nameEn": "Victor Jory",
+                        "description": "Hoop Toss Barker",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_146249.jpg"
+                    },
+                    {
+                        "id": 212746,
+                        "nameRu": "Фрэнк Мелтон",
+                        "nameEn": "Frank Melton",
+                        "description": "Harry Ware",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212746.jpg"
+                    },
+                    {
+                        "id": 202046,
+                        "nameRu": "Эрвилль Алдерсон",
+                        "nameEn": "Erville Alderson",
+                        "description": "Martin - Hog Breeder, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202046.jpg"
+                    },
+                    {
+                        "id": 1487202,
+                        "nameRu": "Белл Бой",
+                        "nameEn": "Bell Boy",
+                        "description": "A Hog, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1487202.jpg"
+                    },
+                    {
+                        "id": 216268,
+                        "nameRu": "",
+                        "nameEn": "Joe Caits",
+                        "description": "Baker A. Noblemable - Judges' Secretary, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216268.jpg"
+                    },
+                    {
+                        "id": 180595,
+                        "nameRu": "Хобарт Кавано",
+                        "nameEn": "Hobart Cavanaugh",
+                        "description": "Professor Fred Coin - Hog Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180595.jpg"
+                    },
+                    {
+                        "id": 1487203,
+                        "nameRu": "Джадж Дайк",
+                        "nameEn": "Judge Dike",
+                        "description": "Contest Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1487203.jpg"
+                    },
+                    {
+                        "id": 211519,
+                        "nameRu": "Гарри Холман",
+                        "nameEn": "Harry Holman",
+                        "description": "Professor Tyler Cramp - Hog Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211519.jpg"
+                    },
+                    {
+                        "id": 181859,
+                        "nameRu": "Доро Меранде",
+                        "nameEn": "Doro Merande",
+                        "description": "Mrs. Metcalfe's Acquaintance at Food Contest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181859.jpg"
+                    },
+                    {
+                        "id": 202597,
+                        "nameRu": "Эдвард Манди",
+                        "nameEn": "Edward Mundy",
+                        "description": "Barker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202597.jpg"
+                    },
+                    {
+                        "id": 1487204,
+                        "nameRu": "",
+                        "nameEn": "Dike of Rosedale",
+                        "description": "Blue Boy - a Hog, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1487204.jpg"
+                    },
+                    {
+                        "id": 208447,
+                        "nameRu": "Джон Шиэн",
+                        "nameEn": "John Sheehan",
+                        "description": "Barker at Aerial Act, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208447.jpg"
+                    },
+                    {
+                        "id": 214120,
+                        "nameRu": "Люсиль Уорд",
+                        "nameEn": "Lucille Ward",
+                        "description": "Woman in Cranapple Contest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214120.jpg"
+                    },
+                    {
+                        "id": 201478,
+                        "nameRu": "Рут Уоррен",
+                        "nameEn": "Ruth Warren",
+                        "description": "Mrs. Edwin Metcalfe, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201478.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 197746,
+                        "nameRu": "Соня Левин",
+                        "nameEn": "Sonya Levien",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197746.jpg"
+                    },
+                    {
+                        "id": 197745,
+                        "nameRu": "Пол Грин",
+                        "nameEn": "Paul Green",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197745.jpg"
+                    },
+                    {
+                        "id": 197747,
+                        "nameRu": "Филип Стонг",
+                        "nameEn": "Philip Stong",
+                        "description": "и роман / и в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197747.jpg"
+                    },
+                    {
+                        "id": 212937,
+                        "nameRu": "Фрэнк Крэвен",
+                        "nameEn": "Frank Craven",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212937.jpg"
+                    },
+                    {
+                        "id": 217084,
+                        "nameRu": "Жюльен Джозефсон",
+                        "nameEn": "Julien Josephson",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217084.jpg"
+                    },
+                    {
+                        "id": 359948,
+                        "nameRu": "Генри Уэльс",
+                        "nameEn": "Henry Wales",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_359948.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 219537,
+                        "nameRu": "Винфилд Р. Шиэн",
+                        "nameEn": "Winfield R. Sheehan",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219537.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 214470,
+                        "nameRu": "Хэл Мор",
+                        "nameEn": "Hal Mohr",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214470.jpg"
+                    },
+                    {
+                        "id": 365330,
+                        "nameRu": "Джозеф А. Валентайн",
+                        "nameEn": "Joseph A. Valentine",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365330.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220417,
+                        "nameRu": "Луис Де Франческо",
+                        "nameEn": "Louis De Francesco",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220417.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2012028,
+                        "nameRu": "Дункан Крамер",
+                        "nameEn": "Duncan Cramer",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2012028.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2011311,
+                        "nameRu": "Роберт Бишофф",
+                        "nameEn": "Robert Bischoff",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2011311.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 39 мин",
+                "description": "Картина посвящена приключениям членов одной семьи из штата Айова во время недельного пребывания на местной ярмарке.",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 197745,
+                                "nameRu": "Пол Грин",
+                                "nameEn": "Paul Green",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/197745.jpg"
+                            },
+                            {
+                                "kinopoiskId": 197746,
+                                "nameRu": "Соня Левин",
+                                "nameEn": "Sonya Levien",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/197746.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/21868/",
+                "webUrl": "https://www.kinopoisk.ru/film/21868/",
+                "lastSync": "2024-12-28T07:12:08.342Z"
+            },
+            {
+                "kinopoiskId": 62003,
+                "nameRu": "Беркли-сквер",
+                "nameOriginal": "Berkeley Square",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/62003.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/62003.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 45,
+                "ratingImdb": 6.5,
+                "ratingImdbVoteCount": 1001,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "фэнтези"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 205334,
+                        "nameRu": "Фрэнк Ллойд",
+                        "nameEn": "Frank Lloyd",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205334.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 215193,
+                        "nameRu": "Лесли Говард",
+                        "nameEn": "Leslie Howard",
+                        "description": "Peter Standish",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215193.jpg"
+                    },
+                    {
+                        "id": 197385,
+                        "nameRu": "Хэзер Эйнджел",
+                        "nameEn": "Heather Angel",
+                        "description": "Helen Pettigrew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197385.jpg"
+                    },
+                    {
+                        "id": 194254,
+                        "nameRu": "Валери Тейлор",
+                        "nameEn": "Valerie Taylor",
+                        "description": "Kate Pettigrew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194254.jpg"
+                    },
+                    {
+                        "id": 196936,
+                        "nameRu": "Ирен Браун",
+                        "nameEn": "Irene Browne",
+                        "description": "Lady Ann Pettigrew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196936.jpg"
+                    },
+                    {
+                        "id": 216959,
+                        "nameRu": "Берил Мерсер",
+                        "nameEn": "Beryl Mercer",
+                        "description": "Mrs. Barwick",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216959.jpg"
+                    },
+                    {
+                        "id": 201259,
+                        "nameRu": "Колин Кит-Джонстон",
+                        "nameEn": "Colin Keith-Johnston",
+                        "description": "Tom Pettigrew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201259.jpg"
+                    },
+                    {
+                        "id": 198319,
+                        "nameRu": "Алан Маубрэй",
+                        "nameEn": "Alan Mowbray",
+                        "description": "Major Clinton",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198319.jpg"
+                    },
+                    {
+                        "id": 612011,
+                        "nameRu": "Джульетт Комптон",
+                        "nameEn": "Juliette Compton",
+                        "description": "Duchess of Devonshire",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_612011.jpg"
+                    },
+                    {
+                        "id": 214441,
+                        "nameRu": "Бетти Лоуфорд",
+                        "nameEn": "Betty Lawford",
+                        "description": "Marjorie Trant",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214441.jpg"
+                    },
+                    {
+                        "id": 217347,
+                        "nameRu": "Фердинанд Готтшалк",
+                        "nameEn": "Ferdinand Gottschalk",
+                        "description": "Mr. Throstle",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217347.jpg"
+                    },
+                    {
+                        "id": 210078,
+                        "nameRu": "Сэмюэл С. Хайндс",
+                        "nameEn": "Samuel S. Hinds",
+                        "description": "The American Ambassador (в титрах: Samuel Hinds)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210078.jpg"
+                    },
+                    {
+                        "id": 207786,
+                        "nameRu": "Олаф Хайттен",
+                        "nameEn": "Olaf Hytten",
+                        "description": "Sir Joshua Reynolds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207786.jpg"
+                    },
+                    {
+                        "id": 217133,
+                        "nameRu": "Дэвид Торренс",
+                        "nameEn": "David Torrence",
+                        "description": "Lord Stanley",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217133.jpg"
+                    },
+                    {
+                        "id": 214232,
+                        "nameRu": "Лайонел Бельмор",
+                        "nameEn": "Lionel Belmore",
+                        "description": "Innkeeper, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214232.jpg"
+                    },
+                    {
+                        "id": 217213,
+                        "nameRu": "Том Рикеттс",
+                        "nameEn": "Tom Ricketts",
+                        "description": "Town Crier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217213.jpg"
+                    },
+                    {
+                        "id": 468749,
+                        "nameRu": "Хильда Тайсон",
+                        "nameEn": "Hylda Tyson",
+                        "description": "Maid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_468749.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 23079,
+                        "nameRu": "Джон Л. Болдерстон",
+                        "nameEn": "John L. Balderston",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_23079.jpg"
+                    },
+                    {
+                        "id": 197746,
+                        "nameRu": "Соня Левин",
+                        "nameEn": "Sonya Levien",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197746.jpg"
+                    },
+                    {
+                        "id": 56266,
+                        "nameRu": "Генри Джеймс",
+                        "nameEn": "Henry James",
+                        "description": "роман, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_56266.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 208906,
+                        "nameRu": "Джесси Л. Ласки",
+                        "nameEn": "Jesse L. Lasky",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208906.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220950,
+                        "nameRu": "Эрнест Палмер",
+                        "nameEn": "Ernest Palmer",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220950.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220415,
+                        "nameRu": "Питер Брунелли",
+                        "nameEn": "Peter Brunelli",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220415.jpg"
+                    },
+                    {
+                        "id": 220417,
+                        "nameRu": "Луис Де Франческо",
+                        "nameEn": "Louis De Francesco",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220417.jpg"
+                    },
+                    {
+                        "id": 365548,
+                        "nameRu": "Ж.С. Замечник",
+                        "nameEn": "J.S. Zamecnik",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365548.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 2014042,
+                        "nameRu": "Уильям С. Дарлинг",
+                        "nameEn": "William S. Darling",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014042.jpg"
+                    },
+                    {
+                        "id": 2029228,
+                        "nameRu": "Уильям Ламберт",
+                        "nameEn": "William Lambert",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2029228.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 207869,
+                        "nameRu": "Харольд Д. Шустер",
+                        "nameEn": "Harold D. Schuster",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207869.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 28 мин",
+                "description": "Фантазия о перемещении во времени, воспоминание о будущем. Архитектор Питер Стэндиш, живущий в Лондоне в 1933 году, заинтригован жизнью своего богатого предка-американца, который когда-то приехал в Англию к своим бедным родственникам. Архитектор делает все возможное, чтобы перенестись на 149 лет назад и прийти в дом своих предков в тот же день и час , что и Стэндиш-старший. Там, в прошлом, он невольно меняет ход семейной истории - вместо того чтобы, согласно дневникам, сделать предложение кузине Кейт Петтигрю, влюбляется в ее сестру Хелен...",
+                "oscar": [
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 215193,
+                                "nameRu": "Лесли Говард",
+                                "nameEn": "Leslie Howard",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/215193.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/62003/",
+                "webUrl": "https://www.kinopoisk.ru/film/62003/",
+                "lastSync": "2024-12-28T07:12:23.005Z"
+            },
+            {
+                "kinopoiskId": 12001,
+                "nameRu": "Ранняя слава",
+                "nameOriginal": "Morning Glory",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12001.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/12001.jpg",
+                "reviewsCount": 7,
+                "ratingGoodReview": 86,
+                "ratingGoodReviewVoteCount": 6,
+                "ratingKinopoisk": 6.8,
+                "ratingKinopoiskVoteCount": 419,
+                "ratingImdb": 6.4,
+                "ratingImdbVoteCount": 3345,
+                "ratingFilmCritics": 6.2,
+                "ratingFilmCriticsVoteCount": 10,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "музыка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 219384,
+                        "nameRu": "Лоуелл Шерман",
+                        "nameEn": "Lowell Sherman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219384.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 102546,
+                        "nameRu": "Кэтрин Хепберн",
+                        "nameEn": "Katharine Hepburn",
+                        "description": "Eva Lovelace",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_102546.jpg"
+                    },
+                    {
+                        "id": 78802,
+                        "nameRu": "Дуглас Фэрбенкс мл.",
+                        "nameEn": "Douglas Fairbanks Jr.",
+                        "description": "Joseph Sheridan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_78802.jpg"
+                    },
+                    {
+                        "id": 80118,
+                        "nameRu": "Адольф Менжу",
+                        "nameEn": "Adolphe Menjou",
+                        "description": "Louis Easton",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80118.jpg"
+                    },
+                    {
+                        "id": 365180,
+                        "nameRu": "Мэри Дункан",
+                        "nameEn": "Mary Duncan",
+                        "description": "Rita Vernon",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365180.jpg"
+                    },
+                    {
+                        "id": 209843,
+                        "nameRu": "С. Обри Смит",
+                        "nameEn": "C. Aubrey Smith",
+                        "description": "Robert Harley Hedges",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209843.jpg"
+                    },
+                    {
+                        "id": 201025,
+                        "nameRu": "Дон Альварадо",
+                        "nameEn": "Don Alvarado",
+                        "description": "Pepi Velez",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201025.jpg"
+                    },
+                    {
+                        "id": 208798,
+                        "nameRu": "Фред Сэнтли",
+                        "nameEn": "Fred Santley",
+                        "description": "Will Seymour (в титрах: Fredric Santly)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208798.jpg"
+                    },
+                    {
+                        "id": 215805,
+                        "nameRu": "Ричард Карле",
+                        "nameEn": "Richard Carle",
+                        "description": "Henry Lawrence",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215805.jpg"
+                    },
+                    {
+                        "id": 216014,
+                        "nameRu": "Тайлер Брук",
+                        "nameEn": "Tyler Brooke",
+                        "description": "Charles Van Duesen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216014.jpg"
+                    },
+                    {
+                        "id": 220615,
+                        "nameRu": "Дженева Митчелл",
+                        "nameEn": "Geneva Mitchell",
+                        "description": "Gwendolyn Hall",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220615.jpg"
+                    },
+                    {
+                        "id": 219640,
+                        "nameRu": "Хелен Уэр",
+                        "nameEn": "Helen Ware",
+                        "description": "Nellie Navarre",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219640.jpg"
+                    },
+                    {
+                        "id": 206712,
+                        "nameRu": "Роберт Эдейр",
+                        "nameEn": "Robert Adair",
+                        "description": "Roberts, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206712.jpg"
+                    },
+                    {
+                        "id": 220652,
+                        "nameRu": "Ральф Бард",
+                        "nameEn": "Ralph Bard",
+                        "description": "Head Usher, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220652.jpg"
+                    },
+                    {
+                        "id": 192994,
+                        "nameRu": "Билли Блэтчер",
+                        "nameEn": "Billy Bletcher",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192994.jpg"
+                    },
+                    {
+                        "id": 219760,
+                        "nameRu": "Роберт Болдер",
+                        "nameEn": "Robert Bolder",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219760.jpg"
+                    },
+                    {
+                        "id": 100507,
+                        "nameRu": "Джон Кэрредин",
+                        "nameEn": "John Carradine",
+                        "description": "Dream Apparition, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_100507.jpg"
+                    },
+                    {
+                        "id": 219703,
+                        "nameRu": "Луиз Карвер",
+                        "nameEn": "Louise Carver",
+                        "description": "Miss Waterman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219703.jpg"
+                    },
+                    {
+                        "id": 218098,
+                        "nameRu": "Хелен Чадвик",
+                        "nameEn": "Helene Chadwick",
+                        "description": "Miss Murray, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218098.jpg"
+                    },
+                    {
+                        "id": 216848,
+                        "nameRu": "Ширли Чэмберс",
+                        "nameEn": "Shirley Chambers",
+                        "description": "Woman at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216848.jpg"
+                    },
+                    {
+                        "id": 218562,
+                        "nameRu": "Хелен Коллинз",
+                        "nameEn": "Helen Collins",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218562.jpg"
+                    },
+                    {
+                        "id": 216936,
+                        "nameRu": "Д’Арси Корригэн",
+                        "nameEn": "D'Arcy Corrigan",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216936.jpg"
+                    },
+                    {
+                        "id": 220009,
+                        "nameRu": "Нэйтан Керри",
+                        "nameEn": "Nathan Curry",
+                        "description": "Elevator Operator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220009.jpg"
+                    },
+                    {
+                        "id": 415383,
+                        "nameRu": "Гарри Д’Арси",
+                        "nameEn": "Harry D'Arcy",
+                        "description": "Pedestrian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_415383.jpg"
+                    },
+                    {
+                        "id": 206818,
+                        "nameRu": "Хелен Диксон",
+                        "nameEn": "Helen Dickson",
+                        "description": "Miss Tracy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206818.jpg"
+                    },
+                    {
+                        "id": 364592,
+                        "nameRu": "Джоан Дикс",
+                        "nameEn": "Joan Dix",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364592.jpg"
+                    },
+                    {
+                        "id": 217367,
+                        "nameRu": "Флоренс Дадли",
+                        "nameEn": "Florence Dudley",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217367.jpg"
+                    },
+                    {
+                        "id": 222382,
+                        "nameRu": "Джеймс Даффи",
+                        "nameEn": "James Duffy",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222382.jpg"
+                    },
+                    {
+                        "id": 207721,
+                        "nameRu": "Джей Итон",
+                        "nameEn": "Jay Eaton",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207721.jpg"
+                    },
+                    {
+                        "id": 215650,
+                        "nameRu": "Билл Фишер",
+                        "nameEn": "Bill Fisher",
+                        "description": "Grip, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215650.jpg"
+                    },
+                    {
+                        "id": 1484502,
+                        "nameRu": "Картер Гибсон",
+                        "nameEn": "Carter Gibson",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1484502.jpg"
+                    },
+                    {
+                        "id": 363690,
+                        "nameRu": "Джон Гоф",
+                        "nameEn": "John Gough",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363690.jpg"
+                    },
+                    {
+                        "id": 216499,
+                        "nameRu": "Карлтон Гриффин",
+                        "nameEn": "Carlton Griffin",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216499.jpg"
+                    },
+                    {
+                        "id": 207351,
+                        "nameRu": "Чарли Холл",
+                        "nameEn": "Charlie Hall",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207351.jpg"
+                    },
+                    {
+                        "id": 210178,
+                        "nameRu": "Тереза Харрис",
+                        "nameEn": "Theresa Harris",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210178.jpg"
+                    },
+                    {
+                        "id": 220555,
+                        "nameRu": "Алтея Хенли",
+                        "nameEn": "Althea Henley",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220555.jpg"
+                    },
+                    {
+                        "id": 212462,
+                        "nameRu": "Ллойд Ингрэм",
+                        "nameEn": "Lloyd Ingraham",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212462.jpg"
+                    },
+                    {
+                        "id": 365181,
+                        "nameRu": "Лерой Джонсон",
+                        "nameEn": "Leroy Johnson",
+                        "description": "Theatre Janitor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365181.jpg"
+                    },
+                    {
+                        "id": 219800,
+                        "nameRu": "Джуланн Джонстон",
+                        "nameEn": "Julanne Johnston",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219800.jpg"
+                    },
+                    {
+                        "id": 212228,
+                        "nameRu": "Джон Келли",
+                        "nameEn": "John Kelly",
+                        "description": "Prop Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212228.jpg"
+                    },
+                    {
+                        "id": 369171,
+                        "nameRu": "Винифред Лэндис",
+                        "nameEn": "Winifred Landis",
+                        "description": "Dowager, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_369171.jpg"
+                    },
+                    {
+                        "id": 197633,
+                        "nameRu": "Пэт О’Мэлли",
+                        "nameEn": "Pat O'Malley",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197633.jpg"
+                    },
+                    {
+                        "id": 222491,
+                        "nameRu": "",
+                        "nameEn": "George Periolat",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222491.jpg"
+                    },
+                    {
+                        "id": 29139,
+                        "nameRu": "Артур Рэнкин",
+                        "nameEn": "Arthur Rankin",
+                        "description": "Frank, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_29139.jpg"
+                    },
+                    {
+                        "id": 187847,
+                        "nameRu": "Фрэнсис Рэймонд",
+                        "nameEn": "Frances Raymond",
+                        "description": "Dowager, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187847.jpg"
+                    },
+                    {
+                        "id": 219075,
+                        "nameRu": "Сана Райа",
+                        "nameEn": "Sana Rayya",
+                        "description": "Emma, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219075.jpg"
+                    },
+                    {
+                        "id": 363385,
+                        "nameRu": "Хэррингтон Рейнольдс",
+                        "nameEn": "Harrington Reynolds",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363385.jpg"
+                    },
+                    {
+                        "id": 196622,
+                        "nameRu": "Джек Райс",
+                        "nameEn": "Jack Rice",
+                        "description": "Newspaperman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196622.jpg"
+                    },
+                    {
+                        "id": 217660,
+                        "nameRu": "Вера Стэдмен",
+                        "nameEn": "Vera Steadman",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217660.jpg"
+                    },
+                    {
+                        "id": 212700,
+                        "nameRu": "Аль Стюарт",
+                        "nameEn": "Al Stewart",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212700.jpg"
+                    },
+                    {
+                        "id": 360815,
+                        "nameRu": "Рэй Стюарт",
+                        "nameEn": "Ray Stewart",
+                        "description": "Pedestrian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360815.jpg"
+                    },
+                    {
+                        "id": 216887,
+                        "nameRu": "Джерри Сторм",
+                        "nameEn": "Jerome Storm",
+                        "description": "Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216887.jpg"
+                    },
+                    {
+                        "id": 215849,
+                        "nameRu": "Эдвард Томас",
+                        "nameEn": "Edward Thomas",
+                        "description": "Ticket Taker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215849.jpg"
+                    },
+                    {
+                        "id": 196602,
+                        "nameRu": "Макс Вагнер",
+                        "nameEn": "Max Wagner",
+                        "description": "Smoker in Diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196602.jpg"
+                    },
+                    {
+                        "id": 218550,
+                        "nameRu": "Полин Вагнер",
+                        "nameEn": "Pauline Wagner",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218550.jpg"
+                    },
+                    {
+                        "id": 220535,
+                        "nameRu": "Милдред Вашингтон",
+                        "nameEn": "Mildred Washington",
+                        "description": "Rita Vernon's Dresser, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220535.jpg"
+                    },
+                    {
+                        "id": 219872,
+                        "nameRu": "Флоренция Уикс",
+                        "nameEn": "Florence Wix",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219872.jpg"
+                    },
+                    {
+                        "id": 215721,
+                        "nameRu": "Уильям Вортингтон",
+                        "nameEn": "William Worthington",
+                        "description": "Banker - Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215721.jpg"
+                    },
+                    {
+                        "id": 216158,
+                        "nameRu": "Отто Ямаока",
+                        "nameEn": "Otto Yamaoka",
+                        "description": "Servant, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216158.jpg"
+                    },
+                    {
+                        "id": 924125,
+                        "nameRu": "",
+                        "nameEn": "Gwen Zetter",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_924125.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 214551,
+                        "nameRu": "Ховард Дж. Грин",
+                        "nameEn": "Howard J. Green",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214551.jpg"
+                    },
+                    {
+                        "id": 206805,
+                        "nameRu": "Зои Экинс",
+                        "nameEn": "Zoe Akins",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206805.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 154896,
+                        "nameRu": "Пандро С. Берман",
+                        "nameEn": "Pandro S. Berman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154896.jpg"
+                    },
+                    {
+                        "id": 64822,
+                        "nameRu": "Мериан К. Купер",
+                        "nameEn": "Merian C. Cooper",
+                        "description": "исполнительный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_64822.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 358835,
+                        "nameRu": "Берт Гленнон",
+                        "nameEn": "Bert Glennon",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358835.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 202348,
+                        "nameRu": "Макс Штайнер",
+                        "nameEn": "Max Steiner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202348.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 206257,
+                        "nameRu": "Уолтер Планкетт",
+                        "nameEn": "Walter Plunkett",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206257.jpg"
+                    },
+                    {
+                        "id": 3950564,
+                        "nameRu": "Рэй Мойер",
+                        "nameEn": "Ray Moyer",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3950564.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 361592,
+                        "nameRu": "Уильям Хэмилтон",
+                        "nameEn": "William Hamilton",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361592.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 14 мин",
+                "description": "Ева Лавлейс, желающая стать актрисой, приехала в Нью-Йорк из маленького городка штата Вермонт, имея при себе только письмо от Бернарда Шоу, в котором он пророчит ей большое будущее. Она пытается попасть на нью-йоркскую сцену театра и при этом настроена решительно и оптимистично.",
+                "oscar": [
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 102546,
+                                "nameRu": "Кэтрин Хепберн",
+                                "nameEn": "Katharine Hepburn",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/102546.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/12001/",
+                "webUrl": "https://www.kinopoisk.ru/film/12001/",
+                "lastSync": "2024-12-28T07:12:23.180Z"
+            },
+            {
+                "kinopoiskId": 20633,
+                "nameRu": "Путешествие в одну сторону",
+                "nameOriginal": "One Way Passage",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/20633.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/20633.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 50,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6,
+                "ratingKinopoiskVoteCount": 222,
+                "ratingImdb": 7.5,
+                "ratingImdbVoteCount": 4518,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 208819,
+                        "nameRu": "Тэй Гарнетт",
+                        "nameEn": "Tay Garnett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208819.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178200,
+                        "nameRu": "Уильям Пауэлл",
+                        "nameEn": "William Powell",
+                        "description": "Dan Hardesty",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178200.jpg"
+                    },
+                    {
+                        "id": 220122,
+                        "nameRu": "Кэй Френсис",
+                        "nameEn": "Kay Francis",
+                        "description": "Joan Ames",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220122.jpg"
+                    },
+                    {
+                        "id": 196723,
+                        "nameRu": "Элин МакМэон",
+                        "nameEn": "Aline MacMahon",
+                        "description": "Barrel House Betty",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196723.jpg"
+                    },
+                    {
+                        "id": 192266,
+                        "nameRu": "Фрэнк МакХью",
+                        "nameEn": "Frank McHugh",
+                        "description": "Skippy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192266.jpg"
+                    },
+                    {
+                        "id": 213538,
+                        "nameRu": "Уоррен Хаймер",
+                        "nameEn": "Warren Hymer",
+                        "description": "Steve Burke",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213538.jpg"
+                    },
+                    {
+                        "id": 213413,
+                        "nameRu": "Фредерик Бертон",
+                        "nameEn": "Frederick Burton",
+                        "description": "The Doctor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213413.jpg"
+                    },
+                    {
+                        "id": 209731,
+                        "nameRu": "Глен Кэвендер",
+                        "nameEn": "Glen Cavender",
+                        "description": "French Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209731.jpg"
+                    },
+                    {
+                        "id": 6911360,
+                        "nameRu": "",
+                        "nameEn": "Irma Dane",
+                        "description": "Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6911360.jpg"
+                    },
+                    {
+                        "id": 220248,
+                        "nameRu": "Майк Донлин",
+                        "nameEn": "Mike Donlin",
+                        "description": "Hong Kong Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220248.jpg"
+                    },
+                    {
+                        "id": 216285,
+                        "nameRu": "Стэнли Филдс",
+                        "nameEn": "Stanley Fields",
+                        "description": "Freighter Captain, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216285.jpg"
+                    },
+                    {
+                        "id": 213975,
+                        "nameRu": "Уилли Фун",
+                        "nameEn": "Willie Fung",
+                        "description": "Hong Kong Curio Dealer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213975.jpg"
+                    },
+                    {
+                        "id": 217741,
+                        "nameRu": "Аль Эрнест Гарсиа",
+                        "nameEn": "Al Ernest Garcia",
+                        "description": "Honolulu Cigar Store Proprietor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217741.jpg"
+                    },
+                    {
+                        "id": 211108,
+                        "nameRu": "Дуглас Джеррард",
+                        "nameEn": "Douglas Gerrard",
+                        "description": "Sir Harold, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211108.jpg"
+                    },
+                    {
+                        "id": 207030,
+                        "nameRu": "Уильям Гулд",
+                        "nameEn": "William Gould",
+                        "description": "Singing Drunk, в титрах не указан, слухи",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207030.jpg"
+                    },
+                    {
+                        "id": 206810,
+                        "nameRu": "Рут Холл",
+                        "nameEn": "Ruth Hall",
+                        "description": "Friend of Joan's, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206810.jpg"
+                    },
+                    {
+                        "id": 212174,
+                        "nameRu": "Уильям Халлиган",
+                        "nameEn": "William Halligan",
+                        "description": "Agua Caliente Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212174.jpg"
+                    },
+                    {
+                        "id": 212891,
+                        "nameRu": "Джейн Джонс",
+                        "nameEn": "Jane Jones",
+                        "description": "Singer «If I Had My Way», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212891.jpg"
+                    },
+                    {
+                        "id": 217359,
+                        "nameRu": "Мэл Калиш",
+                        "nameEn": "Mel Kalish",
+                        "description": "Singer, «If I Had My Way», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217359.jpg"
+                    },
+                    {
+                        "id": 195850,
+                        "nameRu": "Роско Карнс",
+                        "nameEn": "Roscoe Karns",
+                        "description": "S.S.Maloa Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195850.jpg"
+                    },
+                    {
+                        "id": 209621,
+                        "nameRu": "Аллан Лэйн",
+                        "nameEn": "Allan Lane",
+                        "description": "Friend of Joan's, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209621.jpg"
+                    },
+                    {
+                        "id": 220479,
+                        "nameRu": "",
+                        "nameEn": "Wilson Mizner",
+                        "description": "Singing Drunk, в титрах не указан, слухи",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220479.jpg"
+                    },
+                    {
+                        "id": 217260,
+                        "nameRu": "Герберт Мандин",
+                        "nameEn": "Herbert Mundin",
+                        "description": "S.S.Maloa Steward, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217260.jpg"
+                    },
+                    {
+                        "id": 180615,
+                        "nameRu": "Дьюи Робинсон",
+                        "nameEn": "Dewey Robinson",
+                        "description": "Honolulu Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180615.jpg"
+                    },
+                    {
+                        "id": 200089,
+                        "nameRu": "Гарри Сеймур",
+                        "nameEn": "Harry Seymour",
+                        "description": "Ship's Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200089.jpg"
+                    },
+                    {
+                        "id": 194393,
+                        "nameRu": "Чарльз Шерлок",
+                        "nameEn": "Charles Sherlock",
+                        "description": "Man Listening to Betty, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194393.jpg"
+                    },
+                    {
+                        "id": 214813,
+                        "nameRu": "Стэнхоуп Уиткрофт",
+                        "nameEn": "Stanhope Wheatcroft",
+                        "description": "Ship's Passenger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214813.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 220479,
+                        "nameRu": "",
+                        "nameEn": "Wilson Mizner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220479.jpg"
+                    },
+                    {
+                        "id": 221246,
+                        "nameRu": "Джозеф Джексон",
+                        "nameEn": "Joseph Jackson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221246.jpg"
+                    },
+                    {
+                        "id": 208353,
+                        "nameRu": "Роберт Лорд",
+                        "nameEn": "Robert Lord",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208353.jpg"
+                    },
+                    {
+                        "id": 208819,
+                        "nameRu": "Тэй Гарнетт",
+                        "nameEn": "Tay Garnett",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208819.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 208353,
+                        "nameRu": "Роберт Лорд",
+                        "nameEn": "Robert Lord",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208353.jpg"
+                    },
+                    {
+                        "id": 179989,
+                        "nameRu": "Хэл Б. Уоллис",
+                        "nameEn": "Hal B. Wallis",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_179989.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 365968,
+                        "nameRu": "Роберт Керрл",
+                        "nameEn": "Robert Kurrle",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365968.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 2011654,
+                        "nameRu": "Антон Грот",
+                        "nameEn": "Anton Grot",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2011654.jpg"
+                    },
+                    {
+                        "id": 1999459,
+                        "nameRu": "Орри-Келли",
+                        "nameEn": "Orry-Kelly",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1999459.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 217608,
+                        "nameRu": "Ральф Досон",
+                        "nameEn": "Ralph Dawson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217608.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 7 мин",
+                "description": "На борту круизного лайнера из Гонконга в Сан-Франциско зарождается любовь между пойманным преступником, которого под конвоем везут в тюрьму Сан-Квентин, где его должны казнить, и неизлечимо больной пассажиркой.",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 208353,
+                                "nameRu": "Роберт Лорд",
+                                "nameEn": "Robert Lord",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/208353.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/20633/",
+                "webUrl": "https://www.kinopoisk.ru/film/20633/",
+                "lastSync": "2024-12-28T07:12:23.338Z"
+            },
+            {
+                "kinopoiskId": 10470,
+                "nameRu": "Распутин и императрица",
+                "nameOriginal": "Rasputin and the Empress",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/10470.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/10470.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 5.8,
+                "ratingKinopoiskVoteCount": 230,
+                "ratingImdb": 6.5,
+                "ratingImdbVoteCount": 1234,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "биография"
+                    },
+                    {
+                        "genre": "история"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 218246,
+                        "nameRu": "Ричард Болеславский",
+                        "nameEn": "Richard Boleslawski",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218246.jpg"
+                    },
+                    {
+                        "id": 220606,
+                        "nameRu": "Чарльз Бребин",
+                        "nameEn": "Charles Brabin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220606.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 205169,
+                        "nameRu": "Этель Бэрримор",
+                        "nameEn": "Ethel Barrymore",
+                        "description": "The Czarina - Alexandra",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205169.jpg"
+                    },
+                    {
+                        "id": 178218,
+                        "nameRu": "Лайонел Бэрримор",
+                        "nameEn": "Lionel Barrymore",
+                        "description": "Grigori Yefimovitch Rasputin",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178218.jpg"
+                    },
+                    {
+                        "id": 208846,
+                        "nameRu": "Ральф Морган",
+                        "nameEn": "Ralph Morgan",
+                        "description": "The Czar - Nicholai Alexander",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208846.jpg"
+                    },
+                    {
+                        "id": 220355,
+                        "nameRu": "Тад Александр",
+                        "nameEn": "Tad Alexander",
+                        "description": "The Czarevitch -Alexis Nikolaiovitch",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220355.jpg"
+                    },
+                    {
+                        "id": 127432,
+                        "nameRu": "Джон Бэрримор",
+                        "nameEn": "John Barrymore",
+                        "description": "Prince Paul Chegodieff",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_127432.jpg"
+                    },
+                    {
+                        "id": 202361,
+                        "nameRu": "Диана Виньяр",
+                        "nameEn": "Diana Wynyard",
+                        "description": "Princess Natasha",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202361.jpg"
+                    },
+                    {
+                        "id": 218253,
+                        "nameRu": "С. Генри Гордон",
+                        "nameEn": "C. Henry Gordon",
+                        "description": "Grand Duke Igor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218253.jpg"
+                    },
+                    {
+                        "id": 207233,
+                        "nameRu": "Эдвард Арнольд",
+                        "nameEn": "Edward Arnold",
+                        "description": "Doctor Remezov",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207233.jpg"
+                    },
+                    {
+                        "id": 203911,
+                        "nameRu": "Луи Альберни",
+                        "nameEn": "Luis Alberni",
+                        "description": "Photographer's Assistant, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203911.jpg"
+                    },
+                    {
+                        "id": 220608,
+                        "nameRu": "Мэри Элден",
+                        "nameEn": "Mary Alden",
+                        "description": "Natasha's Lady in Waiting, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220608.jpg"
+                    },
+                    {
+                        "id": 219757,
+                        "nameRu": "Роберт Андерсон",
+                        "nameEn": "Robert Anderson",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219757.jpg"
+                    },
+                    {
+                        "id": 218033,
+                        "nameRu": "Оскар Апфель",
+                        "nameEn": "Oscar Apfel",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218033.jpg"
+                    },
+                    {
+                        "id": 213125,
+                        "nameRu": "Генри Арметта",
+                        "nameEn": "Henry Armetta",
+                        "description": "Photographer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213125.jpg"
+                    },
+                    {
+                        "id": 213972,
+                        "nameRu": "Хупер Этчли",
+                        "nameEn": "Hooper Atchley",
+                        "description": "Rasputin's Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213972.jpg"
+                    },
+                    {
+                        "id": 193352,
+                        "nameRu": "Миша Ауэр",
+                        "nameEn": "Mischa Auer",
+                        "description": "Butler Pouring Drinks at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193352.jpg"
+                    },
+                    {
+                        "id": 215299,
+                        "nameRu": "Реджинальд Барлоу",
+                        "nameEn": "Reginald Barlow",
+                        "description": "General Who Underestimated the Japanese, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215299.jpg"
+                    },
+                    {
+                        "id": 219557,
+                        "nameRu": "",
+                        "nameEn": "Barbara Barondess",
+                        "description": "Woman Getting Cigarette, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219557.jpg"
+                    },
+                    {
+                        "id": 212034,
+                        "nameRu": "Макс Барвин",
+                        "nameEn": "Max Barwyn",
+                        "description": "Bald Man Trying to See Duna, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212034.jpg"
+                    },
+                    {
+                        "id": 218304,
+                        "nameRu": "Морис Блэк",
+                        "nameEn": "Maurice Black",
+                        "description": "Revolutionary Soldier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218304.jpg"
+                    },
+                    {
+                        "id": 219933,
+                        "nameRu": "Уильям «Стейдж» Бойд",
+                        "nameEn": "William «Stage» Boyd",
+                        "description": "Comrade General, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219933.jpg"
+                    },
+                    {
+                        "id": 220609,
+                        "nameRu": "Франческа Браджиотти",
+                        "nameEn": "Francesca Braggiotti",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220609.jpg"
+                    },
+                    {
+                        "id": 218132,
+                        "nameRu": "Уильям Барресс",
+                        "nameEn": "William Burgess",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218132.jpg"
+                    },
+                    {
+                        "id": 220610,
+                        "nameRu": "Роберт Кэйн",
+                        "nameEn": "Robert Cain",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220610.jpg"
+                    },
+                    {
+                        "id": 219990,
+                        "nameRu": "Эмиль Шотар",
+                        "nameEn": "Emile Chautard",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219990.jpg"
+                    },
+                    {
+                        "id": 217026,
+                        "nameRu": "Клэй Клемент",
+                        "nameEn": "Clay Clement",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217026.jpg"
+                    },
+                    {
+                        "id": 220274,
+                        "nameRu": "Луиз Клоссер Хейл",
+                        "nameEn": "Louise Closser Hale",
+                        "description": "Lazy Spoiled Woman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220274.jpg"
+                    },
+                    {
+                        "id": 208855,
+                        "nameRu": "Ричард Крамер",
+                        "nameEn": "Richard Cramer",
+                        "description": "Revolutionary Given Birdcage, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208855.jpg"
+                    },
+                    {
+                        "id": 215943,
+                        "nameRu": "Найджел Де Брулир",
+                        "nameEn": "Nigel De Brulier",
+                        "description": "Priest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215943.jpg"
+                    },
+                    {
+                        "id": 191931,
+                        "nameRu": "Жан Дель Вэл",
+                        "nameEn": "Jean Del Val",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_191931.jpg"
+                    },
+                    {
+                        "id": 211175,
+                        "nameRu": "Хелен Фриман",
+                        "nameEn": "Helen Freeman",
+                        "description": "Hysterical Woman About to Be Shot, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211175.jpg"
+                    },
+                    {
+                        "id": 219559,
+                        "nameRu": "Дэйл Фуллер",
+                        "nameEn": "Dale Fuller",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219559.jpg"
+                    },
+                    {
+                        "id": 219925,
+                        "nameRu": "Кларенс Гелдарт",
+                        "nameEn": "Clarence Geldert",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219925.jpg"
+                    },
+                    {
+                        "id": 587121,
+                        "nameRu": "Мириам Голден",
+                        "nameEn": "Miriam Goldina",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_587121.jpg"
+                    },
+                    {
+                        "id": 214524,
+                        "nameRu": "Джулия Гриффит",
+                        "nameEn": "Julia Griffith",
+                        "description": "Aristocrat at Ball, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214524.jpg"
+                    },
+                    {
+                        "id": 212079,
+                        "nameRu": "Бен Холл",
+                        "nameEn": "Ben Hall",
+                        "description": "Boy About to Be Shot, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212079.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Officer Watching Celebration Mass, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 213592,
+                        "nameRu": "Кэри Харрисон",
+                        "nameEn": "Carey Harrison",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213592.jpg"
+                    },
+                    {
+                        "id": 218374,
+                        "nameRu": "Шарлотта Генри",
+                        "nameEn": "Charlotte Henry",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218374.jpg"
+                    },
+                    {
+                        "id": 211404,
+                        "nameRu": "Брэндон Херст",
+                        "nameEn": "Brandon Hurst",
+                        "description": "Staff General, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211404.jpg"
+                    },
+                    {
+                        "id": 211520,
+                        "nameRu": "Джордж Ирвинг",
+                        "nameEn": "George Irving",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211520.jpg"
+                    },
+                    {
+                        "id": 219828,
+                        "nameRu": "Изабель Кит",
+                        "nameEn": "Isabelle Keith",
+                        "description": "Party Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219828.jpg"
+                    },
+                    {
+                        "id": 218049,
+                        "nameRu": "Мюррэй Киннелл",
+                        "nameEn": "Murray Kinnell",
+                        "description": "Professor Kropotkin, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218049.jpg"
+                    },
+                    {
+                        "id": 211851,
+                        "nameRu": "Генри Колкер",
+                        "nameEn": "Henry Kolker",
+                        "description": "Chief of Secret Police, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211851.jpg"
+                    },
+                    {
+                        "id": 220612,
+                        "nameRu": "Отто Ледерер",
+                        "nameEn": "Otto Lederer",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220612.jpg"
+                    },
+                    {
+                        "id": 207829,
+                        "nameRu": "Роберт Лииз",
+                        "nameEn": "Robert Lees",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207829.jpg"
+                    },
+                    {
+                        "id": 211539,
+                        "nameRu": "Фрэнк Ли",
+                        "nameEn": "Frank Leigh",
+                        "description": "Aristocrat at Ball, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211539.jpg"
+                    },
+                    {
+                        "id": 205774,
+                        "nameRu": "Люсьен Литтлфилд",
+                        "nameEn": "Lucien Littlefield",
+                        "description": "Reveler at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205774.jpg"
+                    },
+                    {
+                        "id": 213230,
+                        "nameRu": "Эйли Мэлион",
+                        "nameEn": "Eily Malyon",
+                        "description": "Woman Yelling «Blessed Among Women!», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213230.jpg"
+                    },
+                    {
+                        "id": 217373,
+                        "nameRu": "Маргарет Манн",
+                        "nameEn": "Margaret Mann",
+                        "description": "One of the Czarevetch's Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217373.jpg"
+                    },
+                    {
+                        "id": 195260,
+                        "nameRu": "Эдриэнн Мэрден",
+                        "nameEn": "Adrienne Marden",
+                        "description": "Undetermined Secondary Role (в титрах: Mabel Marden), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195260.jpg"
+                    },
+                    {
+                        "id": 220614,
+                        "nameRu": "Мэри Мэрден",
+                        "nameEn": "Mary Marden",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220614.jpg"
+                    },
+                    {
+                        "id": 189475,
+                        "nameRu": "Майкл Марк",
+                        "nameEn": "Michael Mark",
+                        "description": "Revolutionary Soldier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189475.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Aristocrat at Ball, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 219289,
+                        "nameRu": "Джейн Мерсер",
+                        "nameEn": "Jane Mercer",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219289.jpg"
+                    },
+                    {
+                        "id": 220615,
+                        "nameRu": "Дженева Митчелл",
+                        "nameEn": "Geneva Mitchell",
+                        "description": "Aristocrat at Ball, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220615.jpg"
+                    },
+                    {
+                        "id": 213562,
+                        "nameRu": "Эдмунд Мортимер",
+                        "nameEn": "Edmund Mortimer",
+                        "description": "Officer Watching Celebration Mass, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213562.jpg"
+                    },
+                    {
+                        "id": 214965,
+                        "nameRu": "Луа Натуа",
+                        "nameEn": "Louis Natheaux",
+                        "description": "Rasputin's Security Official at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214965.jpg"
+                    },
+                    {
+                        "id": 194999,
+                        "nameRu": "Дэйв О’Брайэн",
+                        "nameEn": "Dave O'Brien",
+                        "description": "Soldier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194999.jpg"
+                    },
+                    {
+                        "id": 207344,
+                        "nameRu": "Сара Падден",
+                        "nameEn": "Sarah Padden",
+                        "description": "Duna - Landlady, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207344.jpg"
+                    },
+                    {
+                        "id": 192867,
+                        "nameRu": "Джин Паркер",
+                        "nameEn": "Jean Parker",
+                        "description": "Princess Maria, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192867.jpg"
+                    },
+                    {
+                        "id": 215454,
+                        "nameRu": "Пернелл Прэтт",
+                        "nameEn": "Purnell Pratt",
+                        "description": "Officer Quieting Grand Duke Igor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215454.jpg"
+                    },
+                    {
+                        "id": 209641,
+                        "nameRu": "Фрэнк Рейхер",
+                        "nameEn": "Frank Reicher",
+                        "description": "German-Language Teacher, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209641.jpg"
+                    },
+                    {
+                        "id": 220616,
+                        "nameRu": "Рут Реник",
+                        "nameEn": "Ruth Renick",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220616.jpg"
+                    },
+                    {
+                        "id": 195314,
+                        "nameRu": "Хелен Робинсон",
+                        "nameEn": "Helen Robinson",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195314.jpg"
+                    },
+                    {
+                        "id": 216072,
+                        "nameRu": "Эвелин Селби",
+                        "nameEn": "Evelyn Selbie",
+                        "description": "The Czarevtich's Head Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216072.jpg"
+                    },
+                    {
+                        "id": 214638,
+                        "nameRu": "Фрэнк Шеннон",
+                        "nameEn": "Frank Shannon",
+                        "description": "Staff General, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214638.jpg"
+                    },
+                    {
+                        "id": 211388,
+                        "nameRu": "Ч. Монтегю Шоу",
+                        "nameEn": "C. Montague Shaw",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211388.jpg"
+                    },
+                    {
+                        "id": 213442,
+                        "nameRu": "Энн Ширли",
+                        "nameEn": "Anne Shirley",
+                        "description": "Princess Anastasia, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213442.jpg"
+                    },
+                    {
+                        "id": 212586,
+                        "nameRu": "Марта Слипер",
+                        "nameEn": "Martha Sleeper",
+                        "description": "Party Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212586.jpg"
+                    },
+                    {
+                        "id": 209288,
+                        "nameRu": "Ларри Стирс",
+                        "nameEn": "Larry Steers",
+                        "description": "Aristocrat at Ball, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209288.jpg"
+                    },
+                    {
+                        "id": 213151,
+                        "nameRu": "Эллинор Вандервеер",
+                        "nameEn": "Ellinor Vanderveer",
+                        "description": "Court Dignitary Watching Celebration Mass, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213151.jpg"
+                    },
+                    {
+                        "id": 371325,
+                        "nameRu": "Густав фон Сейффертитц",
+                        "nameEn": "Gustav von Seyffertitz",
+                        "description": "Dr. Franz Wolfe, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_371325.jpg"
+                    },
+                    {
+                        "id": 211725,
+                        "nameRu": "Милтон Уоллес",
+                        "nameEn": "Milton Wallace",
+                        "description": "Staff General, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211725.jpg"
+                    },
+                    {
+                        "id": 209734,
+                        "nameRu": "Лео Уайт",
+                        "nameEn": "Leo White",
+                        "description": "Reveler at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209734.jpg"
+                    },
+                    {
+                        "id": 216547,
+                        "nameRu": "Кларенс Уилсон",
+                        "nameEn": "Clarence Wilson",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216547.jpg"
+                    },
+                    {
+                        "id": 220617,
+                        "nameRu": "Кэрол Уайнс",
+                        "nameEn": "Carol Wines",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220617.jpg"
+                    },
+                    {
+                        "id": 1020356,
+                        "nameRu": "Сюзанн Вуд",
+                        "nameEn": "Suzanne Wood",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1020356.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 181858,
+                        "nameRu": "Чарльз МакАртур",
+                        "nameEn": "Charles MacArthur",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181858.jpg"
+                    },
+                    {
+                        "id": 198895,
+                        "nameRu": "Ленор Дж. Коффи",
+                        "nameEn": "Lenore J. Coffee",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198895.jpg"
+                    },
+                    {
+                        "id": 209672,
+                        "nameRu": "Джон Колтон",
+                        "nameEn": "John Colton",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209672.jpg"
+                    },
+                    {
+                        "id": 97520,
+                        "nameRu": "Бен Хект",
+                        "nameEn": "Ben Hecht",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_97520.jpg"
+                    },
+                    {
+                        "id": 217771,
+                        "nameRu": "Бернард Х. Химэн",
+                        "nameEn": "Bernard H. Hyman",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217771.jpg"
+                    },
+                    {
+                        "id": 194809,
+                        "nameRu": "Джон Ли Мэхин",
+                        "nameEn": "John Lee Mahin",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194809.jpg"
+                    },
+                    {
+                        "id": 211143,
+                        "nameRu": "Джон Миэн",
+                        "nameEn": "John Meehan",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211143.jpg"
+                    },
+                    {
+                        "id": 352368,
+                        "nameRu": "Милтон Рэйсон",
+                        "nameEn": "Milton Raison",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_352368.jpg"
+                    },
+                    {
+                        "id": 89760,
+                        "nameRu": "Роберт Э. Шервуд",
+                        "nameEn": "Robert E. Sherwood",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_89760.jpg"
+                    },
+                    {
+                        "id": 206553,
+                        "nameRu": "Лоуренс Сталлингс",
+                        "nameEn": "Laurence Stallings",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206553.jpg"
+                    },
+                    {
+                        "id": 201072,
+                        "nameRu": "С. Гарднер Салливан",
+                        "nameEn": "C. Gardner Sullivan",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201072.jpg"
+                    },
+                    {
+                        "id": 207551,
+                        "nameRu": "Кэри Уилсон",
+                        "nameEn": "Carey Wilson",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207551.jpg"
+                    },
+                    {
+                        "id": 220607,
+                        "nameRu": "Мерседес Де Акоста",
+                        "nameEn": "Mercedes de Acosta",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220607.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 217771,
+                        "nameRu": "Бернард Х. Химэн",
+                        "nameEn": "Bernard H. Hyman",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217771.jpg"
+                    },
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "исполнительный продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 193349,
+                        "nameRu": "Уильям Х. Дэниелс",
+                        "nameEn": "William H. Daniels",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193349.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 215971,
+                        "nameRu": "Херберт Стотхарт",
+                        "nameEn": "Herbert Stothart",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215971.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 2013643,
+                        "nameRu": "Александр Толубофф",
+                        "nameEn": "Alexander Toluboff",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2013643.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2014802,
+                        "nameRu": "Том Хелд",
+                        "nameEn": "Tom Held",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014802.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "16+",
+                "ratingMpaa": null,
+                "filmLength": "2 ч 1 мин",
+                "description": "Когда медицина не помогает больному царевичу Алексею, в дом приглашают эксцентричного монаха Распутина, прослывшего целителем. Таинственным образом ему удаётся облегчить страдания наследника престола. Царская семья покорно сносит все выходки Распутина, слушает его советы, а тем временем амбициозный мошенник тайно вершит политику.",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 181858,
+                                "nameRu": "Чарльз МакАртур",
+                                "nameEn": "Charles MacArthur",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/181858.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/10470/",
+                "webUrl": "https://www.kinopoisk.ru/film/10470/",
+                "lastSync": "2024-12-28T07:12:23.527Z"
+            },
+            {
+                "kinopoiskId": 13041,
+                "nameRu": "Боксер и Леди",
+                "nameOriginal": "The Prizefighter and the Lady",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/13041.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/13041.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 30,
+                "ratingImdb": 6.3,
+                "ratingImdbVoteCount": 1106,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "криминал"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "спорт"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 215263,
+                        "nameRu": "В.С. Ван Дайк",
+                        "nameEn": "W.S. Van Dyke",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215263.jpg"
+                    },
+                    {
+                        "id": 160426,
+                        "nameRu": "Ховард Хоукс",
+                        "nameEn": "Howard Hawks",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_160426.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 169887,
+                        "nameRu": "Мирна Лой",
+                        "nameEn": "Myrna Loy",
+                        "description": "Belle",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169887.jpg"
+                    },
+                    {
+                        "id": 204284,
+                        "nameRu": "Макс Бэр",
+                        "nameEn": "Max Baer",
+                        "description": "Steve Morgan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204284.jpg"
+                    },
+                    {
+                        "id": 205773,
+                        "nameRu": "Примо Карнера",
+                        "nameEn": "Primo Carnera",
+                        "description": "играет самого себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205773.jpg"
+                    },
+                    {
+                        "id": 197644,
+                        "nameRu": "Джек Демпси",
+                        "nameEn": "Jack Dempsey",
+                        "description": "играет самого себя - Promoter",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197644.jpg"
+                    },
+                    {
+                        "id": 180611,
+                        "nameRu": "Уолтер Хьюстон",
+                        "nameEn": "Walter Huston",
+                        "description": "Professor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180611.jpg"
+                    },
+                    {
+                        "id": 194951,
+                        "nameRu": "Отто Крюгер",
+                        "nameEn": "Otto Kruger",
+                        "description": "Willie Ryan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194951.jpg"
+                    },
+                    {
+                        "id": 194562,
+                        "nameRu": "Винс Барнетт",
+                        "nameEn": "Vince Barnett",
+                        "description": "Bugsie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194562.jpg"
+                    },
+                    {
+                        "id": 217413,
+                        "nameRu": "Роберт МакУэйд",
+                        "nameEn": "Robert McWade",
+                        "description": "Adopted Son",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217413.jpg"
+                    },
+                    {
+                        "id": 218032,
+                        "nameRu": "Мюриэль Эванс",
+                        "nameEn": "Muriel Evans",
+                        "description": "Linda",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218032.jpg"
+                    },
+                    {
+                        "id": 220384,
+                        "nameRu": "Джин Ховард",
+                        "nameEn": "Jean Howard",
+                        "description": "Show Girl",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220384.jpg"
+                    },
+                    {
+                        "id": 215566,
+                        "nameRu": "Дороти Эпплби",
+                        "nameEn": "Dorothy Appleby",
+                        "description": "Woman in Bar, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215566.jpg"
+                    },
+                    {
+                        "id": 215050,
+                        "nameRu": "Зита Бака",
+                        "nameEn": "Zita Baca",
+                        "description": "Dancer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215050.jpg"
+                    },
+                    {
+                        "id": 200982,
+                        "nameRu": "Брукс Бенедикт",
+                        "nameEn": "Brooks Benedict",
+                        "description": "Reporter at Training Camp, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200982.jpg"
+                    },
+                    {
+                        "id": 218585,
+                        "nameRu": "Лейла Беннетт",
+                        "nameEn": "Leila Bennett",
+                        "description": "Stool-Pigeon Maid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218585.jpg"
+                    },
+                    {
+                        "id": 213488,
+                        "nameRu": "Гарри Брэдли",
+                        "nameEn": "Harry C. Bradley",
+                        "description": "Bar Patron #4, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213488.jpg"
+                    },
+                    {
+                        "id": 151343,
+                        "nameRu": "Дон Броди",
+                        "nameEn": "Don Brodie",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_151343.jpg"
+                    },
+                    {
+                        "id": 218080,
+                        "nameRu": "Билли Коу",
+                        "nameEn": "Billy Coe",
+                        "description": "играет самого себя - Timekeeper for Big Fight, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218080.jpg"
+                    },
+                    {
+                        "id": 213094,
+                        "nameRu": "Кора Сью Коллинз",
+                        "nameEn": "Cora Sue Collins",
+                        "description": "Farmer's Daughter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213094.jpg"
+                    },
+                    {
+                        "id": 365222,
+                        "nameRu": "Билл Даффи",
+                        "nameEn": "Bill Duffy",
+                        "description": "играет самого себя - Carnera's Manager, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365222.jpg"
+                    },
+                    {
+                        "id": 203918,
+                        "nameRu": "Эдвард Эрл",
+                        "nameEn": "Edward Earle",
+                        "description": "Ryan's Associate, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203918.jpg"
+                    },
+                    {
+                        "id": 207721,
+                        "nameRu": "Джей Итон",
+                        "nameEn": "Jay Eaton",
+                        "description": "Bar Patron #1, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207721.jpg"
+                    },
+                    {
+                        "id": 362339,
+                        "nameRu": "Джеки Филдс",
+                        "nameEn": "Jackie Fields",
+                        "description": "играет самого себя - Ex-Welterweight Champion, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362339.jpg"
+                    },
+                    {
+                        "id": 202229,
+                        "nameRu": "Кит Гард",
+                        "nameEn": "Kit Guard",
+                        "description": "Man in Steve's Dressing Room, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202229.jpg"
+                    },
+                    {
+                        "id": 206232,
+                        "nameRu": "Аль Хилл",
+                        "nameEn": "Al Hill",
+                        "description": "Sid Munsie, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206232.jpg"
+                    },
+                    {
+                        "id": 217006,
+                        "nameRu": "Тенен Холц",
+                        "nameEn": "Tenen Holtz",
+                        "description": "Maitre d', в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217006.jpg"
+                    },
+                    {
+                        "id": 213681,
+                        "nameRu": "Артур Хойт",
+                        "nameEn": "Arthur Hoyt",
+                        "description": "Ringside Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213681.jpg"
+                    },
+                    {
+                        "id": 362337,
+                        "nameRu": "Джеймс Дж. Джеффрис",
+                        "nameEn": "James J. Jeffries",
+                        "description": "играет самого себя - Ex-Heavyweight Champion, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362337.jpg"
+                    },
+                    {
+                        "id": 212228,
+                        "nameRu": "Джон Келли",
+                        "nameEn": "John Kelly",
+                        "description": "Bar Patron #5, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212228.jpg"
+                    },
+                    {
+                        "id": 350355,
+                        "nameRu": "Дэннис Керр",
+                        "nameEn": "Donald Kerr",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_350355.jpg"
+                    },
+                    {
+                        "id": 210228,
+                        "nameRu": "Эд Льюис",
+                        "nameEn": "Ed Lewis",
+                        "description": "играет самого себя - Ex-Wrestling Champion «Strangler Lewis», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210228.jpg"
+                    },
+                    {
+                        "id": 220045,
+                        "nameRu": "Мириам Марлин",
+                        "nameEn": "Miriam Marlin",
+                        "description": "Chorine, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220045.jpg"
+                    },
+                    {
+                        "id": 208864,
+                        "nameRu": "Ларри МакГрат",
+                        "nameEn": "Larry McGrath",
+                        "description": "Referee, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208864.jpg"
+                    },
+                    {
+                        "id": 208438,
+                        "nameRu": "Мэтт МакХью",
+                        "nameEn": "Matt McHugh",
+                        "description": "Professor's Drinking Buddy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208438.jpg"
+                    },
+                    {
+                        "id": 210526,
+                        "nameRu": "Фрэнк Моран",
+                        "nameEn": "Frank Moran",
+                        "description": "играет самого себя - Heavyweight Boxer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210526.jpg"
+                    },
+                    {
+                        "id": 208465,
+                        "nameRu": "Деннис О’Кифи",
+                        "nameEn": "Dennis O'Keefe",
+                        "description": "Nightclub Extra, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208465.jpg"
+                    },
+                    {
+                        "id": 209135,
+                        "nameRu": "Гарри Оуэн",
+                        "nameEn": "Garry Owen",
+                        "description": "Jake - Fight Promoter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209135.jpg"
+                    },
+                    {
+                        "id": 365223,
+                        "nameRu": "Билли Папке",
+                        "nameEn": "Billy Papke",
+                        "description": "играет самого себя - Middleweight Champion, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365223.jpg"
+                    },
+                    {
+                        "id": 197206,
+                        "nameRu": "Джек Пенник",
+                        "nameEn": "Jack Pennick",
+                        "description": "Bar Patron #6, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197206.jpg"
+                    },
+                    {
+                        "id": 362341,
+                        "nameRu": "Джо Риверз",
+                        "nameEn": "Joe Rivers",
+                        "description": "играет самого себя - Lightweight Boxer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362341.jpg"
+                    },
+                    {
+                        "id": 212251,
+                        "nameRu": "Рональд Р. Ронделл",
+                        "nameEn": "Ronald R. Rondell",
+                        "description": "Ringsider, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212251.jpg"
+                    },
+                    {
+                        "id": 211244,
+                        "nameRu": "Мэтти Рубер",
+                        "nameEn": "Matty Roubert",
+                        "description": "Newsboy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211244.jpg"
+                    },
+                    {
+                        "id": 1159352,
+                        "nameRu": "Хосе Санта",
+                        "nameEn": "José Santa",
+                        "description": "играет самого себя - Heavyweight Boxer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1159352.jpg"
+                    },
+                    {
+                        "id": 5963187,
+                        "nameRu": "",
+                        "nameEn": "Nicholas Schenck",
+                        "description": "Prizefight Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5963187.jpg"
+                    },
+                    {
+                        "id": 203874,
+                        "nameRu": "Бастер Слейвен",
+                        "nameEn": "Buster Slaven",
+                        "description": "Farmer's Son, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203874.jpg"
+                    },
+                    {
+                        "id": 209288,
+                        "nameRu": "Ларри Стирс",
+                        "nameEn": "Larry Steers",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209288.jpg"
+                    },
+                    {
+                        "id": 214335,
+                        "nameRu": "Карл Стокдейл",
+                        "nameEn": "Carl Stockdale",
+                        "description": "Bar Patron #3, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214335.jpg"
+                    },
+                    {
+                        "id": 211430,
+                        "nameRu": "Дэн Тоби",
+                        "nameEn": "Dan Tobey",
+                        "description": "играет самого себя - Ring Announcer for Big Fight, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211430.jpg"
+                    },
+                    {
+                        "id": 213290,
+                        "nameRu": "Морган Уоллес",
+                        "nameEn": "Morgan Wallace",
+                        "description": "Mr. Black - Fight Promoter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213290.jpg"
+                    },
+                    {
+                        "id": 362922,
+                        "nameRu": "",
+                        "nameEn": "Jay Whidden",
+                        "description": "Orchestra Leader, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362922.jpg"
+                    },
+                    {
+                        "id": 365224,
+                        "nameRu": "Джесс Уиллард",
+                        "nameEn": "Jess Willard",
+                        "description": "играет самого себя - Ex-Heavyweight Champion, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365224.jpg"
+                    },
+                    {
+                        "id": 193977,
+                        "nameRu": "Гарри Уилсон",
+                        "nameEn": "Harry Wilson",
+                        "description": "Training Camp Observer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193977.jpg"
+                    },
+                    {
+                        "id": 205339,
+                        "nameRu": "Гарри Вудс",
+                        "nameEn": "Harry Woods",
+                        "description": "George Lyons, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205339.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 194809,
+                        "nameRu": "Джон Ли Мэхин",
+                        "nameEn": "John Lee Mahin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194809.jpg"
+                    },
+                    {
+                        "id": 211143,
+                        "nameRu": "Джон Миэн",
+                        "nameEn": "John Meehan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211143.jpg"
+                    },
+                    {
+                        "id": 172138,
+                        "nameRu": "Фрэнсис Мэрион",
+                        "nameEn": "Frances Marion",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172138.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 215263,
+                        "nameRu": "В.С. Ван Дайк",
+                        "nameEn": "W.S. Van Dyke",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215263.jpg"
+                    },
+                    {
+                        "id": 210204,
+                        "nameRu": "Хант Стромберг",
+                        "nameEn": "Hunt Stromberg",
+                        "description": "ассоциированный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210204.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 215968,
+                        "nameRu": "Лестер Уайт",
+                        "nameEn": "Lester White",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215968.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 2051057,
+                        "nameRu": "Фредерик Хоуп",
+                        "nameEn": "Fredric Hope",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2051057.jpg"
+                    },
+                    {
+                        "id": 2053177,
+                        "nameRu": "Дэвид Таунсенд",
+                        "nameEn": "David Townsend",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2053177.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2001459,
+                        "nameRu": "Роберт Керн",
+                        "nameEn": "Robert Kern",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2001459.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 42 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 172138,
+                                "nameRu": "Фрэнсис Мэрион",
+                                "nameEn": "Frances Marion",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/172138.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/13041/",
+                "webUrl": "https://www.kinopoisk.ru/film/13041/",
+                "lastSync": "2024-12-28T07:12:23.664Z"
+            },
+            {
+                "kinopoiskId": 15744,
+                "nameRu": "Крестное знамение",
+                "nameOriginal": "The Sign of the Cross",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15744.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15744.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6.6,
+                "ratingKinopoiskVoteCount": 245,
+                "ratingImdb": 6.8,
+                "ratingImdbVoteCount": 2775,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 80113,
+                        "nameRu": "Сесил Б. ДеМилль",
+                        "nameEn": "Cecil B. DeMille",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80113.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 180612,
+                        "nameRu": "Фредрик Марч",
+                        "nameEn": "Fredric March",
+                        "description": "Marcus Superbus, Prefect of Rome",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180612.jpg"
+                    },
+                    {
+                        "id": 218626,
+                        "nameRu": "Элисса Ланди",
+                        "nameEn": "Elissa Landi",
+                        "description": "Mercia",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218626.jpg"
+                    },
+                    {
+                        "id": 193883,
+                        "nameRu": "Клодетт Кольбер",
+                        "nameEn": "Claudette Colbert",
+                        "description": "Empress Poppaea",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193883.jpg"
+                    },
+                    {
+                        "id": 177180,
+                        "nameRu": "Чарльз Лотон",
+                        "nameEn": "Charles Laughton",
+                        "description": "Emperor Nero Claudius Caesar",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_177180.jpg"
+                    },
+                    {
+                        "id": 203886,
+                        "nameRu": "Иэн Кит",
+                        "nameEn": "Ian Keith",
+                        "description": "Tigellinus",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203886.jpg"
+                    },
+                    {
+                        "id": 210729,
+                        "nameRu": "Артур Хол",
+                        "nameEn": "Arthur Hohl",
+                        "description": "Titus",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210729.jpg"
+                    },
+                    {
+                        "id": 218051,
+                        "nameRu": "Гарри Бересфорд",
+                        "nameEn": "Harry Beresford",
+                        "description": "Favius Fontelas",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218051.jpg"
+                    },
+                    {
+                        "id": 215601,
+                        "nameRu": "Том Конлон",
+                        "nameEn": "Tommy Conlon",
+                        "description": "Stephan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215601.jpg"
+                    },
+                    {
+                        "id": 217347,
+                        "nameRu": "Фердинанд Готтшалк",
+                        "nameEn": "Ferdinand Gottschalk",
+                        "description": "Glabrio",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217347.jpg"
+                    },
+                    {
+                        "id": 218679,
+                        "nameRu": "Вивиан Тобин",
+                        "nameEn": "Vivian Tobin",
+                        "description": "Dacia",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218679.jpg"
+                    },
+                    {
+                        "id": 218921,
+                        "nameRu": "Уильям В. Монг",
+                        "nameEn": "William V. Mong",
+                        "description": "Licinius / Old Man Carrying Child",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218921.jpg"
+                    },
+                    {
+                        "id": 220688,
+                        "nameRu": "Джойзель Джойнер",
+                        "nameEn": "Joyzelle Joyner",
+                        "description": "Ancaria (в титрах: Joyzelle)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220688.jpg"
+                    },
+                    {
+                        "id": 193914,
+                        "nameRu": "Ричард Александр",
+                        "nameEn": "Richard Alexander",
+                        "description": "Viturius",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193914.jpg"
+                    },
+                    {
+                        "id": 194992,
+                        "nameRu": "Нат Пендлтон",
+                        "nameEn": "Nat Pendleton",
+                        "description": "Strabo",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194992.jpg"
+                    },
+                    {
+                        "id": 220687,
+                        "nameRu": "Кларенс Бертон",
+                        "nameEn": "Clarence Burton",
+                        "description": "Servillius",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220687.jpg"
+                    },
+                    {
+                        "id": 220350,
+                        "nameRu": "Харольд Хили",
+                        "nameEn": "Harold Healy",
+                        "description": "Tybul",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220350.jpg"
+                    },
+                    {
+                        "id": 212521,
+                        "nameRu": "Роберт Сайтер",
+                        "nameEn": "Robert Seiter",
+                        "description": "Philodemus (в титрах: Robert Manning)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212521.jpg"
+                    },
+                    {
+                        "id": 210433,
+                        "nameRu": "Чарльз Миддлтон",
+                        "nameEn": "Charles Middleton",
+                        "description": "Tyros",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210433.jpg"
+                    },
+                    {
+                        "id": 206018,
+                        "nameRu": "Джоэл Аллен",
+                        "nameEn": "Joel Allen",
+                        "description": "Bombadier (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206018.jpg"
+                    },
+                    {
+                        "id": 193352,
+                        "nameRu": "Миша Ауэр",
+                        "nameEn": "Mischa Auer",
+                        "description": "Christian in Dungeon, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193352.jpg"
+                    },
+                    {
+                        "id": 214232,
+                        "nameRu": "Лайонел Бельмор",
+                        "nameEn": "Lionel Belmore",
+                        "description": "Bettor of 300 Silver, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214232.jpg"
+                    },
+                    {
+                        "id": 208716,
+                        "nameRu": "Тру Бордман",
+                        "nameEn": "True Boardman",
+                        "description": "Nero's Slave, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208716.jpg"
+                    },
+                    {
+                        "id": 219857,
+                        "nameRu": "Марджори Боннер",
+                        "nameEn": "Marjorie Bonner",
+                        "description": "Roman Woman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219857.jpg"
+                    },
+                    {
+                        "id": 220318,
+                        "nameRu": "Джо Бономо",
+                        "nameEn": "Joe Bonomo",
+                        "description": "Mute Torturer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220318.jpg"
+                    },
+                    {
+                        "id": 143681,
+                        "nameRu": "Генри Брэндон",
+                        "nameEn": "Henry Brandon",
+                        "description": "Colosseum Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_143681.jpg"
+                    },
+                    {
+                        "id": 196577,
+                        "nameRu": "Джордж Бруггеман",
+                        "nameEn": "George Bruggeman",
+                        "description": "Nero's Slave, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196577.jpg"
+                    },
+                    {
+                        "id": 213193,
+                        "nameRu": "Хорас Б. Карпентер",
+                        "nameEn": "Horace B. Carpenter",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213193.jpg"
+                    },
+                    {
+                        "id": 100507,
+                        "nameRu": "Джон Кэрредин",
+                        "nameEn": "John Carradine",
+                        "description": "Christian Martyr / Gladiator Leader / Voice in Coliseum Mob / Voice of Roman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_100507.jpg"
+                    },
+                    {
+                        "id": 201096,
+                        "nameRu": "Лейн Чандлер",
+                        "nameEn": "Lane Chandler",
+                        "description": "Chained Christian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201096.jpg"
+                    },
+                    {
+                        "id": 198203,
+                        "nameRu": "Рут Клиффорд",
+                        "nameEn": "Ruth Clifford",
+                        "description": "Christian Mother at Meeting, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198203.jpg"
+                    },
+                    {
+                        "id": 193118,
+                        "nameRu": "Уильям Форрест",
+                        "nameEn": "William Forrest",
+                        "description": "Col. Hugh Mason (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193118.jpg"
+                    },
+                    {
+                        "id": 206093,
+                        "nameRu": "Чарльз Гемора",
+                        "nameEn": "Charles Gemora",
+                        "description": "Gorilla, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206093.jpg"
+                    },
+                    {
+                        "id": 220622,
+                        "nameRu": "Винн Гибсон",
+                        "nameEn": "Wynne Gibson",
+                        "description": "Orgy Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220622.jpg"
+                    },
+                    {
+                        "id": 202449,
+                        "nameRu": "Дороти Грэйнджер",
+                        "nameEn": "Dorothy Granger",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202449.jpg"
+                    },
+                    {
+                        "id": 217577,
+                        "nameRu": "Кэрол Холлоуэй",
+                        "nameEn": "Carol Holloway",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217577.jpg"
+                    },
+                    {
+                        "id": 211001,
+                        "nameRu": "Джон Джеймс",
+                        "nameEn": "John James",
+                        "description": "Lt. Herb Hanson (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211001.jpg"
+                    },
+                    {
+                        "id": 220612,
+                        "nameRu": "Отто Ледерер",
+                        "nameEn": "Otto Lederer",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220612.jpg"
+                    },
+                    {
+                        "id": 219579,
+                        "nameRu": "Лиллиан Лейтон",
+                        "nameEn": "Lillian Leighton",
+                        "description": "Woman Getting Gold for Cup, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219579.jpg"
+                    },
+                    {
+                        "id": 216261,
+                        "nameRu": "Эдвард ЛеСэйнт",
+                        "nameEn": "Edward LeSaint",
+                        "description": "Enthusiastic Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216261.jpg"
+                    },
+                    {
+                        "id": 215733,
+                        "nameRu": "Уилфред Лукас",
+                        "nameEn": "Wilfred Lucas",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215733.jpg"
+                    },
+                    {
+                        "id": 204901,
+                        "nameRu": "Джеймс Милликэн",
+                        "nameEn": "James Millican",
+                        "description": "Capt. Kevin Driscoll - (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204901.jpg"
+                    },
+                    {
+                        "id": 218519,
+                        "nameRu": "Гертруда Норман",
+                        "nameEn": "Gertrude Norman",
+                        "description": "Christian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218519.jpg"
+                    },
+                    {
+                        "id": 212620,
+                        "nameRu": "Веджвуд Ноуэлл",
+                        "nameEn": "Wedgwood Nowell",
+                        "description": "Man Accepting 300 Silver Bet, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212620.jpg"
+                    },
+                    {
+                        "id": 194999,
+                        "nameRu": "Дэйв О’Брайэн",
+                        "nameEn": "Dave O'Brien",
+                        "description": "Christian on Stairway, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194999.jpg"
+                    },
+                    {
+                        "id": 215782,
+                        "nameRu": "Уильям Х. О’Брайэн",
+                        "nameEn": "William H. O'Brien",
+                        "description": "Man Who Heard Lions All Morning, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215782.jpg"
+                    },
+                    {
+                        "id": 213196,
+                        "nameRu": "Хэл Прайс",
+                        "nameEn": "Hal Price",
+                        "description": "Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213196.jpg"
+                    },
+                    {
+                        "id": 221751,
+                        "nameRu": "Сэлли Рэнд",
+                        "nameEn": "Sally Rand",
+                        "description": "Crocodiles' Victim, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221751.jpg"
+                    },
+                    {
+                        "id": 217213,
+                        "nameRu": "Том Рикеттс",
+                        "nameEn": "Tom Ricketts",
+                        "description": "Sleeping Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217213.jpg"
+                    },
+                    {
+                        "id": 209423,
+                        "nameRu": "Стэнли Риджес",
+                        "nameEn": "Stanley Ridges",
+                        "description": "Chaplain Lloyd (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209423.jpg"
+                    },
+                    {
+                        "id": 152985,
+                        "nameRu": "Анджело Росситто",
+                        "nameEn": "Angelo Rossitto",
+                        "description": "Impaled Pygmy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_152985.jpg"
+                    },
+                    {
+                        "id": 210041,
+                        "nameRu": "Инез Сибёри",
+                        "nameEn": "Ynez Seabury",
+                        "description": "Little Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210041.jpg"
+                    },
+                    {
+                        "id": 200631,
+                        "nameRu": "Артур Шилдс",
+                        "nameEn": "Arthur Shields",
+                        "description": "Chaplain Costello (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200631.jpg"
+                    },
+                    {
+                        "id": 216887,
+                        "nameRu": "Джерри Сторм",
+                        "nameEn": "Jerome Storm",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216887.jpg"
+                    },
+                    {
+                        "id": 197013,
+                        "nameRu": "Кент Тейлор",
+                        "nameEn": "Kent Taylor",
+                        "description": "Romantic Spectator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197013.jpg"
+                    },
+                    {
+                        "id": 211367,
+                        "nameRu": "Оливер Торндайк",
+                        "nameEn": "Oliver Thorndike",
+                        "description": "Lt. Robert Hammond (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211367.jpg"
+                    },
+                    {
+                        "id": 183581,
+                        "nameRu": "Том Талли",
+                        "nameEn": "Tom Tully",
+                        "description": "Hoboken (1944 Re-Release Prologue), в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183581.jpg"
+                    },
+                    {
+                        "id": 214285,
+                        "nameRu": "Флоренс Тернер",
+                        "nameEn": "Florence Turner",
+                        "description": "Christian, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214285.jpg"
+                    },
+                    {
+                        "id": 209343,
+                        "nameRu": "Этель Уэльс",
+                        "nameEn": "Ethel Wales",
+                        "description": "Complaining Wife, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209343.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 217444,
+                        "nameRu": "Вальдемар Янг",
+                        "nameEn": "Waldemar Young",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217444.jpg"
+                    },
+                    {
+                        "id": 193296,
+                        "nameRu": "Сидни Бакмен",
+                        "nameEn": "Sidney Buchman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193296.jpg"
+                    },
+                    {
+                        "id": 220686,
+                        "nameRu": "Уилсон Баррет",
+                        "nameEn": "Wilson Barrett",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220686.jpg"
+                    },
+                    {
+                        "id": 194056,
+                        "nameRu": "Дадли Николс",
+                        "nameEn": "Dudley Nichols",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194056.jpg"
+                    },
+                    {
+                        "id": 208459,
+                        "nameRu": "Генрик Сенкевич",
+                        "nameEn": "Henryk Sienkiewicz",
+                        "description": "роман, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208459.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 80113,
+                        "nameRu": "Сесил Б. ДеМилль",
+                        "nameEn": "Cecil B. DeMille",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_80113.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220323,
+                        "nameRu": "Карл Штрусс",
+                        "nameEn": "Karl Struss",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220323.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 367342,
+                        "nameRu": "Джей Чернис",
+                        "nameEn": "Jay Chernis",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367342.jpg"
+                    },
+                    {
+                        "id": 218332,
+                        "nameRu": "Рудольф Дж. Копп",
+                        "nameEn": "Rudolph G. Kopp",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218332.jpg"
+                    },
+                    {
+                        "id": 217527,
+                        "nameRu": "Пол Марквардт",
+                        "nameEn": "Paul Marquardt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217527.jpg"
+                    },
+                    {
+                        "id": 220361,
+                        "nameRu": "Милан Родер",
+                        "nameEn": "Milan Roder",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220361.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 209088,
+                        "nameRu": "Митчелл Лейзен",
+                        "nameEn": "Mitchell Leisen",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209088.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 221277,
+                        "nameRu": "Энн Боченс",
+                        "nameEn": "Anne Bauchens",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221277.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "2 ч 4 мин",
+                "description": "64 год. Префект Марк увлечен милой девушкой-христианкой, Мерсией. Увлеченная Марком императрица Поппея решает с Нероном предать всех христиан смерти.",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 220323,
+                                "nameRu": "Карл Штрусс",
+                                "nameEn": "Karl Struss",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/220323.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15744/",
+                "webUrl": "https://www.kinopoisk.ru/film/15744/",
+                "lastSync": "2024-12-28T07:12:37.598Z"
+            },
+            {
+                "kinopoiskId": 27206,
+                "nameRu": "Воссоединение в Вене",
+                "nameOriginal": "Reunion in Vienna",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/27206.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/27206.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 10,
+                "ratingImdb": 6,
+                "ratingImdbVoteCount": 369,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 206846,
+                        "nameRu": "Сидни Франклин",
+                        "nameEn": "Sidney Franklin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206846.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 127432,
+                        "nameRu": "Джон Бэрримор",
+                        "nameEn": "John Barrymore",
+                        "description": "Archduke Rudolf von Habsburg",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_127432.jpg"
+                    },
+                    {
+                        "id": 202361,
+                        "nameRu": "Диана Виньяр",
+                        "nameEn": "Diana Wynyard",
+                        "description": "Elena Krug",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202361.jpg"
+                    },
+                    {
+                        "id": 209307,
+                        "nameRu": "Фрэнк Морган",
+                        "nameEn": "Frank Morgan",
+                        "description": "Dr. Anton Krug",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209307.jpg"
+                    },
+                    {
+                        "id": 212064,
+                        "nameRu": "Генри Треверс",
+                        "nameEn": "Henry Travers",
+                        "description": "Father Krug",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212064.jpg"
+                    },
+                    {
+                        "id": 216255,
+                        "nameRu": "Мэй Робсон",
+                        "nameEn": "May Robson",
+                        "description": "Frau Lucher",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216255.jpg"
+                    },
+                    {
+                        "id": 189037,
+                        "nameRu": "Эдуардо Чианнелли",
+                        "nameEn": "Eduardo Ciannelli",
+                        "description": "Pofferoff aka Poffy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189037.jpg"
+                    },
+                    {
+                        "id": 193468,
+                        "nameRu": "Уна Меркел",
+                        "nameEn": "Una Merkel",
+                        "description": "Ilsa Hinrich",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193468.jpg"
+                    },
+                    {
+                        "id": 216206,
+                        "nameRu": "Бодил Росинг",
+                        "nameEn": "Bodil Rosing",
+                        "description": "Kathie - the Krug Family Maid",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216206.jpg"
+                    },
+                    {
+                        "id": 365438,
+                        "nameRu": "",
+                        "nameEn": "Bela Loblov",
+                        "description": "Musician",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365438.jpg"
+                    },
+                    {
+                        "id": 365439,
+                        "nameRu": "Моррис Нуссбаум",
+                        "nameEn": "Morris Nussbaum",
+                        "description": "Musician",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365439.jpg"
+                    },
+                    {
+                        "id": 205916,
+                        "nameRu": "Нелла Уолкер",
+                        "nameEn": "Nella Walker",
+                        "description": "Countess Von Stainz",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205916.jpg"
+                    },
+                    {
+                        "id": 208145,
+                        "nameRu": "Херберт Эванс",
+                        "nameEn": "Herbert Evans",
+                        "description": "Count Von Stainz",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208145.jpg"
+                    },
+                    {
+                        "id": 196285,
+                        "nameRu": "Моррис Анкрум",
+                        "nameEn": "Morris Ankrum",
+                        "description": "Musician, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196285.jpg"
+                    },
+                    {
+                        "id": 209879,
+                        "nameRu": "Симона Бонифейс",
+                        "nameEn": "Symona Boniface",
+                        "description": "Noblewoman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209879.jpg"
+                    },
+                    {
+                        "id": 202952,
+                        "nameRu": "Джон Дэвидсон",
+                        "nameEn": "John Davidson",
+                        "description": "Police Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202952.jpg"
+                    },
+                    {
+                        "id": 196572,
+                        "nameRu": "Джордж Дэвис",
+                        "nameEn": "George Davis",
+                        "description": "Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196572.jpg"
+                    },
+                    {
+                        "id": 217347,
+                        "nameRu": "Фердинанд Готтшалк",
+                        "nameEn": "Ferdinand Gottschalk",
+                        "description": "Palace Tour Guide, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217347.jpg"
+                    },
+                    {
+                        "id": 217006,
+                        "nameRu": "Тенен Холц",
+                        "nameEn": "Tenen Holtz",
+                        "description": "Tourist with Drapes, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217006.jpg"
+                    },
+                    {
+                        "id": 219961,
+                        "nameRu": "Лиллиэн Лоуренс",
+                        "nameEn": "Lillian Lawrence",
+                        "description": "Tourist, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219961.jpg"
+                    },
+                    {
+                        "id": 196646,
+                        "nameRu": "Альфонсе Мартелл",
+                        "nameEn": "Alphonse Martell",
+                        "description": "Nobleman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196646.jpg"
+                    },
+                    {
+                        "id": 196648,
+                        "nameRu": "Торбен Мейер",
+                        "nameEn": "Torben Meyer",
+                        "description": "Headwaiter Strumpf, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196648.jpg"
+                    },
+                    {
+                        "id": 213562,
+                        "nameRu": "Эдмунд Мортимер",
+                        "nameEn": "Edmund Mortimer",
+                        "description": "Tourist, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213562.jpg"
+                    },
+                    {
+                        "id": 213682,
+                        "nameRu": "Пол Поркази",
+                        "nameEn": "Paul Porcasi",
+                        "description": "Chef, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213682.jpg"
+                    },
+                    {
+                        "id": 207286,
+                        "nameRu": "Люсьен Приваль",
+                        "nameEn": "Lucien Prival",
+                        "description": "Colline - Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207286.jpg"
+                    },
+                    {
+                        "id": 362848,
+                        "nameRu": "Эдвард Рейнах",
+                        "nameEn": "Edward Reinach",
+                        "description": "Aristocrat, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362848.jpg"
+                    },
+                    {
+                        "id": 217213,
+                        "nameRu": "Том Рикеттс",
+                        "nameEn": "Tom Ricketts",
+                        "description": "Nobleman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217213.jpg"
+                    },
+                    {
+                        "id": 171686,
+                        "nameRu": "Рольф Седан",
+                        "nameEn": "Rolfe Sedan",
+                        "description": "Valet, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_171686.jpg"
+                    },
+                    {
+                        "id": 219333,
+                        "nameRu": "Андерс Ван Хейден",
+                        "nameEn": "Anders Van Haden",
+                        "description": "Aristocrat, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219333.jpg"
+                    },
+                    {
+                        "id": 213151,
+                        "nameRu": "Эллинор Вандервеер",
+                        "nameEn": "Ellinor Vanderveer",
+                        "description": "Noblewoman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213151.jpg"
+                    },
+                    {
+                        "id": 216999,
+                        "nameRu": "Дороти Вернон",
+                        "nameEn": "Dorothy Vernon",
+                        "description": "Tourist, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216999.jpg"
+                    },
+                    {
+                        "id": 367536,
+                        "nameRu": "",
+                        "nameEn": "William von Hardenburg",
+                        "description": "Aristocrat, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367536.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Tourist, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 89760,
+                        "nameRu": "Роберт Э. Шервуд",
+                        "nameEn": "Robert E. Sherwood",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_89760.jpg"
+                    },
+                    {
+                        "id": 207874,
+                        "nameRu": "Эрнест Вайда",
+                        "nameEn": "Ernest Vajda",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207874.jpg"
+                    },
+                    {
+                        "id": 213789,
+                        "nameRu": "Клодин Уэст",
+                        "nameEn": "Claudine West",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213789.jpg"
+                    }
+                ],
+                "producer": [],
+                "operator": [
+                    {
+                        "id": 215116,
+                        "nameRu": "Джордж Дж. Фолси",
+                        "nameEn": "George J. Folsey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215116.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220679,
+                        "nameRu": "Уильям Экст",
+                        "nameEn": "William Axt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220679.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    },
+                    {
+                        "id": 2001460,
+                        "nameRu": "Эдвин Б. Уиллис",
+                        "nameEn": "Edwin B. Willis",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2001460.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2003027,
+                        "nameRu": "Бланш Сьюэлл",
+                        "nameEn": "Blanche Sewell",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2003027.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 38 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 215116,
+                                "nameRu": "Джордж Дж. Фолси",
+                                "nameEn": "George J. Folsey",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/215116.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/27206/",
+                "webUrl": "https://www.kinopoisk.ru/film/27206/",
+                "lastSync": "2024-12-28T07:12:37.745Z"
+            },
+            {
+                "kinopoiskId": 15411,
+                "nameRu": "Когда дамы встречаются",
+                "nameOriginal": "When Ladies Meet",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15411.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15411.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 24,
+                "ratingImdb": 6.8,
+                "ratingImdbVoteCount": 1148,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 212503,
+                        "nameRu": "Гарри Бомонт",
+                        "nameEn": "Harry Beaumont",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212503.jpg"
+                    },
+                    {
+                        "id": 202658,
+                        "nameRu": "Роберт З. Леонард",
+                        "nameEn": "Robert Z. Leonard",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202658.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 204053,
+                        "nameRu": "Энн Хардинг",
+                        "nameEn": "Ann Harding",
+                        "description": "Clare",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204053.jpg"
+                    },
+                    {
+                        "id": 178232,
+                        "nameRu": "Роберт Монтгомери",
+                        "nameEn": "Robert Montgomery",
+                        "description": "Jimmie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178232.jpg"
+                    },
+                    {
+                        "id": 169887,
+                        "nameRu": "Мирна Лой",
+                        "nameEn": "Myrna Loy",
+                        "description": "Mary",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169887.jpg"
+                    },
+                    {
+                        "id": 216977,
+                        "nameRu": "Элис Брэйди",
+                        "nameEn": "Alice Brady",
+                        "description": "Bridget",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216977.jpg"
+                    },
+                    {
+                        "id": 209307,
+                        "nameRu": "Фрэнк Морган",
+                        "nameEn": "Frank Morgan",
+                        "description": "Rogers",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209307.jpg"
+                    },
+                    {
+                        "id": 365251,
+                        "nameRu": "Мартин Бертон",
+                        "nameEn": "Martin Burton",
+                        "description": "Walter",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365251.jpg"
+                    },
+                    {
+                        "id": 203911,
+                        "nameRu": "Луи Альберни",
+                        "nameEn": "Luis Alberni",
+                        "description": "Pierre",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203911.jpg"
+                    },
+                    {
+                        "id": 176592,
+                        "nameRu": "Стерлинг Холлоуэй",
+                        "nameEn": "Sterling Holloway",
+                        "description": "Jerome - the Caddy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176592.jpg"
+                    },
+                    {
+                        "id": 206861,
+                        "nameRu": "Дэвид Ньюэлл",
+                        "nameEn": "David Newell",
+                        "description": "Freddie, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206861.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 211143,
+                        "nameRu": "Джон Миэн",
+                        "nameEn": "John Meehan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211143.jpg"
+                    },
+                    {
+                        "id": 209362,
+                        "nameRu": "Леон Гордон",
+                        "nameEn": "Leon Gordon",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209362.jpg"
+                    },
+                    {
+                        "id": 215955,
+                        "nameRu": "Рэйчел Кроверс",
+                        "nameEn": "Rachel Crothers",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215955.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 191377,
+                        "nameRu": "Лоуренс Уайнгартен",
+                        "nameEn": "Lawrence Weingarten",
+                        "description": "ассоциированный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_191377.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 358021,
+                        "nameRu": "Рэй Джун",
+                        "nameEn": "Ray June",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358021.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220679,
+                        "nameRu": "Уильям Экст",
+                        "nameEn": "William Axt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220679.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2012280,
+                        "nameRu": "Хью Винн",
+                        "nameEn": "Hugh Wynn",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2012280.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 25 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 206253,
+                                "nameRu": "Седрик Гиббонс",
+                                "nameEn": "Cedric Gibbons",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/206253.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15411/",
+                "webUrl": "https://www.kinopoisk.ru/film/15411/",
+                "lastSync": "2024-12-28T07:12:37.888Z"
+            },
+            {
+                "kinopoiskId": 26730,
+                "nameRu": "Золотоискатели 1933 года",
+                "nameOriginal": "Gold Diggers of 1933",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/26730.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/26730.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 6.8,
+                "ratingKinopoiskVoteCount": 601,
+                "ratingImdb": 7.7,
+                "ratingImdbVoteCount": 9339,
+                "ratingFilmCritics": 8.8,
+                "ratingFilmCriticsVoteCount": 13,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 190215,
+                        "nameRu": "Мервин ЛеРой",
+                        "nameEn": "Mervyn LeRoy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_190215.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 211727,
+                        "nameRu": "Уоррен Уильям",
+                        "nameEn": "Warren William",
+                        "description": "J. Lawrence Bradford",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211727.jpg"
+                    },
+                    {
+                        "id": 172140,
+                        "nameRu": "Джоан Блонделл",
+                        "nameEn": "Joan Blondell",
+                        "description": "Carol King",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172140.jpg"
+                    },
+                    {
+                        "id": 196723,
+                        "nameRu": "Элин МакМэон",
+                        "nameEn": "Aline MacMahon",
+                        "description": "Trixie Lorraine",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196723.jpg"
+                    },
+                    {
+                        "id": 135531,
+                        "nameRu": "Руби Килер",
+                        "nameEn": "Ruby Keeler",
+                        "description": "Polly Parker",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135531.jpg"
+                    },
+                    {
+                        "id": 180614,
+                        "nameRu": "Дик Пауэлл",
+                        "nameEn": "Dick Powell",
+                        "description": "Brad Roberts",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180614.jpg"
+                    },
+                    {
+                        "id": 210506,
+                        "nameRu": "Гай Кибби",
+                        "nameEn": "Guy Kibbee",
+                        "description": "Faneul H. Peabody",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210506.jpg"
+                    },
+                    {
+                        "id": 211516,
+                        "nameRu": "Нед Спаркс",
+                        "nameEn": "Ned Sparks",
+                        "description": "Barney Hopkins",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211516.jpg"
+                    },
+                    {
+                        "id": 154905,
+                        "nameRu": "Джинджер Роджерс",
+                        "nameEn": "Ginger Rogers",
+                        "description": "Fay Fortune",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154905.jpg"
+                    },
+                    {
+                        "id": 219682,
+                        "nameRu": "Роберт Эгнью",
+                        "nameEn": "Robert Agnew",
+                        "description": "Dance Director, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219682.jpg"
+                    },
+                    {
+                        "id": 220294,
+                        "nameRu": "Лоретта Эндрюс",
+                        "nameEn": "Loretta Andrews",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220294.jpg"
+                    },
+                    {
+                        "id": 212770,
+                        "nameRu": "Моника Бэннистер",
+                        "nameEn": "Monica Bannister",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212770.jpg"
+                    },
+                    {
+                        "id": 217878,
+                        "nameRu": "Бонни Бэннон",
+                        "nameEn": "Bonnie Bannon",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217878.jpg"
+                    },
+                    {
+                        "id": 215208,
+                        "nameRu": "Джоан Барклай",
+                        "nameEn": "Joan Barclay",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215208.jpg"
+                    },
+                    {
+                        "id": 74859,
+                        "nameRu": "Билли Барти",
+                        "nameEn": "Billy Barty",
+                        "description": "Baby in 'Pettin' in the Park' Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_74859.jpg"
+                    },
+                    {
+                        "id": 180592,
+                        "nameRu": "Басби Беркли",
+                        "nameEn": "Busby Berkeley",
+                        "description": "Call Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180592.jpg"
+                    },
+                    {
+                        "id": 5234717,
+                        "nameRu": "Бонни Блэквуд",
+                        "nameEn": "Bonnie Blackwood",
+                        "description": "Chorus girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5234717.jpg"
+                    },
+                    {
+                        "id": 209037,
+                        "nameRu": "Эрик Блор",
+                        "nameEn": "Eric Blore",
+                        "description": "Complaining Club Member, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209037.jpg"
+                    },
+                    {
+                        "id": 220052,
+                        "nameRu": "",
+                        "nameEn": "Audrene Brier",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220052.jpg"
+                    },
+                    {
+                        "id": 349124,
+                        "nameRu": "",
+                        "nameEn": "Tex Brodus",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_349124.jpg"
+                    },
+                    {
+                        "id": 220295,
+                        "nameRu": "Линн Браунинг",
+                        "nameEn": "Lynn Browning",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220295.jpg"
+                    },
+                    {
+                        "id": 220296,
+                        "nameRu": "Эдна Каллахэн",
+                        "nameEn": "Edna Callahan",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220296.jpg"
+                    },
+                    {
+                        "id": 220297,
+                        "nameRu": "",
+                        "nameEn": "Maxine Cantway",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220297.jpg"
+                    },
+                    {
+                        "id": 215808,
+                        "nameRu": "Маргарет Кэртхью",
+                        "nameEn": "Margaret Carthew",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215808.jpg"
+                    },
+                    {
+                        "id": 220458,
+                        "nameRu": "",
+                        "nameEn": "Margaret Cathew",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220458.jpg"
+                    },
+                    {
+                        "id": 169355,
+                        "nameRu": "Кэти Каннингэм",
+                        "nameEn": "Kathy Cunningham",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169355.jpg"
+                    },
+                    {
+                        "id": 180595,
+                        "nameRu": "Хобарт Кавано",
+                        "nameEn": "Hobart Cavanaugh",
+                        "description": "Dog Salesman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180595.jpg"
+                    },
+                    {
+                        "id": 91628,
+                        "nameRu": "Дороти Кунан Веллман",
+                        "nameEn": "Dorothy Coonan Wellman",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_91628.jpg"
+                    },
+                    {
+                        "id": 7204957,
+                        "nameRu": "",
+                        "nameEn": "Kathy Cunningham",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7204957.jpg"
+                    },
+                    {
+                        "id": 218081,
+                        "nameRu": "Вирджиния Дэбни",
+                        "nameEn": "Virginia Dabney",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218081.jpg"
+                    },
+                    {
+                        "id": 4660149,
+                        "nameRu": "",
+                        "nameEn": "Dallas Dexter",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4660149.jpg"
+                    },
+                    {
+                        "id": 364626,
+                        "nameRu": "Милдред Диксон",
+                        "nameEn": "Mildred Dixon",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364626.jpg"
+                    },
+                    {
+                        "id": 1817131,
+                        "nameRu": "Патриция Дуглас",
+                        "nameEn": "Patricia Douglas",
+                        "description": "Dancer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1817131.jpg"
+                    },
+                    {
+                        "id": 220127,
+                        "nameRu": "Ширли Данстид",
+                        "nameEn": "Marlo Dwyer",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220127.jpg"
+                    },
+                    {
+                        "id": 207721,
+                        "nameRu": "Джей Итон",
+                        "nameEn": "Jay Eaton",
+                        "description": "Diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207721.jpg"
+                    },
+                    {
+                        "id": 180603,
+                        "nameRu": "Билл Эллиотт",
+                        "nameEn": "Bill Elliott",
+                        "description": "Night Club Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180603.jpg"
+                    },
+                    {
+                        "id": 220154,
+                        "nameRu": "Глория Фэйт",
+                        "nameEn": "Gloria Faythe",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220154.jpg"
+                    },
+                    {
+                        "id": 215811,
+                        "nameRu": "Джун Гиттелсон",
+                        "nameEn": "June Gittelson",
+                        "description": "Fat Woman in 'Pettin' in the Park' Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215811.jpg"
+                    },
+                    {
+                        "id": 203102,
+                        "nameRu": "Джун Глори",
+                        "nameEn": "June Glory",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203102.jpg"
+                    },
+                    {
+                        "id": 219574,
+                        "nameRu": "Сэм Годфри",
+                        "nameEn": "Sam Godfrey",
+                        "description": "Society Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219574.jpg"
+                    },
+                    {
+                        "id": 220459,
+                        "nameRu": "Мюриэль Гордон",
+                        "nameEn": "Muriel Gordon",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220459.jpg"
+                    },
+                    {
+                        "id": 217347,
+                        "nameRu": "Фердинанд Готтшалк",
+                        "nameEn": "Ferdinand Gottschalk",
+                        "description": "Clubman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217347.jpg"
+                    },
+                    {
+                        "id": 7018051,
+                        "nameRu": "",
+                        "nameEn": "Beatrice Hagen",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7018051.jpg"
+                    },
+                    {
+                        "id": 217403,
+                        "nameRu": "Джейн Хэмилтон",
+                        "nameEn": "Jane Hamilton",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217403.jpg"
+                    },
+                    {
+                        "id": 210178,
+                        "nameRu": "Тереза Харрис",
+                        "nameEn": "Theresa Harris",
+                        "description": "Black Woman in 'Pettin' in the Park' Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210178.jpg"
+                    },
+                    {
+                        "id": 204241,
+                        "nameRu": "Грейс Хейл",
+                        "nameEn": "Grace Hayle",
+                        "description": "Society Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204241.jpg"
+                    },
+                    {
+                        "id": 176592,
+                        "nameRu": "Стерлинг Холлоуэй",
+                        "nameEn": "Sterling Holloway",
+                        "description": "Second Messenger Boy with Hat, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176592.jpg"
+                    },
+                    {
+                        "id": 207836,
+                        "nameRu": "Мэйнард Холмс",
+                        "nameEn": "Maynard Holmes",
+                        "description": "First Delivery Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207836.jpg"
+                    },
+                    {
+                        "id": 220301,
+                        "nameRu": "Энн Хови",
+                        "nameEn": "Ann Hovey",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220301.jpg"
+                    },
+                    {
+                        "id": 220131,
+                        "nameRu": "Амо Ингрэм",
+                        "nameEn": "Amo Ingraham",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220131.jpg"
+                    },
+                    {
+                        "id": 220385,
+                        "nameRu": "Пичес Джексон",
+                        "nameEn": "Peaches Jackson",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220385.jpg"
+                    },
+                    {
+                        "id": 220302,
+                        "nameRu": "Элис Янс",
+                        "nameEn": "Alice Jans",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220302.jpg"
+                    },
+                    {
+                        "id": 207215,
+                        "nameRu": "Фред Келси",
+                        "nameEn": "Fred Kelsey",
+                        "description": "Detective Jones, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207215.jpg"
+                    },
+                    {
+                        "id": 220306,
+                        "nameRu": "Маргарет Ла Марр",
+                        "nameEn": "Margaret La Marr",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220306.jpg"
+                    },
+                    {
+                        "id": 220305,
+                        "nameRu": "Аделе Лэси",
+                        "nameEn": "Adele Lacy",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220305.jpg"
+                    },
+                    {
+                        "id": 146771,
+                        "nameRu": "Чарльз Лэйн",
+                        "nameEn": "Charles Lane",
+                        "description": "Society Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_146771.jpg"
+                    },
+                    {
+                        "id": 220307,
+                        "nameRu": "Лорена Лейсон",
+                        "nameEn": "Lorena Layson",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220307.jpg"
+                    },
+                    {
+                        "id": 217525,
+                        "nameRu": "Шэрон Льюис",
+                        "nameEn": "Sharon Lewis",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217525.jpg"
+                    },
+                    {
+                        "id": 220424,
+                        "nameRu": "Синтия Линдсэй",
+                        "nameEn": "Cynthia Lindsay",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220424.jpg"
+                    },
+                    {
+                        "id": 216599,
+                        "nameRu": "Уоллес МакДональд",
+                        "nameEn": "Wallace MacDonald",
+                        "description": "Stage Manager, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216599.jpg"
+                    },
+                    {
+                        "id": 197884,
+                        "nameRu": "Вилбур Мак",
+                        "nameEn": "Wilbur Mack",
+                        "description": "Society Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197884.jpg"
+                    },
+                    {
+                        "id": 219229,
+                        "nameRu": "Мэй Мэдисон",
+                        "nameEn": "Mae Madison",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219229.jpg"
+                    },
+                    {
+                        "id": 220351,
+                        "nameRu": "Хелен Манн",
+                        "nameEn": "Helen Mann",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220351.jpg"
+                    },
+                    {
+                        "id": 274145,
+                        "nameRu": "Лоррэйн Маршалл",
+                        "nameEn": "Lorraine Marshall",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_274145.jpg"
+                    },
+                    {
+                        "id": 202238,
+                        "nameRu": "Фрэнк Миллс",
+                        "nameEn": "Frank Mills",
+                        "description": "The Forgotten Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202238.jpg"
+                    },
+                    {
+                        "id": 220460,
+                        "nameRu": "Эбба Альи",
+                        "nameEn": "Ebba Mona",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220460.jpg"
+                    },
+                    {
+                        "id": 220271,
+                        "nameRu": "Этта Мотен",
+                        "nameEn": "Etta Moten",
+                        "description": "«Remember My Forgotten Man» Singer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220271.jpg"
+                    },
+                    {
+                        "id": 6685118,
+                        "nameRu": "",
+                        "nameEn": "Margie Murphy",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6685118.jpg"
+                    },
+                    {
+                        "id": 7099390,
+                        "nameRu": "",
+                        "nameEn": "Marietta Myers",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7099390.jpg"
+                    },
+                    {
+                        "id": 211531,
+                        "nameRu": "Кларенс Нордстром",
+                        "nameEn": "Clarence Nordstrom",
+                        "description": "Don Gordon, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211531.jpg"
+                    },
+                    {
+                        "id": 6744519,
+                        "nameRu": "",
+                        "nameEn": "Dorothy O'Connell",
+                        "description": "Chorus Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6744519.jpg"
+                    },
+                    {
+                        "id": 208465,
+                        "nameRu": "Деннис О’Кифи",
+                        "nameEn": "Dennis O'Keefe",
+                        "description": "Theatregoer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208465.jpg"
+                    },
+                    {
+                        "id": 220488,
+                        "nameRu": "Ти Парвис",
+                        "nameEn": "Ty Parvis",
+                        "description": "Chorus Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220488.jpg"
+                    },
+                    {
+                        "id": 7075607,
+                        "nameRu": "",
+                        "nameEn": "",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7075607.jpg"
+                    },
+                    {
+                        "id": 359950,
+                        "nameRu": "Александр Поллард",
+                        "nameEn": "Alexander Pollard",
+                        "description": "University Club Doorman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_359950.jpg"
+                    },
+                    {
+                        "id": 74855,
+                        "nameRu": "Джейн Уаймен",
+                        "nameEn": "Jane Wyman",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_74855.jpg"
+                    },
+                    {
+                        "id": 219231,
+                        "nameRu": "Донна Мэй Робертс",
+                        "nameEn": "Donna Mae Roberts",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219231.jpg"
+                    },
+                    {
+                        "id": 222125,
+                        "nameRu": "Черчилль Росс",
+                        "nameEn": "Churchill Ross",
+                        "description": "Small Blond Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222125.jpg"
+                    },
+                    {
+                        "id": 218784,
+                        "nameRu": "Мэрион Сэйерс",
+                        "nameEn": "Marion Sayers",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218784.jpg"
+                    },
+                    {
+                        "id": 220311,
+                        "nameRu": "",
+                        "nameEn": "Jayne Shadduck",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220311.jpg"
+                    },
+                    {
+                        "id": 220461,
+                        "nameRu": "Би Стивенс",
+                        "nameEn": "Bee Stephens",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220461.jpg"
+                    },
+                    {
+                        "id": 220392,
+                        "nameRu": "Анита Томпсон",
+                        "nameEn": "Anita Thompson",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220392.jpg"
+                    },
+                    {
+                        "id": 211931,
+                        "nameRu": "",
+                        "nameEn": "Fred «Snowflake» Toones",
+                        "description": "Black Man in 'Pettin' in the Park' Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211931.jpg"
+                    },
+                    {
+                        "id": 5883393,
+                        "nameRu": "",
+                        "nameEn": "Millie Walters",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5883393.jpg"
+                    },
+                    {
+                        "id": 187851,
+                        "nameRu": "Билли Уэст",
+                        "nameEn": "Billy West",
+                        "description": "Medal Winner - «Remember My Forgotten Man» Number, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187851.jpg"
+                    },
+                    {
+                        "id": 214813,
+                        "nameRu": "Стэнхоуп Уиткрофт",
+                        "nameEn": "Stanhope Wheatcroft",
+                        "description": "Nightclub Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214813.jpg"
+                    },
+                    {
+                        "id": 216357,
+                        "nameRu": "Дороти Уайт",
+                        "nameEn": "Dorothy White",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216357.jpg"
+                    },
+                    {
+                        "id": 218850,
+                        "nameRu": "Рени Уитни",
+                        "nameEn": "Renee Whitney",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218850.jpg"
+                    },
+                    {
+                        "id": 211856,
+                        "nameRu": "Чарльз С. Уилсон",
+                        "nameEn": "Charles C. Wilson",
+                        "description": "Deputy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211856.jpg"
+                    },
+                    {
+                        "id": 220313,
+                        "nameRu": "Пэт Уинг",
+                        "nameEn": "Pat Wing",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220313.jpg"
+                    },
+                    {
+                        "id": 210283,
+                        "nameRu": "Джек Уайз",
+                        "nameEn": "Jack Wise",
+                        "description": "Mystery Man with Bob at Stage Door, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210283.jpg"
+                    },
+                    {
+                        "id": 7204958,
+                        "nameRu": "",
+                        "nameEn": "Suzanne Wunderlich",
+                        "description": "Gold Digger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7204958.jpg"
+                    },
+                    {
+                        "id": 219017,
+                        "nameRu": "Таммани Янг",
+                        "nameEn": "Tammany Young",
+                        "description": "Gigolo Eddie, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219017.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 211917,
+                        "nameRu": "Эрвин С. Джелси",
+                        "nameEn": "Erwin Gelsey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211917.jpg"
+                    },
+                    {
+                        "id": 186628,
+                        "nameRu": "Джеймс Сеймур",
+                        "nameEn": "James Seymour",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_186628.jpg"
+                    },
+                    {
+                        "id": 135677,
+                        "nameRu": "Дэвид Боэм",
+                        "nameEn": "David Boehm",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135677.jpg"
+                    },
+                    {
+                        "id": 220457,
+                        "nameRu": "Бен Марксон",
+                        "nameEn": "Ben Markson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220457.jpg"
+                    },
+                    {
+                        "id": 200638,
+                        "nameRu": "Эйвери Хопвуд",
+                        "nameEn": "Avery Hopwood",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200638.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 208353,
+                        "nameRu": "Роберт Лорд",
+                        "nameEn": "Robert Lord",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208353.jpg"
+                    },
+                    {
+                        "id": 185267,
+                        "nameRu": "Джек Л. Уорнер",
+                        "nameEn": "Jack L. Warner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_185267.jpg"
+                    },
+                    {
+                        "id": 216195,
+                        "nameRu": "Рэймонд Гриффит",
+                        "nameEn": "Raymond Griffith",
+                        "description": "ассоциированный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216195.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220137,
+                        "nameRu": "Сол Полито",
+                        "nameEn": "Sol Polito",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220137.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 2011654,
+                        "nameRu": "Антон Грот",
+                        "nameEn": "Anton Grot",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2011654.jpg"
+                    },
+                    {
+                        "id": 1999459,
+                        "nameRu": "Орри-Келли",
+                        "nameEn": "Orry-Kelly",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1999459.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 209961,
+                        "nameRu": "Джордж Эми",
+                        "nameEn": "George Amy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209961.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 37 мин",
+                "description": "Барни Хопкинс готовит новое шоу на Бродвее, но за день до представления его закрывают, а реквизит и костюмы конфискуют из-за неоплаченных счетов. На дворе Великая депрессия, и весь коллектив, оказавшись на улице, вынужден голодать. Нет возможности устроиться на работу и трем подружкам — Кэрол, Трикси и Поли. Они уже готовы опустить руки, но внезапно узнают, что Хопкинс готовит новую пьесу.",
+                "oscar": [
+                    {
+                        "name": "Лучший звук",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/26730/",
+                "webUrl": "https://www.kinopoisk.ru/film/26730/",
+                "lastSync": "2024-12-28T07:12:38.109Z"
+            },
+            {
+                "kinopoiskId": 224561,
+                "nameRu": "Так это Хэррис!",
+                "nameOriginal": "So This Is Harris",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/224561.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/224561.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 78,
+                "ratingImdb": 5.6,
+                "ratingImdbVoteCount": 148,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "музыка"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 212218,
+                        "nameRu": "Марк Сэндрич",
+                        "nameEn": "Mark Sandrich",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212218.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 125646,
+                        "nameRu": "Фил Харрис",
+                        "nameEn": "Phil Harris",
+                        "description": "Phil",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_125646.jpg"
+                    },
+                    {
+                        "id": 203830,
+                        "nameRu": "Уолтер Кэтлетт",
+                        "nameEn": "Walter Catlett",
+                        "description": "Walter",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203830.jpg"
+                    },
+                    {
+                        "id": 218562,
+                        "nameRu": "Хелен Коллинз",
+                        "nameEn": "Helen Collins",
+                        "description": "Dorothy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218562.jpg"
+                    },
+                    {
+                        "id": 217543,
+                        "nameRu": "Джун Брюстер",
+                        "nameEn": "June Brewster",
+                        "description": "Lillian",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217543.jpg"
+                    },
+                    {
+                        "id": 195000,
+                        "nameRu": "Джеймс Финлейсон",
+                        "nameEn": "James Finlayson",
+                        "description": "Golf Pro",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195000.jpg"
+                    },
+                    {
+                        "id": 207721,
+                        "nameRu": "Джей Итон",
+                        "nameEn": "Jay Eaton",
+                        "description": "Nightclub Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207721.jpg"
+                    },
+                    {
+                        "id": 174599,
+                        "nameRu": "Спек О’Доннелл",
+                        "nameEn": "Spec O'Donnell",
+                        "description": "Catlett's Caddy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_174599.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 216610,
+                        "nameRu": "Бен Холмс",
+                        "nameEn": "Ben Holmes",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216610.jpg"
+                    },
+                    {
+                        "id": 212218,
+                        "nameRu": "Марк Сэндрич",
+                        "nameEn": "Mark Sandrich",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212218.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 220446,
+                        "nameRu": "Лу Брок",
+                        "nameEn": "Lou Brock",
+                        "description": "продюсер-супервайзер (в титрах: Louis Brock)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220446.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 358835,
+                        "nameRu": "Берт Гленнон",
+                        "nameEn": "Bert Glennon",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358835.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 208523,
+                        "nameRu": "Вэл Бертон",
+                        "nameEn": "Val Burton",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208523.jpg"
+                    },
+                    {
+                        "id": 352820,
+                        "nameRu": "Уилл Джейсон",
+                        "nameEn": "Will Jason",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_352820.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 589437,
+                        "nameRu": "Джон Локерт",
+                        "nameEn": "John Lockert",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_589437.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 28 мин",
+                "description": "Уолтер не переносит пение Фила  Хэрриса, но он не может его избегать, даже во время игры в гольф. Его партнер по игре ему сочувствует, но Уолтер вскоре узнает, что он и есть Хэррис. И тогда Уолтер решает использовать популярность Фила среди женщин в своих целях.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 220446,
+                                "nameRu": "Лу Брок",
+                                "nameEn": "Lou Brock",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/220446.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/224561/",
+                "webUrl": "https://www.kinopoisk.ru/film/224561/",
+                "lastSync": "2024-12-28T07:12:38.271Z"
+            },
+            {
+                "kinopoiskId": 205469,
+                "nameRu": "Мистер Магг",
+                "nameOriginal": "Mister Mugg",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/205469.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/205469.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 8,
+                "ratingImdb": 6.9,
+                "ratingImdbVoteCount": 16,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 219481,
+                        "nameRu": "Джеймс В. Хорн",
+                        "nameEn": "James W. Horne",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219481.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 201537,
+                        "nameRu": "Джеймс Глисон",
+                        "nameEn": "James Gleason",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201537.jpg"
+                    },
+                    {
+                        "id": 209732,
+                        "nameRu": "Дороти Кристи",
+                        "nameEn": "Dorothy Christy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209732.jpg"
+                    },
+                    {
+                        "id": 202052,
+                        "nameRu": "Бен Александр",
+                        "nameEn": "Ben Alexander",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202052.jpg"
+                    },
+                    {
+                        "id": 217659,
+                        "nameRu": "Отис Хэрлан",
+                        "nameEn": "Otis Harlan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217659.jpg"
+                    },
+                    {
+                        "id": 1016295,
+                        "nameRu": "Норман Родс",
+                        "nameEn": "Norman Rhodes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1016295.jpg"
+                    },
+                    {
+                        "id": 197206,
+                        "nameRu": "Джек Пенник",
+                        "nameEn": "Jack Pennick",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197206.jpg"
+                    },
+                    {
+                        "id": 216143,
+                        "nameRu": "Фред Уоррен",
+                        "nameEn": "Fred Warren",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216143.jpg"
+                    },
+                    {
+                        "id": 218567,
+                        "nameRu": "Джинн Харт",
+                        "nameEn": "Jeanne Hart",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218567.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 219481,
+                        "nameRu": "Джеймс В. Хорн",
+                        "nameEn": "James W. Horne",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219481.jpg"
+                    },
+                    {
+                        "id": 366077,
+                        "nameRu": "Дж.А. Хоу",
+                        "nameEn": "J.A. Howe",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366077.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 365460,
+                        "nameRu": "Уоррен Доан",
+                        "nameEn": "Warren Doane",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365460.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 20 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 365460,
+                                "nameRu": "Уоррен Доан",
+                                "nameEn": "Warren Doane",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/365460.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/205469/",
+                "webUrl": "https://www.kinopoisk.ru/film/205469/",
+                "lastSync": "2024-12-28T07:12:51.265Z"
+            },
+            {
+                "kinopoiskId": 257215,
+                "nameRu": "Список предпочтений",
+                "nameOriginal": "A Preferred List",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/257215.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/257215.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 3,
+                "ratingImdb": 7.5,
+                "ratingImdbVoteCount": 20,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 214825,
+                        "nameRu": "Ли Джейсон",
+                        "nameEn": "Leigh Jason",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214825.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 359755,
+                        "nameRu": "Дороти Ли",
+                        "nameEn": "Dorothy Lee",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_359755.jpg"
+                    },
+                    {
+                        "id": 195407,
+                        "nameRu": "Чик Чандлер",
+                        "nameEn": "Chick Chandler",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195407.jpg"
+                    },
+                    {
+                        "id": 217358,
+                        "nameRu": "Отто Фрайс",
+                        "nameEn": "Otto Fries",
+                        "description": "Second Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217358.jpg"
+                    },
+                    {
+                        "id": 212889,
+                        "nameRu": "Бад Джеймисон",
+                        "nameEn": "Bud Jamison",
+                        "description": "Attorney, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212889.jpg"
+                    },
+                    {
+                        "id": 215523,
+                        "nameRu": "Гас Рид",
+                        "nameEn": "Gus Reed",
+                        "description": "First Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215523.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 356331,
+                        "nameRu": "Томас Леннон",
+                        "nameEn": "Thomas Lennon",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356331.jpg"
+                    },
+                    {
+                        "id": 362754,
+                        "nameRu": "Уолтер Вимс",
+                        "nameEn": "Walter Weems",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362754.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 220446,
+                        "nameRu": "Лу Брок",
+                        "nameEn": "Lou Brock",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220446.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [
+                    {
+                        "id": 358781,
+                        "nameRu": "Рой Уэбб",
+                        "nameEn": "Roy Webb",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358781.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 626666,
+                        "nameRu": "Эдвард Манн",
+                        "nameEn": "Edward Mann",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_626666.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 20 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 220446,
+                                "nameRu": "Лу Брок",
+                                "nameEn": "Lou Brock",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/220446.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/257215/",
+                "webUrl": "https://www.kinopoisk.ru/film/257215/",
+                "lastSync": "2024-12-28T07:12:51.422Z"
+            },
+            {
+                "kinopoiskId": 257214,
+                "nameRu": "Кракатау",
+                "nameOriginal": "Krakatoa",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/257214.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/257214.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 23,
+                "ratingImdb": 6.6,
+                "ratingImdbVoteCount": 48,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "документальный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [],
+                "actor": [
+                    {
+                        "id": 363651,
+                        "nameRu": "Грэхэм МакНэми",
+                        "nameEn": "Graham McNamee",
+                        "description": "играет самого себя - рассказчик, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363651.jpg"
+                    },
+                    {
+                        "id": 169197,
+                        "nameRu": "Джозеф Коттен",
+                        "nameEn": "Joseph Cotten",
+                        "description": "рассказчик (1965)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169197.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 362321,
+                        "nameRu": "Джо Рок",
+                        "nameEn": "Joe Rock",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362321.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 2078196,
+                        "nameRu": "",
+                        "nameEn": "Forrest Izard",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2078196.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 23 мин",
+                "description": "Документальный фильм про извержение вулкана Кракатау 1883 года, уничтожившее большую часть острова. Поднятые взрывом цунами высотой до 30 м привели к гибели на соседних островах около 36 тысяч человек, в море были смыты 295 городов и селений. Воздушная волна обошла Землю по разным данным от 7 до 11 раз. Значительное количество вулканического пепла оставалось в атмосфере на высотах до 80 км в течение нескольких лет и вызывало интенсивную окраску зорь.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный драматический фильм",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 362321,
+                                "nameRu": "Джо Рок",
+                                "nameEn": "Joe Rock",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/362321.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/257214/",
+                "webUrl": "https://www.kinopoisk.ru/film/257214/",
+                "lastSync": "2024-12-28T07:12:51.582Z"
+            },
+            {
+                "kinopoiskId": 257213,
+                "nameRu": "Море",
+                "nameOriginal": "Morze",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/257213.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/257213.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 6,
+                "ratingImdb": null,
+                "ratingImdbVoteCount": null,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "Польша"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "документальный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 496599,
+                        "nameRu": "Ванда Якубовска",
+                        "nameEn": "Wanda Jakubowska",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_496599.jpg"
+                    },
+                    {
+                        "id": 496261,
+                        "nameRu": "Станислав Воль",
+                        "nameEn": "Stanislaw Wohl",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_496261.jpg"
+                    },
+                    {
+                        "id": 495073,
+                        "nameRu": "Ежи Зажицкий",
+                        "nameEn": "Jerzy Zarzycki",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_495073.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 371781,
+                        "nameRu": "Гэйн Уитман",
+                        "nameEn": "Gayne Whitman",
+                        "description": "рассказчик, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_371781.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 1116491,
+                        "nameRu": "",
+                        "nameEn": "Edmund Byczynski",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1116491.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 9 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный драматический фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/257213/",
+                "webUrl": "https://www.kinopoisk.ru/film/257213/",
+                "lastSync": "2024-12-28T07:12:51.710Z"
+            },
+            {
+                "kinopoiskId": 206221,
+                "nameRu": "Меню",
+                "nameOriginal": "Menu",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/206221.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/206221.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 26,
+                "ratingImdb": 6.1,
+                "ratingImdbVoteCount": 325,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "фэнтези"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 216597,
+                        "nameRu": "Ник Гринд",
+                        "nameEn": "Nick Grinde",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216597.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 210058,
+                        "nameRu": "Пит Смит",
+                        "nameEn": "Pete Smith",
+                        "description": "рассказчик, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210058.jpg"
+                    },
+                    {
+                        "id": 203911,
+                        "nameRu": "Луи Альберни",
+                        "nameEn": "Luis Alberni",
+                        "description": "The Master Chef, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203911.jpg"
+                    },
+                    {
+                        "id": 193468,
+                        "nameRu": "Уна Меркел",
+                        "nameEn": "Una Merkel",
+                        "description": "Mrs. Omsk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193468.jpg"
+                    },
+                    {
+                        "id": 209953,
+                        "nameRu": "Франклин Пэнгборн",
+                        "nameEn": "Franklin Pangborn",
+                        "description": "John Xavier Omsk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209953.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 215312,
+                        "nameRu": "Торн Смит",
+                        "nameEn": "Thorne Smith",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215312.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 210058,
+                        "nameRu": "Пит Смит",
+                        "nameEn": "Pete Smith",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210058.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 10 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный драматический фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 210058,
+                                "nameRu": "Пит Смит",
+                                "nameEn": "Pete Smith",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/210058.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/206221/",
+                "webUrl": "https://www.kinopoisk.ru/film/206221/",
+                "lastSync": "2024-12-28T07:12:51.838Z"
+            },
+            {
+                "kinopoiskId": 19830,
+                "nameRu": "Три поросенка",
+                "nameOriginal": "Three Little Pigs",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/19830.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/19830.jpg",
+                "reviewsCount": 3,
+                "ratingGoodReview": 83,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 7.3,
+                "ratingKinopoiskVoteCount": 3719,
+                "ratingImdb": 7.5,
+                "ratingImdbVoteCount": 6925,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 217645,
+                        "nameRu": "Берт Джиллетт",
+                        "nameEn": "Burt Gillett",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217645.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 192994,
+                        "nameRu": "Билли Блэтчер",
+                        "nameEn": "Billy Bletcher",
+                        "description": "Big Bad Wolf, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192994.jpg"
+                    },
+                    {
+                        "id": 200190,
+                        "nameRu": "Пинто Колвиг",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Practical Pig, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200190.jpg"
+                    },
+                    {
+                        "id": 135754,
+                        "nameRu": "Вэнс Колвиг мл.",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Practical Pig, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135754.jpg"
+                    },
+                    {
+                        "id": 218855,
+                        "nameRu": "Дороти Комптон",
+                        "nameEn": "Dorothy Compton",
+                        "description": "Fifer Pig, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218855.jpg"
+                    },
+                    {
+                        "id": 218856,
+                        "nameRu": "Мэри Модер",
+                        "nameEn": "Mary Moder",
+                        "description": "Fiddler Pig, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218856.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 200190,
+                        "nameRu": "Пинто Колвиг",
+                        "nameEn": "Pinto Colvig",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200190.jpg"
+                    },
+                    {
+                        "id": 135754,
+                        "nameRu": "Вэнс Колвиг мл.",
+                        "nameEn": "Pinto Colvig",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135754.jpg"
+                    },
+                    {
+                        "id": 5654717,
+                        "nameRu": "",
+                        "nameEn": "Albert Hunter",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5654717.jpg"
+                    },
+                    {
+                        "id": 923894,
+                        "nameRu": "",
+                        "nameEn": "Boris V. Morkovin",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_923894.jpg"
+                    },
+                    {
+                        "id": 200185,
+                        "nameRu": "Тед Сирс",
+                        "nameEn": "Ted Sears",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200185.jpg"
+                    },
+                    {
+                        "id": 214622,
+                        "nameRu": "Уэбб Смит",
+                        "nameEn": "Webb Smith",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214622.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [
+                    {
+                        "id": 361590,
+                        "nameRu": "Фрэнк Черчилль",
+                        "nameEn": "Frank Churchill",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361590.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 923894,
+                        "nameRu": "",
+                        "nameEn": "Boris V. Morkovin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_923894.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "0 ч 9 мин",
+                "description": "Старая, добрая сказка о трех поросятах. Два поросенка, смастерившие себе дома из палочек и сена, смеялись над своим старшим братом, построившим дом из кирпича. Но когда пришел волк и сдул их ветхие домики, то поросята поспешили в надежный каменный дом своего братца.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": true,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 180600,
+                                "nameRu": "Уолт Дисней",
+                                "nameEn": "Walt Disney",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/180600.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/19830/",
+                "webUrl": "https://www.kinopoisk.ru/film/19830/",
+                "lastSync": "2024-12-28T07:13:06.784Z"
+            },
+            {
+                "kinopoiskId": 19837,
+                "nameRu": "Микки Маус на стройке",
+                "nameOriginal": "Building a Building",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/19837.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/19837.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 7,
+                "ratingKinopoiskVoteCount": 643,
+                "ratingImdb": 7,
+                "ratingImdbVoteCount": 1301,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 214865,
+                        "nameRu": "Дэвид Хэнд",
+                        "nameEn": "David Hand",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214865.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 135754,
+                        "nameRu": "Вэнс Колвиг мл.",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Pegleg Pete, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135754.jpg"
+                    },
+                    {
+                        "id": 200190,
+                        "nameRu": "Пинто Колвиг",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Pegleg Pete, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200190.jpg"
+                    },
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "Mickey Mouse, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    },
+                    {
+                        "id": 217149,
+                        "nameRu": "Марселлит Гарнер",
+                        "nameEn": "Marcellite Garner",
+                        "description": "Minnie Mouse, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217149.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [
+                    {
+                        "id": 361590,
+                        "nameRu": "Фрэнк Черчилль",
+                        "nameEn": "Frank Churchill",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361590.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "0 ч 7 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 180600,
+                                "nameRu": "Уолт Дисней",
+                                "nameEn": "Walt Disney",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/180600.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/19837/",
+                "webUrl": "https://www.kinopoisk.ru/film/19837/",
+                "lastSync": "2024-12-28T07:13:06.921Z"
+            },
+            {
+                "kinopoiskId": 217112,
+                "nameRu": "Название отсутствует",
+                "nameOriginal": "The Merry Old Soul",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/217112.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/217112.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 86,
+                "ratingImdb": 5.8,
+                "ratingImdbVoteCount": 317,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1933,
+                "nominatedYear": 1934,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 154422,
+                        "nameRu": "Уолтер Лэнц",
+                        "nameEn": "Walter Lantz",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154422.jpg"
+                    },
+                    {
+                        "id": 1016461,
+                        "nameRu": "Уильям Нолан",
+                        "nameEn": "William Nolan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1016461.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 215328,
+                        "nameRu": "Текс Эйвери",
+                        "nameEn": "Tex Avery",
+                        "description": "King Cole (some lines) / Will Rogers / Radio Voice / Tooth, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215328.jpg"
+                    },
+                    {
+                        "id": 154422,
+                        "nameRu": "Уолтер Лэнц",
+                        "nameEn": "Walter Lantz",
+                        "description": "Lamb, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154422.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 643847,
+                        "nameRu": "Лестер Кляйн",
+                        "nameEn": "Les Kline",
+                        "description": "история, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_643847.jpg"
+                    },
+                    {
+                        "id": 154422,
+                        "nameRu": "Уолтер Лэнц",
+                        "nameEn": "Walter Lantz",
+                        "description": "история, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154422.jpg"
+                    },
+                    {
+                        "id": 1116493,
+                        "nameRu": "Мануэль Морено",
+                        "nameEn": "Manuel Moreno",
+                        "description": "история, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1116493.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 154422,
+                        "nameRu": "Уолтер Лэнц",
+                        "nameEn": "Walter Lantz",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154422.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [
+                    {
+                        "id": 356249,
+                        "nameRu": "Джеймс Дитрих",
+                        "nameEn": "James Dietrich",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356249.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 8 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": false,
+                        "year": 1934,
+                        "persons": [
+                            {
+                                "kinopoiskId": 154422,
+                                "nameRu": "Уолтер Лэнц",
+                                "nameEn": "Walter Lantz",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/154422.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/217112/",
+                "webUrl": "https://www.kinopoisk.ru/film/217112/",
+                "lastSync": "2024-12-28T07:13:07.092Z"
+            },                        
+        ]
+    }, // 1934 -
+    {
+        "year": 1932,
+        "films": [
+            {
+                "kinopoiskId": 7682,
+                "nameRu": "Гранд Отель",
+                "nameOriginal": "Grand Hotel",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7682.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/7682.jpg",
+                "reviewsCount": 13,
+                "ratingGoodReview": 92,
+                "ratingGoodReviewVoteCount": 12,
+                "ratingKinopoisk": 7.2,
+                "ratingKinopoiskVoteCount": 2897,
+                "ratingImdb": 7.3,
+                "ratingImdbVoteCount": 21211,
+                "ratingFilmCritics": 7.5,
+                "ratingFilmCriticsVoteCount": 53,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 207589,
+                        "nameRu": "Эдмунд Гулдинг",
+                        "nameEn": "Edmund Goulding",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207589.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 157047,
+                        "nameRu": "Грета Гарбо",
+                        "nameEn": "Greta Garbo",
+                        "description": "Grusinskaya",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_157047.jpg"
+                    },
+                    {
+                        "id": 127432,
+                        "nameRu": "Джон Бэрримор",
+                        "nameEn": "John Barrymore",
+                        "description": "Baron Felix von Geigern",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_127432.jpg"
+                    },
+                    {
+                        "id": 106070,
+                        "nameRu": "Джоан Кроуфорд",
+                        "nameEn": "Joan Crawford",
+                        "description": "Flaemmchen",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_106070.jpg"
+                    },
+                    {
+                        "id": 194987,
+                        "nameRu": "Уоллес Бири",
+                        "nameEn": "Wallace Beery",
+                        "description": "General Director Preysing",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194987.jpg"
+                    },
+                    {
+                        "id": 178218,
+                        "nameRu": "Лайонел Бэрримор",
+                        "nameEn": "Lionel Barrymore",
+                        "description": "Otto Kringelein",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178218.jpg"
+                    },
+                    {
+                        "id": 178235,
+                        "nameRu": "Льюис Стоун",
+                        "nameEn": "Lewis Stone",
+                        "description": "Doctor Otternschlag",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178235.jpg"
+                    },
+                    {
+                        "id": 214436,
+                        "nameRu": "Джин Хершолт",
+                        "nameEn": "Jean Hersholt",
+                        "description": "Senf",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214436.jpg"
+                    },
+                    {
+                        "id": 217413,
+                        "nameRu": "Роберт МакУэйд",
+                        "nameEn": "Robert McWade",
+                        "description": "Meierheim (в титрах: Robert Mc Wade)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217413.jpg"
+                    },
+                    {
+                        "id": 215454,
+                        "nameRu": "Пернелл Прэтт",
+                        "nameEn": "Purnell Pratt",
+                        "description": "Zinnowitz (в титрах: Purnell B. Pratt)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215454.jpg"
+                    },
+                    {
+                        "id": 217347,
+                        "nameRu": "Фердинанд Готтшалк",
+                        "nameEn": "Ferdinand Gottschalk",
+                        "description": "Pimenov",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217347.jpg"
+                    },
+                    {
+                        "id": 215781,
+                        "nameRu": "Рафаэла Оттиано",
+                        "nameEn": "Rafaela Ottiano",
+                        "description": "Suzette",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215781.jpg"
+                    },
+                    {
+                        "id": 213290,
+                        "nameRu": "Морган Уоллес",
+                        "nameEn": "Morgan Wallace",
+                        "description": "Chauffeur",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213290.jpg"
+                    },
+                    {
+                        "id": 214967,
+                        "nameRu": "Талли Маршалл",
+                        "nameEn": "Tully Marshall",
+                        "description": "Gerstenkorn",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214967.jpg"
+                    },
+                    {
+                        "id": 199510,
+                        "nameRu": "Фрэнк Конрой",
+                        "nameEn": "Frank Conroy",
+                        "description": "Rohna",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199510.jpg"
+                    },
+                    {
+                        "id": 218049,
+                        "nameRu": "Мюррэй Киннелл",
+                        "nameEn": "Murray Kinnell",
+                        "description": "Schweimann",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218049.jpg"
+                    },
+                    {
+                        "id": 212493,
+                        "nameRu": "Эдвин Максвелл",
+                        "nameEn": "Edwin Maxwell",
+                        "description": "Dr. Waitz",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212493.jpg"
+                    },
+                    {
+                        "id": 215208,
+                        "nameRu": "Джоан Барклай",
+                        "nameEn": "Joan Barclay",
+                        "description": "Young Girl in Lobby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215208.jpg"
+                    },
+                    {
+                        "id": 212034,
+                        "nameRu": "Макс Барвин",
+                        "nameEn": "Max Barwyn",
+                        "description": "Hotel Guest / Gambler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212034.jpg"
+                    },
+                    {
+                        "id": 210452,
+                        "nameRu": "",
+                        "nameEn": "Edward Biby",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210452.jpg"
+                    },
+                    {
+                        "id": 220097,
+                        "nameRu": "Мэри Карлайл",
+                        "nameEn": "Mary Carlisle",
+                        "description": "Mrs. Hoffman - Young Honeymooner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220097.jpg"
+                    },
+                    {
+                        "id": 202148,
+                        "nameRu": "Оливер Кросс",
+                        "nameEn": "Oliver Cross",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202148.jpg"
+                    },
+                    {
+                        "id": 202952,
+                        "nameRu": "Джон Дэвидсон",
+                        "nameEn": "John Davidson",
+                        "description": "Hotel Manager, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202952.jpg"
+                    },
+                    {
+                        "id": 212311,
+                        "nameRu": "Уолли Дин",
+                        "nameEn": "Wally Dean",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212311.jpg"
+                    },
+                    {
+                        "id": 208145,
+                        "nameRu": "Херберт Эванс",
+                        "nameEn": "Herbert Evans",
+                        "description": "Clerk, в титрах не указан, слухи",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208145.jpg"
+                    },
+                    {
+                        "id": 195325,
+                        "nameRu": "Бесс Флауэрс",
+                        "nameEn": "Bess Flowers",
+                        "description": "Hotel Guest, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195325.jpg"
+                    },
+                    {
+                        "id": 203062,
+                        "nameRu": "Курт Фёрберг",
+                        "nameEn": "Curt Furberg",
+                        "description": "Elevator Operator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203062.jpg"
+                    },
+                    {
+                        "id": 207589,
+                        "nameRu": "Эдмунд Гулдинг",
+                        "nameEn": "Edmund Goulding",
+                        "description": "Cameo Appearance, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207589.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 214074,
+                        "nameRu": "Милтон Холмс",
+                        "nameEn": "Milton Holmes",
+                        "description": "Mr. Hoffman - Young Honeymooner, в титрах не указан, слухи",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214074.jpg"
+                    },
+                    {
+                        "id": 217171,
+                        "nameRu": "Сидни Джарвис",
+                        "nameEn": "Sydney Jarvis",
+                        "description": "Police Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217171.jpg"
+                    },
+                    {
+                        "id": 181861,
+                        "nameRu": "Аллен Дженкинс",
+                        "nameEn": "Allen Jenkins",
+                        "description": "Hotel Meat Packer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181861.jpg"
+                    },
+                    {
+                        "id": 369976,
+                        "nameRu": "Руби Лафайетт",
+                        "nameEn": "Ruby Lafayette",
+                        "description": "Old Lady, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_369976.jpg"
+                    },
+                    {
+                        "id": 207829,
+                        "nameRu": "Роберт Лииз",
+                        "nameEn": "Robert Lees",
+                        "description": "Bellboy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207829.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Gambler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 189083,
+                        "nameRu": "Фило МакКалло",
+                        "nameEn": "Philo McCullough",
+                        "description": "Hotel Guest / Gambler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189083.jpg"
+                    },
+                    {
+                        "id": 199127,
+                        "nameRu": "Сэм МакДэниэл",
+                        "nameEn": "Sam McDaniel",
+                        "description": "Bartender, в титрах не указан, слухи",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199127.jpg"
+                    },
+                    {
+                        "id": 214405,
+                        "nameRu": "Грета Мейер",
+                        "nameEn": "Greta Meyer",
+                        "description": "Housekeeper in Room 174, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214405.jpg"
+                    },
+                    {
+                        "id": 202327,
+                        "nameRu": "Кинг Мохаве",
+                        "nameEn": "King Mojave",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202327.jpg"
+                    },
+                    {
+                        "id": 206316,
+                        "nameRu": "Берт Мурхаус",
+                        "nameEn": "Bert Moorhouse",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206316.jpg"
+                    },
+                    {
+                        "id": 207344,
+                        "nameRu": "Сара Падден",
+                        "nameEn": "Sarah Padden",
+                        "description": "Chambermaid in Room 174, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207344.jpg"
+                    },
+                    {
+                        "id": 206739,
+                        "nameRu": "Ли Фелпс",
+                        "nameEn": "Lee Phelps",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206739.jpg"
+                    },
+                    {
+                        "id": 362848,
+                        "nameRu": "Эдвард Рейнах",
+                        "nameEn": "Edward Reinach",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362848.jpg"
+                    },
+                    {
+                        "id": 216206,
+                        "nameRu": "Бодил Росинг",
+                        "nameEn": "Bodil Rosing",
+                        "description": "Nurse Helping Old Lady Into Elevator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216206.jpg"
+                    },
+                    {
+                        "id": 211763,
+                        "nameRu": "Дик Раш",
+                        "nameEn": "Dick Rush",
+                        "description": "Gendarme, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211763.jpg"
+                    },
+                    {
+                        "id": 171686,
+                        "nameRu": "Рольф Седан",
+                        "nameEn": "Rolfe Sedan",
+                        "description": "Hotel Guest in Bar, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_171686.jpg"
+                    },
+                    {
+                        "id": 203730,
+                        "nameRu": "Майк Телеген",
+                        "nameEn": "Mike Tellegen",
+                        "description": "Taxi Driver, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203730.jpg"
+                    },
+                    {
+                        "id": 209734,
+                        "nameRu": "Лео Уайт",
+                        "nameEn": "Leo White",
+                        "description": "Hotel Porter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209734.jpg"
+                    },
+                    {
+                        "id": 193977,
+                        "nameRu": "Гарри Уилсон",
+                        "nameEn": "Harry Wilson",
+                        "description": "Worker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193977.jpg"
+                    },
+                    {
+                        "id": 219872,
+                        "nameRu": "Флоренция Уикс",
+                        "nameEn": "Florence Wix",
+                        "description": "Hotel Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219872.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 213093,
+                        "nameRu": "Вики Баум",
+                        "nameEn": "Vicki Baum",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213093.jpg"
+                    },
+                    {
+                        "id": 360167,
+                        "nameRu": "Б. Балаш",
+                        "nameEn": "",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360167.jpg"
+                    },
+                    {
+                        "id": 217132,
+                        "nameRu": "Уилльям Абсалом Дрэйк",
+                        "nameEn": "William Absalom Drake",
+                        "description": "пьеса / адаптация, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217132.jpg"
+                    },
+                    {
+                        "id": 220575,
+                        "nameRu": "Бела Балаж",
+                        "nameEn": "Béla Balázs",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220575.jpg"
+                    },
+                    {
+                        "id": 212406,
+                        "nameRu": "Эдгар Аллан Вулф",
+                        "nameEn": "Edgar Allan Woolf",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212406.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 193349,
+                        "nameRu": "Уильям Х. Дэниелс",
+                        "nameEn": "William H. Daniels",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193349.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 587100,
+                        "nameRu": "Чарльз Максвелл",
+                        "nameEn": "Charles Maxwell",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_587100.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": "18+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 52 мин",
+                "description": "Обычный день роскошного Берлинского гранд-отеля, сотни служащих и гостей, люди встречаются, люди расходятся... Убийство и воровство, любовь и ненависть, азарт и жадность - все грехи мира представлены в этом замкнутом мире красоты и порока.\n\nБарон фон Гейджерн - аристократ, идущий на воровство, чтобы расплатиться с карточными долгами. Пытаясь похитить жемчужное колье балерины Грусинской, он вместо того крадёт ее сердце.",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": true,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/7682/",
+                "webUrl": "https://www.kinopoisk.ru/film/7682/",
+                "lastSync": "2024-12-28T07:14:34.703Z"
+            },
+            {
+                "kinopoiskId": 15422,
+                "nameRu": "Доктор Эрроусмит",
+                "nameOriginal": "Arrowsmith",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15422.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15422.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 6,
+                "ratingKinopoiskVoteCount": 299,
+                "ratingImdb": 6.2,
+                "ratingImdbVoteCount": 2051,
+                "ratingFilmCritics": 7.2,
+                "ratingFilmCriticsVoteCount": 9,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 194930,
+                        "nameRu": "Джон Форд",
+                        "nameEn": "John Ford",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194930.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178199,
+                        "nameRu": "Рональд Колман",
+                        "nameEn": "Ronald Colman",
+                        "description": "Dr. Martin Arrowsmith",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178199.jpg"
+                    },
+                    {
+                        "id": 176964,
+                        "nameRu": "Хелен Хэйес",
+                        "nameEn": "Helen Hayes",
+                        "description": "Leora Tozer Arrowsmith",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176964.jpg"
+                    },
+                    {
+                        "id": 214909,
+                        "nameRu": "Ричард Беннетт",
+                        "nameEn": "Richard Bennett",
+                        "description": "Gustav Sondelius",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214909.jpg"
+                    },
+                    {
+                        "id": 220948,
+                        "nameRu": "А.Э. Энсон",
+                        "nameEn": "A.E. Anson",
+                        "description": "Professor Max Gottlieb",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220948.jpg"
+                    },
+                    {
+                        "id": 132646,
+                        "nameRu": "Кларенс Брукс",
+                        "nameEn": "Clarence Brooks",
+                        "description": "Dr. Oliver Marchand",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_132646.jpg"
+                    },
+                    {
+                        "id": 220257,
+                        "nameRu": "Алек Б. Френсис",
+                        "nameEn": "Alec B. Francis",
+                        "description": "Twyford (в титрах: Alec Francis)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220257.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Dr. Tubbs",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 208903,
+                        "nameRu": "Берт Роач",
+                        "nameEn": "Bert Roach",
+                        "description": "Bert Tozer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208903.jpg"
+                    },
+                    {
+                        "id": 169887,
+                        "nameRu": "Мирна Лой",
+                        "nameEn": "Myrna Loy",
+                        "description": "Mrs. Joyce Lanyon",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169887.jpg"
+                    },
+                    {
+                        "id": 213319,
+                        "nameRu": "Расселл Хоптон",
+                        "nameEn": "Russell Hopton",
+                        "description": "Terry Wickett",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213319.jpg"
+                    },
+                    {
+                        "id": 220246,
+                        "nameRu": "Дэвид Ландау",
+                        "nameEn": "David Landau",
+                        "description": "State Veterinarian",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220246.jpg"
+                    },
+                    {
+                        "id": 200439,
+                        "nameRu": "Ламсден Хейр",
+                        "nameEn": "Lumsden Hare",
+                        "description": "Sir Robert Fairland - Governor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200439.jpg"
+                    },
+                    {
+                        "id": 202046,
+                        "nameRu": "Эрвилль Алдерсон",
+                        "nameEn": "Erville Alderson",
+                        "description": "Pioneer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202046.jpg"
+                    },
+                    {
+                        "id": 200111,
+                        "nameRu": "Уорд Бонд",
+                        "nameEn": "Ward Bond",
+                        "description": "Cop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200111.jpg"
+                    },
+                    {
+                        "id": 183505,
+                        "nameRu": "Бьюла Бонди",
+                        "nameEn": "Beulah Bondi",
+                        "description": "Mrs. Tozer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183505.jpg"
+                    },
+                    {
+                        "id": 365311,
+                        "nameRu": "Флоренс Бриттон",
+                        "nameEn": "Florence Britton",
+                        "description": "Miss Twyford, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365311.jpg"
+                    },
+                    {
+                        "id": 211748,
+                        "nameRu": "Нора Сесил",
+                        "nameEn": "Nora Cecil",
+                        "description": "Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211748.jpg"
+                    },
+                    {
+                        "id": 219346,
+                        "nameRu": "Сидни Де Грэй",
+                        "nameEn": "Sidney De Gray",
+                        "description": "Doctor Hesselink, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219346.jpg"
+                    },
+                    {
+                        "id": 181993,
+                        "nameRu": "Сирил Делеванти",
+                        "nameEn": "Cyril Delevanti",
+                        "description": "Committee Member, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181993.jpg"
+                    },
+                    {
+                        "id": 220248,
+                        "nameRu": "Майк Донлин",
+                        "nameEn": "Mike Donlin",
+                        "description": "Undetermined Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220248.jpg"
+                    },
+                    {
+                        "id": 219299,
+                        "nameRu": "Уолтер Доунинг",
+                        "nameEn": "Walter Downing",
+                        "description": "City Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219299.jpg"
+                    },
+                    {
+                        "id": 212781,
+                        "nameRu": "Гибсон Гоуланд",
+                        "nameEn": "Gibson Gowland",
+                        "description": "Committee Member, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212781.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 210178,
+                        "nameRu": "Тереза Харрис",
+                        "nameEn": "Theresa Harris",
+                        "description": "Native Mother, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210178.jpg"
+                    },
+                    {
+                        "id": 191937,
+                        "nameRu": "Реймонд Хаттон",
+                        "nameEn": "Raymond Hatton",
+                        "description": "Drunk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_191937.jpg"
+                    },
+                    {
+                        "id": 218374,
+                        "nameRu": "Шарлотта Генри",
+                        "nameEn": "Charlotte Henry",
+                        "description": "The Pioneer Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218374.jpg"
+                    },
+                    {
+                        "id": 205403,
+                        "nameRu": "Джордж Умберт",
+                        "nameEn": "George Humbert",
+                        "description": "Italian Uncle, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205403.jpg"
+                    },
+                    {
+                        "id": 219257,
+                        "nameRu": "Девитт Дженнингс",
+                        "nameEn": "DeWitt Jennings",
+                        "description": "Mr. B.W. Tozer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219257.jpg"
+                    },
+                    {
+                        "id": 175686,
+                        "nameRu": "Майк Лэлли",
+                        "nameEn": "Mike Lally",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_175686.jpg"
+                    },
+                    {
+                        "id": 219961,
+                        "nameRu": "Лиллиэн Лоуренс",
+                        "nameEn": "Lillian Lawrence",
+                        "description": "West Indies Townswoman at Meeting, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219961.jpg"
+                    },
+                    {
+                        "id": 196279,
+                        "nameRu": "Карл М. Левинесс",
+                        "nameEn": "Carl M. Leviness",
+                        "description": "Ship's Passenger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196279.jpg"
+                    },
+                    {
+                        "id": 218256,
+                        "nameRu": "Джеймс А. Маркус",
+                        "nameEn": "James A. Marcus",
+                        "description": "Old Doctor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218256.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Dignitary at Luncheon, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 364670,
+                        "nameRu": "Кендалл МакКомас",
+                        "nameEn": "Kendall McComas",
+                        "description": "Little Johnny, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364670.jpg"
+                    },
+                    {
+                        "id": 213562,
+                        "nameRu": "Эдмунд Мортимер",
+                        "nameEn": "Edmund Mortimer",
+                        "description": "Ship's Passenger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213562.jpg"
+                    },
+                    {
+                        "id": 189767,
+                        "nameRu": "Джон Кволен",
+                        "nameEn": "John Qualen",
+                        "description": "Henry Novak, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189767.jpg"
+                    },
+                    {
+                        "id": 362848,
+                        "nameRu": "Эдвард Рейнах",
+                        "nameEn": "Edward Reinach",
+                        "description": "Dignitary, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362848.jpg"
+                    },
+                    {
+                        "id": 364186,
+                        "nameRu": "Милтон Ройс",
+                        "nameEn": "Milton Royce",
+                        "description": "Intern, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364186.jpg"
+                    },
+                    {
+                        "id": 219670,
+                        "nameRu": "Гарри Шульц",
+                        "nameEn": "Harry Schultz",
+                        "description": "Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219670.jpg"
+                    },
+                    {
+                        "id": 216066,
+                        "nameRu": "Пэт Сомерсет",
+                        "nameEn": "Pat Somerset",
+                        "description": "Ship's Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216066.jpg"
+                    },
+                    {
+                        "id": 220563,
+                        "nameRu": "Аделе Уотсон",
+                        "nameEn": "Adele Watson",
+                        "description": "Mrs. Novak, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220563.jpg"
+                    },
+                    {
+                        "id": 5392079,
+                        "nameRu": "",
+                        "nameEn": "Bobby Watson",
+                        "description": "Little Neighbor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5392079.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Ship's Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 199648,
+                        "nameRu": "Синклер Льюис",
+                        "nameEn": "Sinclair Lewis",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199648.jpg"
+                    },
+                    {
+                        "id": 199481,
+                        "nameRu": "Сидни Ховард",
+                        "nameEn": "Sidney Howard",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199481.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 200690,
+                        "nameRu": "Сэмюэл Голдуин",
+                        "nameEn": "Samuel Goldwyn",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200690.jpg"
+                    },
+                    {
+                        "id": 197824,
+                        "nameRu": "Артур Хорнблоу мл.",
+                        "nameEn": "Arthur Hornblow Jr.",
+                        "description": "исполнительный продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197824.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 358021,
+                        "nameRu": "Рэй Джун",
+                        "nameEn": "Ray June",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358021.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 206814,
+                        "nameRu": "Альфред Ньюман",
+                        "nameEn": "Alfred Newman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206814.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 358105,
+                        "nameRu": "Хью Беннетт",
+                        "nameEn": "Hugh Bennett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358105.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "16+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 48 мин",
+                "description": "История молодого врача-исследователя Мартина Эрроусмита, которому предстоит предотвратить эпидемию чумы в маленьком городе и решить, кто именно достоин получить вакцину.",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 358021,
+                                "nameRu": "Рэй Джун",
+                                "nameEn": "Ray June",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/358021.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 199481,
+                                "nameRu": "Сидни Ховард",
+                                "nameEn": "Sidney Howard",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/199481.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 201340,
+                                "nameRu": "Ричард Дэй",
+                                "nameEn": "Richard Day",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/201340.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15422/",
+                "webUrl": "https://www.kinopoisk.ru/film/15422/",
+                "lastSync": "2024-12-28T07:14:34.846Z"
+            },
+            {
+                "kinopoiskId": 206438,
+                "nameRu": "Плохая девчонка",
+                "nameOriginal": "Bad Girl",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/206438.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/206438.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 5.4,
+                "ratingKinopoiskVoteCount": 219,
+                "ratingImdb": 6.4,
+                "ratingImdbVoteCount": 1676,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 210545,
+                        "nameRu": "Фрэнк Борзеги",
+                        "nameEn": "Frank Borzage",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210545.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 180601,
+                        "nameRu": "Джеймс Данн",
+                        "nameEn": "James Dunn",
+                        "description": "Eddie Collins",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180601.jpg"
+                    },
+                    {
+                        "id": 211191,
+                        "nameRu": "Сэлли Эйлерс",
+                        "nameEn": "Sally Eilers",
+                        "description": "Dorothy Haley",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211191.jpg"
+                    },
+                    {
+                        "id": 208373,
+                        "nameRu": "Минна Гомбелл",
+                        "nameEn": "Minna Gombell",
+                        "description": "Edna Driggs",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208373.jpg"
+                    },
+                    {
+                        "id": 210816,
+                        "nameRu": "Фрэнк Остин",
+                        "nameEn": "Frank Austin",
+                        "description": "Upstairs Tenement Neighbor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210816.jpg"
+                    },
+                    {
+                        "id": 205753,
+                        "nameRu": "Ирвинг Бэйкон",
+                        "nameEn": "Irving Bacon",
+                        "description": "Expectant Father, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205753.jpg"
+                    },
+                    {
+                        "id": 1591452,
+                        "nameRu": "Сью Борзаж",
+                        "nameEn": "Sue Borzage",
+                        "description": "Unknown, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1591452.jpg"
+                    },
+                    {
+                        "id": 209845,
+                        "nameRu": "Фрэнк Дариен",
+                        "nameEn": "Frank Darien",
+                        "description": "Lathrop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209845.jpg"
+                    },
+                    {
+                        "id": 365941,
+                        "nameRu": "Джесси Де Ворска",
+                        "nameEn": "Jesse De Vorska",
+                        "description": "Expectant Father, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365941.jpg"
+                    },
+                    {
+                        "id": 2214027,
+                        "nameRu": "Бад Эйлерс",
+                        "nameEn": "Bud Eilers",
+                        "description": "Man Outside Candy Shop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2214027.jpg"
+                    },
+                    {
+                        "id": 172720,
+                        "nameRu": "Пол Фикс",
+                        "nameEn": "Paul Fix",
+                        "description": "Nervous Expectant Father, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172720.jpg"
+                    },
+                    {
+                        "id": 207364,
+                        "nameRu": "Эдвард Хирн",
+                        "nameEn": "Edward Hearn",
+                        "description": "Male Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207364.jpg"
+                    },
+                    {
+                        "id": 220064,
+                        "nameRu": "Эджи Херринг",
+                        "nameEn": "Aggie Herring",
+                        "description": "Seamstress, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220064.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Dr. Burgess, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 214965,
+                        "nameRu": "Луа Натуа",
+                        "nameEn": "Louis Natheaux",
+                        "description": "Mr. Thompson, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214965.jpg"
+                    },
+                    {
+                        "id": 207344,
+                        "nameRu": "Сара Падден",
+                        "nameEn": "Sarah Padden",
+                        "description": "Mrs. Gardner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207344.jpg"
+                    },
+                    {
+                        "id": 216017,
+                        "nameRu": "Уильям Поли",
+                        "nameEn": "William Pawley",
+                        "description": "Jim Haley, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216017.jpg"
+                    },
+                    {
+                        "id": 207713,
+                        "nameRu": "Лорин Рэйкер",
+                        "nameEn": "Lorin Raker",
+                        "description": "Male Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207713.jpg"
+                    },
+                    {
+                        "id": 201204,
+                        "nameRu": "Чарльз Салливан",
+                        "nameEn": "Charles Sullivan",
+                        "description": "Mike the Prizefighter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201204.jpg"
+                    },
+                    {
+                        "id": 216982,
+                        "nameRu": "Билли Уотсон",
+                        "nameEn": "Billy Watson",
+                        "description": "Floyd, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216982.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 215079,
+                        "nameRu": "Вина Делмар",
+                        "nameEn": "Viña Delmar",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215079.jpg"
+                    },
+                    {
+                        "id": 207828,
+                        "nameRu": "Брайан Марлоу",
+                        "nameEn": "Brian Marlow",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207828.jpg"
+                    },
+                    {
+                        "id": 219459,
+                        "nameRu": "Эдвин Дж. Бурк",
+                        "nameEn": "Edwin J. Burke",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219459.jpg"
+                    },
+                    {
+                        "id": 2919,
+                        "nameRu": "Рудольф Зибер",
+                        "nameEn": "Rudolf Sieber",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2919.jpg"
+                    }
+                ],
+                "producer": [],
+                "operator": [
+                    {
+                        "id": 366570,
+                        "nameRu": "Честер А. Лайонс",
+                        "nameEn": "Chester A. Lyons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366570.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 2014042,
+                        "nameRu": "Уильям С. Дарлинг",
+                        "nameEn": "William S. Darling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014042.jpg"
+                    },
+                    {
+                        "id": 360327,
+                        "nameRu": "Долли Три",
+                        "nameEn": "Dolly Tree",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360327.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2020933,
+                        "nameRu": "Маргарет Клэйнси",
+                        "nameEn": "Margaret Clancey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2020933.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 30 мин",
+                "description": "Мужчина и женщина, некогда разочаровавшиеся в любви, тем не менее влюбляются друг в друга и в скором времени женятся. Но прошлые разочарования и недоверие к противоположному полу преследуют их брак.",
+                "oscar": [
+                    {
+                        "name": "Лучший режиссер",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 210545,
+                                "nameRu": "Фрэнк Борзеги",
+                                "nameEn": "Frank Borzage",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/210545.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 219459,
+                                "nameRu": "Эдвин Дж. Бурк",
+                                "nameEn": "Edwin J. Burke",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/219459.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/206438/",
+                "webUrl": "https://www.kinopoisk.ru/film/206438/",
+                "lastSync": "2024-12-28T07:14:34.994Z"
+            },
+            {
+                "kinopoiskId": 30802,
+                "nameRu": "Чемпион",
+                "nameOriginal": "The Champ",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/30802.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/30802.jpg",
+                "reviewsCount": 3,
+                "ratingGoodReview": 67,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6.5,
+                "ratingKinopoiskVoteCount": 256,
+                "ratingImdb": 7.2,
+                "ratingImdbVoteCount": 3702,
+                "ratingFilmCritics": 7.3,
+                "ratingFilmCriticsVoteCount": 23,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "спорт"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 164089,
+                        "nameRu": "Кинг Видор",
+                        "nameEn": "King Vidor",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_164089.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 194987,
+                        "nameRu": "Уоллес Бири",
+                        "nameEn": "Wallace Beery",
+                        "description": "Champ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194987.jpg"
+                    },
+                    {
+                        "id": 143466,
+                        "nameRu": "Джекки Купер",
+                        "nameEn": "Jackie Cooper",
+                        "description": "Dink",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_143466.jpg"
+                    },
+                    {
+                        "id": 210482,
+                        "nameRu": "Ирен Рич",
+                        "nameEn": "Irene Rich",
+                        "description": "Linda",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210482.jpg"
+                    },
+                    {
+                        "id": 198732,
+                        "nameRu": "Роско Эйтс",
+                        "nameEn": "Roscoe Ates",
+                        "description": "Sponge (в титрах: Rosco Ates)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198732.jpg"
+                    },
+                    {
+                        "id": 198202,
+                        "nameRu": "Эдвард Брофи",
+                        "nameEn": "Edward Brophy",
+                        "description": "Tim",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198202.jpg"
+                    },
+                    {
+                        "id": 216260,
+                        "nameRu": "Хейл Хэмилтон",
+                        "nameEn": "Hale Hamilton",
+                        "description": "Tony",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216260.jpg"
+                    },
+                    {
+                        "id": 218939,
+                        "nameRu": "Джесси Скотт",
+                        "nameEn": "Jesse Scott",
+                        "description": "Jonah",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218939.jpg"
+                    },
+                    {
+                        "id": 183282,
+                        "nameRu": "Марсия Мэй Джонс",
+                        "nameEn": "Marcia Mae Jones",
+                        "description": "Mary Lou",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183282.jpg"
+                    },
+                    {
+                        "id": 220289,
+                        "nameRu": "Дэнни Мак Грант",
+                        "nameEn": "Dannie Mac Grant",
+                        "description": "Boy Taunting Dink, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220289.jpg"
+                    },
+                    {
+                        "id": 193369,
+                        "nameRu": "Фрэнк Хэгни",
+                        "nameEn": "Frank Hagney",
+                        "description": "Manuel Quiroga - Mexican Champ, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193369.jpg"
+                    },
+                    {
+                        "id": 210179,
+                        "nameRu": "Делл Хендерсон",
+                        "nameEn": "Dell Henderson",
+                        "description": "The Doctor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210179.jpg"
+                    },
+                    {
+                        "id": 210212,
+                        "nameRu": "Том МакГуайр",
+                        "nameEn": "Tom McGuire",
+                        "description": "Los Angeles Promoter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210212.jpg"
+                    },
+                    {
+                        "id": 220644,
+                        "nameRu": "Уолтер Персивал",
+                        "nameEn": "Walter Percival",
+                        "description": "Los Angeles Promoter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220644.jpg"
+                    },
+                    {
+                        "id": 207308,
+                        "nameRu": "Боб Перри",
+                        "nameEn": "Bob Perry",
+                        "description": "Referee, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207308.jpg"
+                    },
+                    {
+                        "id": 206739,
+                        "nameRu": "Ли Фелпс",
+                        "nameEn": "Lee Phelps",
+                        "description": "Louie - the Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206739.jpg"
+                    },
+                    {
+                        "id": 221046,
+                        "nameRu": "Энди Шуфорд",
+                        "nameEn": "Andy Shuford",
+                        "description": "Boy at Racetrack, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221046.jpg"
+                    },
+                    {
+                        "id": 211430,
+                        "nameRu": "Дэн Тоби",
+                        "nameEn": "Dan Tobey",
+                        "description": "Ring Announcer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211430.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 172138,
+                        "nameRu": "Фрэнсис Мэрион",
+                        "nameEn": "Frances Marion",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172138.jpg"
+                    },
+                    {
+                        "id": 204327,
+                        "nameRu": "Леонард Праскинс",
+                        "nameEn": "Leonard Praskins",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204327.jpg"
+                    },
+                    {
+                        "id": 212882,
+                        "nameRu": "Ванда Тачок",
+                        "nameEn": "Wanda Tuchock",
+                        "description": "дополнительные диалоги",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212882.jpg"
+                    },
+                    {
+                        "id": 186663,
+                        "nameRu": "Дон Маркиз",
+                        "nameEn": "Don Marquis",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_186663.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 164089,
+                        "nameRu": "Кинг Видор",
+                        "nameEn": "King Vidor",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_164089.jpg"
+                    },
+                    {
+                        "id": 217007,
+                        "nameRu": "Гарри Рапф",
+                        "nameEn": "Harry Rapf",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217007.jpg"
+                    },
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    },
+                    {
+                        "id": 221047,
+                        "nameRu": "Уильям М. Уайсс",
+                        "nameEn": "William M. Weiss",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221047.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 612990,
+                        "nameRu": "Гордон Эвил",
+                        "nameEn": "Gordon Avil",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_612990.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2012280,
+                        "nameRu": "Хью Винн",
+                        "nameEn": "Hugh Wynn",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2012280.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 26 мин",
+                "description": "История о взаимоотношениях между Энди Перселлом, бывшим боксёром-чемпионом, и его сыном Динком.",
+                "oscar": [
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 194987,
+                                "nameRu": "Уоллес Бири",
+                                "nameEn": "Wallace Beery",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/194987.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший сюжет",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 172138,
+                                "nameRu": "Фрэнсис Мэрион",
+                                "nameEn": "Frances Marion",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/172138.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    },
+                    {
+                        "name": "Лучший режиссер",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 164089,
+                                "nameRu": "Кинг Видор",
+                                "nameEn": "King Vidor",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/164089.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/30802/",
+                "webUrl": "https://www.kinopoisk.ru/film/30802/",
+                "lastSync": "2024-12-28T07:14:35.193Z"
+            },
+            {
+                "kinopoiskId": 12692,
+                "nameRu": "Пять последних звезд",
+                "nameOriginal": "Five Star Final",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12692.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/12692.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 6.2,
+                "ratingKinopoiskVoteCount": 238,
+                "ratingImdb": 7.3,
+                "ratingImdbVoteCount": 2595,
+                "ratingFilmCritics": 7.3,
+                "ratingFilmCriticsVoteCount": 11,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "криминал"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 190215,
+                        "nameRu": "Мервин ЛеРой",
+                        "nameEn": "Mervyn LeRoy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_190215.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 183213,
+                        "nameRu": "Эдвард Г. Робинсон",
+                        "nameEn": "Edward G. Robinson",
+                        "description": "Randall",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183213.jpg"
+                    },
+                    {
+                        "id": 219371,
+                        "nameRu": "Мэриэн Марш",
+                        "nameEn": "Marian Marsh",
+                        "description": "Jenny Townsend",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219371.jpg"
+                    },
+                    {
+                        "id": 201321,
+                        "nameRu": "Х.Б. Уорнер",
+                        "nameEn": "H.B. Warner",
+                        "description": "Michael Townsend",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201321.jpg"
+                    },
+                    {
+                        "id": 201360,
+                        "nameRu": "Энтони Бушнелл",
+                        "nameEn": "Anthony Bushell",
+                        "description": "Phillip Weeks",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201360.jpg"
+                    },
+                    {
+                        "id": 198237,
+                        "nameRu": "Джордж Э. Стоун",
+                        "nameEn": "George E. Stone",
+                        "description": "Ziggie Feinstein",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198237.jpg"
+                    },
+                    {
+                        "id": 366435,
+                        "nameRu": "Фрэнсис Старр",
+                        "nameEn": "Frances Starr",
+                        "description": "Nancy «Voorhees» Townsend",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366435.jpg"
+                    },
+                    {
+                        "id": 211653,
+                        "nameRu": "Она Мансон",
+                        "nameEn": "Ona Munson",
+                        "description": "Kitty Carmody",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211653.jpg"
+                    },
+                    {
+                        "id": 156446,
+                        "nameRu": "Борис Карлофф",
+                        "nameEn": "Boris Karloff",
+                        "description": "Isopod",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_156446.jpg"
+                    },
+                    {
+                        "id": 196723,
+                        "nameRu": "Элин МакМэон",
+                        "nameEn": "Aline MacMahon",
+                        "description": "Miss Taylor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196723.jpg"
+                    },
+                    {
+                        "id": 218033,
+                        "nameRu": "Оскар Апфель",
+                        "nameEn": "Oscar Apfel",
+                        "description": "Hinchecliffe",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218033.jpg"
+                    },
+                    {
+                        "id": 215454,
+                        "nameRu": "Пернелл Прэтт",
+                        "nameEn": "Purnell Pratt",
+                        "description": "French",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215454.jpg"
+                    },
+                    {
+                        "id": 216132,
+                        "nameRu": "Роберт Эллиотт",
+                        "nameEn": "Robert Elliott",
+                        "description": "Brannegan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216132.jpg"
+                    },
+                    {
+                        "id": 217500,
+                        "nameRu": "Джеймс П. Бёртис",
+                        "nameEn": "James P. Burtis",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217500.jpg"
+                    },
+                    {
+                        "id": 364284,
+                        "nameRu": "Ричард Карлайл",
+                        "nameEn": "Richard Carlyle",
+                        "description": "First Newstand Proprietor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364284.jpg"
+                    },
+                    {
+                        "id": 209845,
+                        "nameRu": "Фрэнк Дариен",
+                        "nameEn": "Frank Darien",
+                        "description": "Schwartz - Undertaker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209845.jpg"
+                    },
+                    {
+                        "id": 217065,
+                        "nameRu": "Джеймс Донлан",
+                        "nameEn": "James Donlan",
+                        "description": "Reporter in Speakeasy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217065.jpg"
+                    },
+                    {
+                        "id": 221100,
+                        "nameRu": "Эвелин Холл",
+                        "nameEn": "Evelyn Hall",
+                        "description": "Mrs. Isobel Weeks, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221100.jpg"
+                    },
+                    {
+                        "id": 220939,
+                        "nameRu": "Глэдис Ллойд",
+                        "nameEn": "Gladys Lloyd",
+                        "description": "Miss Edwards, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220939.jpg"
+                    },
+                    {
+                        "id": 220693,
+                        "nameRu": "Арнольд Люси",
+                        "nameEn": "Arnold Lucy",
+                        "description": "Dr. Bevins, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220693.jpg"
+                    },
+                    {
+                        "id": 209016,
+                        "nameRu": "Франклин Паркер",
+                        "nameEn": "Franklin Parker",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209016.jpg"
+                    },
+                    {
+                        "id": 216984,
+                        "nameRu": "Уильям Х. Штраусс",
+                        "nameEn": "William H. Strauss",
+                        "description": "Jerry - Bartender, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216984.jpg"
+                    },
+                    {
+                        "id": 217133,
+                        "nameRu": "Дэвид Торренс",
+                        "nameEn": "David Torrence",
+                        "description": "Arthur Weeks, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217133.jpg"
+                    },
+                    {
+                        "id": 218849,
+                        "nameRu": "",
+                        "nameEn": "Harold Waldridge",
+                        "description": "Arthur Goldberg, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218849.jpg"
+                    },
+                    {
+                        "id": 220619,
+                        "nameRu": "Полли Уолтерс",
+                        "nameEn": "Polly Walters",
+                        "description": "Telephone Operator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220619.jpg"
+                    },
+                    {
+                        "id": 210283,
+                        "nameRu": "Джек Уайз",
+                        "nameEn": "Jack Wise",
+                        "description": "Clerk Selling Nancy the Gazette, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210283.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 362924,
+                        "nameRu": "Луи Вайценкорн",
+                        "nameEn": "Louis Weitzenkorn",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362924.jpg"
+                    },
+                    {
+                        "id": 220484,
+                        "nameRu": "Байрон Морган",
+                        "nameEn": "Byron Morgan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220484.jpg"
+                    },
+                    {
+                        "id": 208353,
+                        "nameRu": "Роберт Лорд",
+                        "nameEn": "Robert Lord",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208353.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 179989,
+                        "nameRu": "Хэл Б. Уоллис",
+                        "nameEn": "Hal B. Wallis",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_179989.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220137,
+                        "nameRu": "Сол Полито",
+                        "nameEn": "Sol Polito",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220137.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 220138,
+                        "nameRu": "Джек Окей",
+                        "nameEn": "Jack Okey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220138.jpg"
+                    },
+                    {
+                        "id": 2011312,
+                        "nameRu": "Эрл Луик",
+                        "nameEn": "Earl Luick",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2011312.jpg"
+                    },
+                    {
+                        "id": 2007897,
+                        "nameRu": "Эдвард Стивенсон",
+                        "nameEn": "Edward Stevenson",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2007897.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2019014,
+                        "nameRu": "Фрэнк Уэр",
+                        "nameEn": "Frank Ware",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2019014.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 29 мин",
+                "description": "О бесчеловечности и безнравственности желтой прессы, погубившей в погоне за сенсацией нормальную, счастливую семью.",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/12692/",
+                "webUrl": "https://www.kinopoisk.ru/film/12692/",
+                "lastSync": "2024-12-28T07:14:35.348Z"
+            },
+            {
+                "kinopoiskId": 15749,
+                "nameRu": "Улыбающийся лейтенант",
+                "nameOriginal": "The Smiling Lieutenant",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15749.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15749.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 6.2,
+                "ratingKinopoiskVoteCount": 304,
+                "ratingImdb": 7.1,
+                "ratingImdbVoteCount": 4186,
+                "ratingFilmCritics": 7.7,
+                "ratingFilmCriticsVoteCount": 8,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 161479,
+                        "nameRu": "Эрнст Любич",
+                        "nameEn": "Ernst Lubitsch",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161479.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178223,
+                        "nameRu": "Морис Шевалье",
+                        "nameEn": "Maurice Chevalier",
+                        "description": "Lt. Nikolaus «Niki» von Preyn",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178223.jpg"
+                    },
+                    {
+                        "id": 193883,
+                        "nameRu": "Клодетт Кольбер",
+                        "nameEn": "Claudette Colbert",
+                        "description": "Franzi",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193883.jpg"
+                    },
+                    {
+                        "id": 192988,
+                        "nameRu": "Мириам Хопкинс",
+                        "nameEn": "Miriam Hopkins",
+                        "description": "Princess Anna",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192988.jpg"
+                    },
+                    {
+                        "id": 196610,
+                        "nameRu": "Чарльз Рагглз",
+                        "nameEn": "Charles Ruggles",
+                        "description": "Max (в титрах: Charlie Ruggles)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196610.jpg"
+                    },
+                    {
+                        "id": 214931,
+                        "nameRu": "Джордж Барбье",
+                        "nameEn": "George Barbier",
+                        "description": "King Adolf XV",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214931.jpg"
+                    },
+                    {
+                        "id": 215977,
+                        "nameRu": "Хью О’Коннелл",
+                        "nameEn": "Hugh O'Connell",
+                        "description": "Niki's Orderly",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215977.jpg"
+                    },
+                    {
+                        "id": 216478,
+                        "nameRu": "Мод Аллен",
+                        "nameEn": "Maude Allen",
+                        "description": "Lady in Waiting, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216478.jpg"
+                    },
+                    {
+                        "id": 216204,
+                        "nameRu": "Гранвилл Бейтс",
+                        "nameEn": "Granville Bates",
+                        "description": "Bill Collector, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216204.jpg"
+                    },
+                    {
+                        "id": 213488,
+                        "nameRu": "Гарри Брэдли",
+                        "nameEn": "Harry C. Bradley",
+                        "description": "Count Von Halden, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213488.jpg"
+                    },
+                    {
+                        "id": 219115,
+                        "nameRu": "Кэрри Домери",
+                        "nameEn": "Carrie Daumery",
+                        "description": "Lady in Waiting, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219115.jpg"
+                    },
+                    {
+                        "id": 588131,
+                        "nameRu": "",
+                        "nameEn": "Ludwig Heinsich",
+                        "description": "Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_588131.jpg"
+                    },
+                    {
+                        "id": 882581,
+                        "nameRu": "",
+                        "nameEn": "Cornelius MacSunday",
+                        "description": "Emperor Franz Josef, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_882581.jpg"
+                    },
+                    {
+                        "id": 199360,
+                        "nameRu": "Элизабет Паттерсон",
+                        "nameEn": "Elizabeth Patterson",
+                        "description": "Baroness von Schwedel, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199360.jpg"
+                    },
+                    {
+                        "id": 366515,
+                        "nameRu": "Джанет Рид",
+                        "nameEn": "Janet Reade",
+                        "description": "Lily, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366515.jpg"
+                    },
+                    {
+                        "id": 366516,
+                        "nameRu": "",
+                        "nameEn": "Werner Saxtorph",
+                        "description": "Joseph, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366516.jpg"
+                    },
+                    {
+                        "id": 366517,
+                        "nameRu": "Карл Шталл",
+                        "nameEn": "Karl Stall",
+                        "description": "Master of Ceremonies, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366517.jpg"
+                    },
+                    {
+                        "id": 207867,
+                        "nameRu": "Роберт Стрэйндж",
+                        "nameEn": "Robert Strange",
+                        "description": "Col. Rockoff, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207867.jpg"
+                    },
+                    {
+                        "id": 178413,
+                        "nameRu": "Чарльз Вагенхейм",
+                        "nameEn": "Charles Wagenheim",
+                        "description": "Arresting Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178413.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 366513,
+                        "nameRu": "Леопольд Джейкобсон",
+                        "nameEn": "Leopold Jacobson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366513.jpg"
+                    },
+                    {
+                        "id": 366512,
+                        "nameRu": "Феликс Дорманн",
+                        "nameEn": "Felix Dormann",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366512.jpg"
+                    },
+                    {
+                        "id": 365986,
+                        "nameRu": "Ганс Мюллер",
+                        "nameEn": "Hans Müller",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365986.jpg"
+                    },
+                    {
+                        "id": 207874,
+                        "nameRu": "Эрнест Вайда",
+                        "nameEn": "Ernest Vajda",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207874.jpg"
+                    },
+                    {
+                        "id": 170604,
+                        "nameRu": "Самсон Рэфелсон",
+                        "nameEn": "Samson Raphaelson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_170604.jpg"
+                    },
+                    {
+                        "id": 161479,
+                        "nameRu": "Эрнст Любич",
+                        "nameEn": "Ernst Lubitsch",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161479.jpg"
+                    },
+                    {
+                        "id": 366511,
+                        "nameRu": "Генри Батай",
+                        "nameEn": "Battaille-Henri",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366511.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 161479,
+                        "nameRu": "Эрнст Любич",
+                        "nameEn": "Ernst Lubitsch",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161479.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 215116,
+                        "nameRu": "Джордж Дж. Фолси",
+                        "nameEn": "George J. Folsey",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215116.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 218337,
+                        "nameRu": "Ханс Драйер",
+                        "nameEn": "Hans Dreier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218337.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 204726,
+                        "nameRu": "Мэрилл Дж. Уайт",
+                        "nameEn": "Merrill G. White",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204726.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 33 мин",
+                "description": "Действие разворачивается, как и положено в оперетте, в Вене, а также в вымышленном королевстве Флаузентурм. Лейтенант Николаус фон Прейн, повеса и бабник, стоит на карауле во время приезда флаузентурмского монарха к австрийскому императору. На другой стороне улицы среди толпы он видит свою пассию, скромную скрипачку Франзи.\n\nНиколаус улыбается ей, но проезжающая мимо принцесса сопредельного государства воспринимает это на свой счет. Происходит скандал, который, впрочем, заканчивается женитьбой повесы на принцессе. Лейтенант, ставший принцем, не может забыть свою венскую возлюбленную…",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15749/",
+                "webUrl": "https://www.kinopoisk.ru/film/15749/",
+                "lastSync": "2024-12-28T07:14:52.510Z"
+            },
+            {
+                "kinopoiskId": 26641,
+                "nameRu": "Один час с тобой",
+                "nameOriginal": "One Hour with You",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/26641.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/26641.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 75,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6.1,
+                "ratingKinopoiskVoteCount": 345,
+                "ratingImdb": 7,
+                "ratingImdbVoteCount": 3004,
+                "ratingFilmCritics": 7.5,
+                "ratingFilmCriticsVoteCount": 7,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 167171,
+                        "nameRu": "Джордж Кьюкор",
+                        "nameEn": "George Cukor",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_167171.jpg"
+                    },
+                    {
+                        "id": 161479,
+                        "nameRu": "Эрнст Любич",
+                        "nameEn": "Ernst Lubitsch",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161479.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178223,
+                        "nameRu": "Морис Шевалье",
+                        "nameEn": "Maurice Chevalier",
+                        "description": "Dr. Andre Bertier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178223.jpg"
+                    },
+                    {
+                        "id": 106071,
+                        "nameRu": "Джанетт Макдональд",
+                        "nameEn": "Jeanette MacDonald",
+                        "description": "Colette Bertier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_106071.jpg"
+                    },
+                    {
+                        "id": 220850,
+                        "nameRu": "Лили Дамита",
+                        "nameEn": "Lili Damita",
+                        "description": "Mitzi Olivier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220850.jpg"
+                    },
+                    {
+                        "id": 218772,
+                        "nameRu": "Женевьева Тобин",
+                        "nameEn": "Genevieve Tobin",
+                        "description": "Mitzi Olivier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218772.jpg"
+                    },
+                    {
+                        "id": 366015,
+                        "nameRu": "",
+                        "nameEn": "Pierre Etchepare",
+                        "description": "Adolphe",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366015.jpg"
+                    },
+                    {
+                        "id": 196610,
+                        "nameRu": "Чарльз Рагглз",
+                        "nameEn": "Charles Ruggles",
+                        "description": "Adolph",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196610.jpg"
+                    },
+                    {
+                        "id": 365381,
+                        "nameRu": "",
+                        "nameEn": "Ernest Ferny",
+                        "description": "Le professeur Olivier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365381.jpg"
+                    },
+                    {
+                        "id": 209543,
+                        "nameRu": "Роланд Янг",
+                        "nameEn": "Roland Young",
+                        "description": "Professor Olivier",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209543.jpg"
+                    },
+                    {
+                        "id": 215863,
+                        "nameRu": "Андре Черон",
+                        "nameEn": "André Cheron",
+                        "description": "Le commissaire de police",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215863.jpg"
+                    },
+                    {
+                        "id": 221379,
+                        "nameRu": "Жозефин Данн",
+                        "nameEn": "Josephine Dunn",
+                        "description": "Mademoiselle Martel",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221379.jpg"
+                    },
+                    {
+                        "id": 215805,
+                        "nameRu": "Ричард Карле",
+                        "nameEn": "Richard Carle",
+                        "description": "Henri Dornier - Private Detective",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215805.jpg"
+                    },
+                    {
+                        "id": 219877,
+                        "nameRu": "Барбара Леонард",
+                        "nameEn": "Barbara Leonard",
+                        "description": "Mitzi's Maid",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219877.jpg"
+                    },
+                    {
+                        "id": 214931,
+                        "nameRu": "Джордж Барбье",
+                        "nameEn": "George Barbier",
+                        "description": "Police Commissioner",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214931.jpg"
+                    },
+                    {
+                        "id": 218713,
+                        "nameRu": "Мэри Брекен",
+                        "nameEn": "Mary Bracken",
+                        "description": "Girl, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218713.jpg"
+                    },
+                    {
+                        "id": 192232,
+                        "nameRu": "Шила Бромли",
+                        "nameEn": "Sheila Bromley",
+                        "description": "Colette's Downstairs Maid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192232.jpg"
+                    },
+                    {
+                        "id": 218486,
+                        "nameRu": "Джек Байрон",
+                        "nameEn": "Jack Byron",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218486.jpg"
+                    },
+                    {
+                        "id": 196771,
+                        "nameRu": "Джек Чиф",
+                        "nameEn": "Jack Chefe",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196771.jpg"
+                    },
+                    {
+                        "id": 216041,
+                        "nameRu": "Лита Шеврет",
+                        "nameEn": "Lita Chevret",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216041.jpg"
+                    },
+                    {
+                        "id": 208189,
+                        "nameRu": "Чарльз Коулмэн",
+                        "nameEn": "Charles Coleman",
+                        "description": "Marcel, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208189.jpg"
+                    },
+                    {
+                        "id": 196572,
+                        "nameRu": "Джордж Дэвис",
+                        "nameEn": "George Davis",
+                        "description": "Taxi Driver, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196572.jpg"
+                    },
+                    {
+                        "id": 180603,
+                        "nameRu": "Билл Эллиотт",
+                        "nameEn": "Bill Elliott",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180603.jpg"
+                    },
+                    {
+                        "id": 195325,
+                        "nameRu": "Бесс Флауэрс",
+                        "nameEn": "Bess Flowers",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195325.jpg"
+                    },
+                    {
+                        "id": 587609,
+                        "nameRu": "Джек Форд",
+                        "nameEn": "Jack Ford",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_587609.jpg"
+                    },
+                    {
+                        "id": 210033,
+                        "nameRu": "Чарльз Джуделс",
+                        "nameEn": "Charles Judels",
+                        "description": "Policeman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210033.jpg"
+                    },
+                    {
+                        "id": 215712,
+                        "nameRu": "Флорин МакКинни",
+                        "nameEn": "Florine McKinney",
+                        "description": "Departing Party Guest, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215712.jpg"
+                    },
+                    {
+                        "id": 214890,
+                        "nameRu": "Дональд Новис",
+                        "nameEn": "Donald Novis",
+                        "description": "Band Singer at Party, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214890.jpg"
+                    },
+                    {
+                        "id": 366017,
+                        "nameRu": "Леони Прэй",
+                        "nameEn": "Léonie Pray",
+                        "description": "Colette's Upstair's Maid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366017.jpg"
+                    },
+                    {
+                        "id": 135711,
+                        "nameRu": "Мэй Куэстел",
+                        "nameEn": "Mae Questel",
+                        "description": "Office Worker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135711.jpg"
+                    },
+                    {
+                        "id": 216066,
+                        "nameRu": "Пэт Сомерсет",
+                        "nameEn": "Pat Somerset",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216066.jpg"
+                    },
+                    {
+                        "id": 197013,
+                        "nameRu": "Кент Тейлор",
+                        "nameEn": "Kent Taylor",
+                        "description": "Party Guest Greeted by Colette, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197013.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Andre's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 366014,
+                        "nameRu": "Лотар Шмидт",
+                        "nameEn": "Lothar Schmidt",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366014.jpg"
+                    },
+                    {
+                        "id": 170604,
+                        "nameRu": "Самсон Рэфелсон",
+                        "nameEn": "Samson Raphaelson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_170604.jpg"
+                    },
+                    {
+                        "id": 365882,
+                        "nameRu": "Леопольд Маршан",
+                        "nameEn": "Léopold Marchand",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365882.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 161479,
+                        "nameRu": "Эрнст Любич",
+                        "nameEn": "Ernst Lubitsch",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161479.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220363,
+                        "nameRu": "Виктор Милнер",
+                        "nameEn": "Victor Milner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220363.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 362947,
+                        "nameRu": "В. Франке Харлинг",
+                        "nameEn": "W. Franke Harling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362947.jpg"
+                    },
+                    {
+                        "id": 366016,
+                        "nameRu": "Оскар Штраус",
+                        "nameEn": "Oscar Straus",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366016.jpg"
+                    },
+                    {
+                        "id": 218332,
+                        "nameRu": "Рудольф Дж. Копп",
+                        "nameEn": "Rudolph G. Kopp",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218332.jpg"
+                    },
+                    {
+                        "id": 218333,
+                        "nameRu": "Джон Лайполд",
+                        "nameEn": "John Leipold",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218333.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 218337,
+                        "nameRu": "Ханс Драйер",
+                        "nameEn": "Hans Dreier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218337.jpg"
+                    },
+                    {
+                        "id": 220364,
+                        "nameRu": "Трэвис Бэнтон",
+                        "nameEn": "Travis Banton",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220364.jpg"
+                    },
+                    {
+                        "id": 2014548,
+                        "nameRu": "А.Э. Фрюдман",
+                        "nameEn": "A.E. Freudeman",
+                        "description": "по декорациям",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014548.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 220859,
+                        "nameRu": "Уильям Ши",
+                        "nameEn": "William Shea",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220859.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 18 мин",
+                "description": "Андре и Колетт Бертье счастливы в браке. Эта гармония рушится, когда Коллет представляет мужу свою подругу, кокетку по имени Митци Оливер. Андре пытается сопротивляться ее авансам, но в конце концов не может устоять перед ее обаянием и заводит с Митци роман. Так как муж Митци хочет получить развод, он следит за ней и ловит жену с поличным, после чего Андре вынужден признаться жене в измене. Однако Колетт сама принимала знаки внимания от другого мужчины, и потому супруги прощают друг друга.",
+                "oscar": [
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/26641/",
+                "webUrl": "https://www.kinopoisk.ru/film/26641/",
+                "lastSync": "2024-12-28T07:14:52.665Z"
+            },
+            {
+                "kinopoiskId": 14033,
+                "nameRu": "Шанхайский экспресс",
+                "nameOriginal": "Shanghai Express",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/14033.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/14033.jpg",
+                "reviewsCount": 9,
+                "ratingGoodReview": 89,
+                "ratingGoodReviewVoteCount": 7,
+                "ratingKinopoisk": 7.1,
+                "ratingKinopoiskVoteCount": 2220,
+                "ratingImdb": 7.3,
+                "ratingImdbVoteCount": 10861,
+                "ratingFilmCritics": 8.3,
+                "ratingFilmCriticsVoteCount": 67,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "фильм-нуар"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 201851,
+                        "nameRu": "Джозеф фон Штернберг",
+                        "nameEn": "Josef von Sternberg",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201851.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 2907,
+                        "nameRu": "Марлен Дитрих",
+                        "nameEn": "Marlene Dietrich",
+                        "description": "Shanghai Lily",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2907.jpg"
+                    },
+                    {
+                        "id": 193881,
+                        "nameRu": "Клайв Брук",
+                        "nameEn": "Clive Brook",
+                        "description": "Captain Donald Harvey",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193881.jpg"
+                    },
+                    {
+                        "id": 585040,
+                        "nameRu": "Анна Мэй Вонг",
+                        "nameEn": "Anna May Wong",
+                        "description": "Hui Fei",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_585040.jpg"
+                    },
+                    {
+                        "id": 218372,
+                        "nameRu": "Уорнер Оланд",
+                        "nameEn": "Warner Oland",
+                        "description": "Henry Chang",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218372.jpg"
+                    },
+                    {
+                        "id": 213956,
+                        "nameRu": "Юджин Пэллет",
+                        "nameEn": "Eugene Pallette",
+                        "description": "Sam Salt",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213956.jpg"
+                    },
+                    {
+                        "id": 214862,
+                        "nameRu": "Лоуренс Грант",
+                        "nameEn": "Lawrence Grant",
+                        "description": "Mr. Carmichael",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214862.jpg"
+                    },
+                    {
+                        "id": 220274,
+                        "nameRu": "Луиз Клоссер Хейл",
+                        "nameEn": "Louise Closser Hale",
+                        "description": "Mrs. Haggerty",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220274.jpg"
+                    },
+                    {
+                        "id": 371325,
+                        "nameRu": "Густав фон Сейффертитц",
+                        "nameEn": "Gustav von Seyffertitz",
+                        "description": "Eric Baum",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_371325.jpg"
+                    },
+                    {
+                        "id": 219990,
+                        "nameRu": "Эмиль Шотар",
+                        "nameEn": "Emile Chautard",
+                        "description": "Major Lenard",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219990.jpg"
+                    },
+                    {
+                        "id": 662630,
+                        "nameRu": "Сами Аяноглу",
+                        "nameEn": "Sami Ayanoglu",
+                        "description": "Dr. Professor Jack, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_662630.jpg"
+                    },
+                    {
+                        "id": 202844,
+                        "nameRu": "Джордж Благой",
+                        "nameEn": "George Blagoi",
+                        "description": "Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202844.jpg"
+                    },
+                    {
+                        "id": 202727,
+                        "nameRu": "Леонард Кэри",
+                        "nameEn": "Leonard Carey",
+                        "description": "Carey, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202727.jpg"
+                    },
+                    {
+                        "id": 357365,
+                        "nameRu": "Джордж Чунг",
+                        "nameEn": "George Chung",
+                        "description": "Chinese Soldier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_357365.jpg"
+                    },
+                    {
+                        "id": 219331,
+                        "nameRu": "Вонг Чун",
+                        "nameEn": "Wong Chung",
+                        "description": "Chinese Officer Checking Passports, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219331.jpg"
+                    },
+                    {
+                        "id": 207350,
+                        "nameRu": "Джек Дири",
+                        "nameEn": "Jack Deery",
+                        "description": "British Officer at Shanghai, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207350.jpg"
+                    },
+                    {
+                        "id": 208145,
+                        "nameRu": "Херберт Эванс",
+                        "nameEn": "Herbert Evans",
+                        "description": "British Railway Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208145.jpg"
+                    },
+                    {
+                        "id": 195325,
+                        "nameRu": "Бесс Флауэрс",
+                        "nameEn": "Bess Flowers",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195325.jpg"
+                    },
+                    {
+                        "id": 213975,
+                        "nameRu": "Уилли Фун",
+                        "nameEn": "Willie Fung",
+                        "description": "Train Engineer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213975.jpg"
+                    },
+                    {
+                        "id": 219216,
+                        "nameRu": "Том Габбинс",
+                        "nameEn": "Tom Gubbins",
+                        "description": "Chinese Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219216.jpg"
+                    },
+                    {
+                        "id": 213331,
+                        "nameRu": "Форрестер Харви",
+                        "nameEn": "Forrester Harvey",
+                        "description": "Peiping Ticket Agent, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213331.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Mr. Albright, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 207574,
+                        "nameRu": "Джеймс Б. Леонг",
+                        "nameEn": "James B. Leong",
+                        "description": "A Rebel, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207574.jpg"
+                    },
+                    {
+                        "id": 361810,
+                        "nameRu": "",
+                        "nameEn": "Mrs. Sojin",
+                        "description": "Chinese Woman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361810.jpg"
+                    },
+                    {
+                        "id": 881604,
+                        "nameRu": "Юра Мита",
+                        "nameEn": "Ura Mita",
+                        "description": "Chinese Woman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_881604.jpg"
+                    },
+                    {
+                        "id": 217819,
+                        "nameRu": "Мики Морита",
+                        "nameEn": "Miki Morita",
+                        "description": "Chinese Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217819.jpg"
+                    },
+                    {
+                        "id": 203967,
+                        "nameRu": "Минору Нисида",
+                        "nameEn": "Minoru Nishida",
+                        "description": "Li Fung, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203967.jpg"
+                    },
+                    {
+                        "id": 214820,
+                        "nameRu": "Виктор Вонг",
+                        "nameEn": "Victor Wong",
+                        "description": "Chinese Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214820.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 200109,
+                        "nameRu": "Джулс Фёртмен",
+                        "nameEn": "Jules Furthman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200109.jpg"
+                    },
+                    {
+                        "id": 216196,
+                        "nameRu": "Гарри Херви",
+                        "nameEn": "Harry Hervey",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216196.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 218952,
+                        "nameRu": "Адольф Цукор",
+                        "nameEn": "Adolph Zukor",
+                        "description": "исполнительный продюсер (в титрах не указан)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218952.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 216493,
+                        "nameRu": "Ли Гармс",
+                        "nameEn": "Lee Garmes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216493.jpg"
+                    },
+                    {
+                        "id": 118653,
+                        "nameRu": "Джеймс Вонг Хау",
+                        "nameEn": "James Wong Howe",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_118653.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 220359,
+                        "nameRu": "Карл Хаджос",
+                        "nameEn": "Karl Hajos",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220359.jpg"
+                    },
+                    {
+                        "id": 362947,
+                        "nameRu": "В. Франке Харлинг",
+                        "nameEn": "W. Franke Harling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362947.jpg"
+                    },
+                    {
+                        "id": 218332,
+                        "nameRu": "Рудольф Дж. Копп",
+                        "nameEn": "Rudolph G. Kopp",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218332.jpg"
+                    },
+                    {
+                        "id": 218333,
+                        "nameRu": "Джон Лайполд",
+                        "nameEn": "John Leipold",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218333.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 218337,
+                        "nameRu": "Ханс Драйер",
+                        "nameEn": "Hans Dreier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218337.jpg"
+                    },
+                    {
+                        "id": 220364,
+                        "nameRu": "Трэвис Бэнтон",
+                        "nameEn": "Travis Banton",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220364.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 212405,
+                        "nameRu": "Фрэнк Салливан",
+                        "nameEn": "Frank Sullivan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212405.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 22 мин",
+                "description": "В Китае идёт гражданская война. В поезде Пекин-Шанхай едут разные пассажиры со своими тайнами. Среди них — эффектная женщина и авантюристка по прозвищу Шанхайская Лилия и её бывший возлюбленный капитан Дональд Харви, с которым они не виделись несколько лет. Во время очередной остановки на поезд нападает группа антиправительственных революционеров, а пассажиры становятся заложниками.",
+                "oscar": [
+                    {
+                        "name": "Лучший режиссер",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 201851,
+                                "nameRu": "Джозеф фон Штернберг",
+                                "nameEn": "Josef von Sternberg",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/201851.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 216493,
+                                "nameRu": "Ли Гармс",
+                                "nameEn": "Lee Garmes",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/216493.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/14033/",
+                "webUrl": "https://www.kinopoisk.ru/film/14033/",
+                "lastSync": "2024-12-28T07:14:52.818Z"
+            },
+            {
+                "kinopoiskId": 38897,
+                "nameRu": "Доктор Джекилл и мистер Хайд",
+                "nameOriginal": "Dr. Jekyll and Mr. Hyde",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/38897.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/38897.jpg",
+                "reviewsCount": 13,
+                "ratingGoodReview": 85,
+                "ratingGoodReviewVoteCount": 10,
+                "ratingKinopoisk": 7.5,
+                "ratingKinopoiskVoteCount": 2515,
+                "ratingImdb": 7.6,
+                "ratingImdbVoteCount": 16302,
+                "ratingFilmCritics": 8.5,
+                "ratingFilmCriticsVoteCount": 44,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "фантастика"
+                    },
+                    {
+                        "genre": "ужасы"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 154899,
+                        "nameRu": "Рубен Мамулян",
+                        "nameEn": "Rouben Mamoulian",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154899.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 180612,
+                        "nameRu": "Фредрик Марч",
+                        "nameEn": "Fredric March",
+                        "description": "Dr. Henry Jekyll / Mr. Hyde",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180612.jpg"
+                    },
+                    {
+                        "id": 192988,
+                        "nameRu": "Мириам Хопкинс",
+                        "nameEn": "Miriam Hopkins",
+                        "description": "Ivy Pearson",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192988.jpg"
+                    },
+                    {
+                        "id": 211905,
+                        "nameRu": "Роуз Хобарт",
+                        "nameEn": "Rose Hobart",
+                        "description": "Muriel Carew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211905.jpg"
+                    },
+                    {
+                        "id": 208403,
+                        "nameRu": "Холмс Херберт",
+                        "nameEn": "Holmes Herbert",
+                        "description": "Dr. Lanyon",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208403.jpg"
+                    },
+                    {
+                        "id": 209813,
+                        "nameRu": "Хэллиуэлл Хоббс",
+                        "nameEn": "Halliwell Hobbes",
+                        "description": "Brigadier-General Carew",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209813.jpg"
+                    },
+                    {
+                        "id": 211514,
+                        "nameRu": "Эдгар Нортон",
+                        "nameEn": "Edgar Norton",
+                        "description": "Poole",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211514.jpg"
+                    },
+                    {
+                        "id": 213301,
+                        "nameRu": "Темпе Пиготт",
+                        "nameEn": "Tempe Pigott",
+                        "description": "Mrs. Hawkins",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213301.jpg"
+                    },
+                    {
+                        "id": 206712,
+                        "nameRu": "Роберт Эдейр",
+                        "nameEn": "Robert Adair",
+                        "description": "Ivy's Admirer at Music Hall, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206712.jpg"
+                    },
+                    {
+                        "id": 212769,
+                        "nameRu": "Гарри Адамс",
+                        "nameEn": "Harry Adams",
+                        "description": "Pub Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212769.jpg"
+                    },
+                    {
+                        "id": 221199,
+                        "nameRu": "Уильям Бегг",
+                        "nameEn": "William Begg",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221199.jpg"
+                    },
+                    {
+                        "id": 202727,
+                        "nameRu": "Леонард Кэри",
+                        "nameEn": "Leonard Carey",
+                        "description": "Briggs - Lanyon's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202727.jpg"
+                    },
+                    {
+                        "id": 215404,
+                        "nameRu": "Рита Карлайл",
+                        "nameEn": "Rita Carlyle",
+                        "description": "Jekyll's Patient, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215404.jpg"
+                    },
+                    {
+                        "id": 946388,
+                        "nameRu": "Фрэнк Годдар",
+                        "nameEn": "Frank Goddard",
+                        "description": "Undetermined Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_946388.jpg"
+                    },
+                    {
+                        "id": 215846,
+                        "nameRu": "Бобби Хейл",
+                        "nameEn": "Bobbie Hale",
+                        "description": "Pub Patron, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215846.jpg"
+                    },
+                    {
+                        "id": 219979,
+                        "nameRu": "Пэт Хэрмон",
+                        "nameEn": "Pat Harmon",
+                        "description": "Music Hall Customer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219979.jpg"
+                    },
+                    {
+                        "id": 194938,
+                        "nameRu": "Сэм Харрис",
+                        "nameEn": "Sam Harris",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194938.jpg"
+                    },
+                    {
+                        "id": 211333,
+                        "nameRu": "Бойд Ирвин",
+                        "nameEn": "Boyd Irwin",
+                        "description": "Police Inspector, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211333.jpg"
+                    },
+                    {
+                        "id": 198677,
+                        "nameRu": "Том Лондон",
+                        "nameEn": "Tom London",
+                        "description": "Undetermined Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198677.jpg"
+                    },
+                    {
+                        "id": 220693,
+                        "nameRu": "Арнольд Люси",
+                        "nameEn": "Arnold Lucy",
+                        "description": "Utterson, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220693.jpg"
+                    },
+                    {
+                        "id": 215138,
+                        "nameRu": "Мёрдок МакКуорри",
+                        "nameEn": "Murdock MacQuarrie",
+                        "description": "Dissenting Doctor at Lecture, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215138.jpg"
+                    },
+                    {
+                        "id": 359527,
+                        "nameRu": "Уильям Мэрион",
+                        "nameEn": "William Marion",
+                        "description": "Party Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_359527.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Lanyon's Associate at Lecture, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 590766,
+                        "nameRu": "Дж. МакДоннел",
+                        "nameEn": "G.L. McDonnell",
+                        "description": "Hobson - Carew's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_590766.jpg"
+                    },
+                    {
+                        "id": 196586,
+                        "nameRu": "Джон Роджерс",
+                        "nameEn": "John Rogers",
+                        "description": "Music Hall Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196586.jpg"
+                    },
+                    {
+                        "id": 209328,
+                        "nameRu": "Дуглас Уолтон",
+                        "nameEn": "Douglas Walton",
+                        "description": "Blond Student, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209328.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Briggs - Lanyon's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 213308,
+                        "nameRu": "Сэмюэл Хоффенстайн",
+                        "nameEn": "Samuel Hoffenstein",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213308.jpg"
+                    },
+                    {
+                        "id": 215403,
+                        "nameRu": "Перси Хит",
+                        "nameEn": "Percy Heath",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215403.jpg"
+                    },
+                    {
+                        "id": 15072,
+                        "nameRu": "Роберт Льюис Стивенсон",
+                        "nameEn": "Robert Louis Stevenson",
+                        "description": "роман",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_15072.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 154899,
+                        "nameRu": "Рубен Мамулян",
+                        "nameEn": "Rouben Mamoulian",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154899.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220323,
+                        "nameRu": "Карл Штрусс",
+                        "nameEn": "Karl Struss",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220323.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 218337,
+                        "nameRu": "Ханс Драйер",
+                        "nameEn": "Hans Dreier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218337.jpg"
+                    },
+                    {
+                        "id": 220364,
+                        "nameRu": "Трэвис Бэнтон",
+                        "nameEn": "Travis Banton",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220364.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 220859,
+                        "nameRu": "Уильям Ши",
+                        "nameEn": "William Shea",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220859.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "16+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 38 мин",
+                "description": "Лондон. Конец 19 века. В переполненном зале знаменитый доктор Джекилл читает лекцию. Он заявляет, что природа человека двойственна, раздираема противоречиями между Добром и Злом. Если удастся разделить эти тенденции внутри человека, то можно будет поднять Добро на небывалую высоту. \n\nЗаявление доктора Джекилла вызывает энтузиазм у одних и скептицизм у других. Отец его невесты Мюриэл заявляет, что он женится на его дочери только через восемь месяцев и, несмотря на просьбы Джекилла, остается непреклонным. Ночью на улице Джекилл спасает проститутку Иви Пирсон, которую избивал клиент. Вскоре доктору удается создать микстуру, которая превращает его в дикое существо, проявляющее насильственные инстинкты...",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа оператора",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 220323,
+                                "nameRu": "Карл Штрусс",
+                                "nameEn": "Karl Struss",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/220323.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 180612,
+                                "nameRu": "Фредрик Марч",
+                                "nameEn": "Fredric March",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/180612.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучший адаптированный сценарий",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 213308,
+                                "nameRu": "Сэмюэл Хоффенстайн",
+                                "nameEn": "Samuel Hoffenstein",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/213308.jpg"
+                            },
+                            {
+                                "kinopoiskId": 215403,
+                                "nameRu": "Перси Хит",
+                                "nameEn": "Percy Heath",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/215403.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/38897/",
+                "webUrl": "https://www.kinopoisk.ru/film/38897/",
+                "lastSync": "2024-12-28T07:14:53.067Z"
+            },
+            {
+                "kinopoiskId": 203422,
+                "nameRu": "Гвардеец",
+                "nameOriginal": "The Guardsman",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/203422.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/203422.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 20,
+                "ratingImdb": 6.4,
+                "ratingImdbVoteCount": 624,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 206846,
+                        "nameRu": "Сидни Франклин",
+                        "nameEn": "Sidney Franklin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206846.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 214437,
+                        "nameRu": "Альфред Лант",
+                        "nameEn": "Alfred Lunt",
+                        "description": "The Actor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214437.jpg"
+                    },
+                    {
+                        "id": 214435,
+                        "nameRu": "Линн Фонтэнн",
+                        "nameEn": "Lynn Fontanne",
+                        "description": "The Actress",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214435.jpg"
+                    },
+                    {
+                        "id": 209543,
+                        "nameRu": "Роланд Янг",
+                        "nameEn": "Roland Young",
+                        "description": "The Critic",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209543.jpg"
+                    },
+                    {
+                        "id": 194995,
+                        "nameRu": "Сейзу Питтс",
+                        "nameEn": "Zasu Pitts",
+                        "description": "Liesl",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194995.jpg"
+                    },
+                    {
+                        "id": 211664,
+                        "nameRu": "",
+                        "nameEn": "Maude Eburne",
+                        "description": "«Mama»",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211664.jpg"
+                    },
+                    {
+                        "id": 211981,
+                        "nameRu": "Херман Бинг",
+                        "nameEn": "Herman Bing",
+                        "description": "A Creditor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211981.jpg"
+                    },
+                    {
+                        "id": 177179,
+                        "nameRu": "Энн Дворак",
+                        "nameEn": "Ann Dvorak",
+                        "description": "Fan Saying «There He Is», в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_177179.jpg"
+                    },
+                    {
+                        "id": 220888,
+                        "nameRu": "Джеральдин Дворак",
+                        "nameEn": "Geraldine Dvorak",
+                        "description": "Operagoer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220888.jpg"
+                    },
+                    {
+                        "id": 189475,
+                        "nameRu": "Майкл Марк",
+                        "nameEn": "Michael Mark",
+                        "description": "The Actor's Valet, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189475.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Theatregoer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 198364,
+                        "nameRu": "Ференц Мольнар",
+                        "nameEn": "Ferenc Molnár",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_198364.jpg"
+                    },
+                    {
+                        "id": 207874,
+                        "nameRu": "Эрнест Вайда",
+                        "nameEn": "Ernest Vajda",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207874.jpg"
+                    },
+                    {
+                        "id": 65172,
+                        "nameRu": "Максвелл Андерсон",
+                        "nameEn": "Maxwell Anderson",
+                        "description": "пьеса, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_65172.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 192222,
+                        "nameRu": "Альберт Левин",
+                        "nameEn": "Albert Lewin",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192222.jpg"
+                    },
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 220740,
+                        "nameRu": "Норберт Бродин",
+                        "nameEn": "Norbert Brodine",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220740.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2014331,
+                        "nameRu": "Конрад А. Нервиг",
+                        "nameEn": "Conrad A. Nervig",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014331.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 22 мин",
+                "description": "Пара танцоров из Вены завораживала своим талантом толпу. Весь свет столицы наблюдал за тем, как танцевали молодые, и когда артисты выходили на сцену, никто не смел произнести ни звука. Танцоры сочетались узами брака и отмечали первые полгода совместной жизни. Но никто не знал, что не все так гладко в личной жизни молодоженов. Лишь в танце они были единым целым, а дома супруга вела себя как капризный ребенок, и супруг начал полагать, что она разлюбила его. Ситуация усугубилась, когда русский гвардеец прислал девушке букет.",
+                "oscar": [
+                    {
+                        "name": "Лучшая мужская роль",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 214437,
+                                "nameRu": "Альфред Лант",
+                                "nameEn": "Alfred Lunt",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/214437.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 214435,
+                                "nameRu": "Линн Фонтэнн",
+                                "nameEn": "Lynn Fontanne",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/214435.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/203422/",
+                "webUrl": "https://www.kinopoisk.ru/film/203422/",
+                "lastSync": "2024-12-28T07:14:53.256Z"
+            },
+            {
+                "kinopoiskId": 90757,
+                "nameRu": "Грех Мадлон Клоде",
+                "nameOriginal": "The Sin of Madelon Claudet",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/90757.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/90757.jpg",
+                "reviewsCount": 3,
+                "ratingGoodReview": 50,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 7,
+                "ratingKinopoiskVoteCount": 104,
+                "ratingImdb": 6.6,
+                "ratingImdbVoteCount": 1160,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "криминал"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "музыка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 220691,
+                        "nameRu": "Эдгар Селвин",
+                        "nameEn": "Edgar Selwyn",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220691.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 176964,
+                        "nameRu": "Хелен Хэйес",
+                        "nameEn": "Helen Hayes",
+                        "description": "Madelon",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_176964.jpg"
+                    },
+                    {
+                        "id": 178235,
+                        "nameRu": "Льюис Стоун",
+                        "nameEn": "Lewis Stone",
+                        "description": "Carlo Boretti",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178235.jpg"
+                    },
+                    {
+                        "id": 187676,
+                        "nameRu": "Нил Хэмилтон",
+                        "nameEn": "Neil Hamilton",
+                        "description": "Larry",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187676.jpg"
+                    },
+                    {
+                        "id": 155919,
+                        "nameRu": "Роберт Янг",
+                        "nameEn": "Robert Young",
+                        "description": "Dr. Claudet",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_155919.jpg"
+                    },
+                    {
+                        "id": 180602,
+                        "nameRu": "Клифф Эдвардс",
+                        "nameEn": "Cliff Edwards",
+                        "description": "Victor",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180602.jpg"
+                    },
+                    {
+                        "id": 214436,
+                        "nameRu": "Джин Хершолт",
+                        "nameEn": "Jean Hersholt",
+                        "description": "Dr. Dulac",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214436.jpg"
+                    },
+                    {
+                        "id": 219314,
+                        "nameRu": "Мари Прево",
+                        "nameEn": "Marie Prevost",
+                        "description": "Rosalie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219314.jpg"
+                    },
+                    {
+                        "id": 210037,
+                        "nameRu": "Карен Морли",
+                        "nameEn": "Karen Morley",
+                        "description": "Alice",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210037.jpg"
+                    },
+                    {
+                        "id": 206554,
+                        "nameRu": "Чарльз Виннингер",
+                        "nameEn": "Charles Winninger",
+                        "description": "Photographer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206554.jpg"
+                    },
+                    {
+                        "id": 210097,
+                        "nameRu": "Алан Хейл",
+                        "nameEn": "Alan Hale",
+                        "description": "Hubert",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210097.jpg"
+                    },
+                    {
+                        "id": 209813,
+                        "nameRu": "Хэллиуэлл Хоббс",
+                        "nameEn": "Halliwell Hobbes",
+                        "description": "Roget",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209813.jpg"
+                    },
+                    {
+                        "id": 219293,
+                        "nameRu": "Леннокс Поли",
+                        "nameEn": "Lennox Pawle",
+                        "description": "St. Jacques",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219293.jpg"
+                    },
+                    {
+                        "id": 214484,
+                        "nameRu": "Расс Пауэлл",
+                        "nameEn": "Russ Powell",
+                        "description": "Claudet",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214484.jpg"
+                    },
+                    {
+                        "id": 215299,
+                        "nameRu": "Реджинальд Барлоу",
+                        "nameEn": "Reginald Barlow",
+                        "description": "Public Assistance Official, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215299.jpg"
+                    },
+                    {
+                        "id": 207676,
+                        "nameRu": "Джозеф Э. Бернард",
+                        "nameEn": "Joseph E. Bernard",
+                        "description": "Butler Saying Job Already Filled, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207676.jpg"
+                    },
+                    {
+                        "id": 214332,
+                        "nameRu": "Эдвард Брэйди",
+                        "nameEn": "Ed Brady",
+                        "description": "Merchant Seaman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214332.jpg"
+                    },
+                    {
+                        "id": 211748,
+                        "nameRu": "Нора Сесил",
+                        "nameEn": "Nora Cecil",
+                        "description": "Nasty Prison Nun, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211748.jpg"
+                    },
+                    {
+                        "id": 180598,
+                        "nameRu": "Фрэнки Дарро",
+                        "nameEn": "Frankie Darro",
+                        "description": "Larry Claudet - as a Boy, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180598.jpg"
+                    },
+                    {
+                        "id": 200588,
+                        "nameRu": "Клер Дю Бри",
+                        "nameEn": "Claire Du Brey",
+                        "description": "Pleasant Prison Nun at Gate, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200588.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 207304,
+                        "nameRu": "Тайни Джонс",
+                        "nameEn": "Tiny Jones",
+                        "description": "Prisoner Behind Bars, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207304.jpg"
+                    },
+                    {
+                        "id": 207829,
+                        "nameRu": "Роберт Лииз",
+                        "nameEn": "Robert Lees",
+                        "description": "Undetermined Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207829.jpg"
+                    },
+                    {
+                        "id": 218322,
+                        "nameRu": "Гас Леонард",
+                        "nameEn": "Gus Leonard",
+                        "description": "Landlord, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218322.jpg"
+                    },
+                    {
+                        "id": 211428,
+                        "nameRu": "Теодор Лёрх",
+                        "nameEn": "Theodore Lorch",
+                        "description": "Felix - the Headwaiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211428.jpg"
+                    },
+                    {
+                        "id": 212792,
+                        "nameRu": "Эрик Мэйн",
+                        "nameEn": "Eric Mayne",
+                        "description": "Medical School Professor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212792.jpg"
+                    },
+                    {
+                        "id": 212046,
+                        "nameRu": "Бастер Фелпс",
+                        "nameEn": "Buster Phelps",
+                        "description": "Larry Claudet - Toddler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212046.jpg"
+                    },
+                    {
+                        "id": 209641,
+                        "nameRu": "Фрэнк Рейхер",
+                        "nameEn": "Frank Reicher",
+                        "description": "Arresting Detective, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209641.jpg"
+                    },
+                    {
+                        "id": 184426,
+                        "nameRu": "Вирджиния Сейл",
+                        "nameEn": "Virginia Sale",
+                        "description": "Charity Ward Nun, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_184426.jpg"
+                    },
+                    {
+                        "id": 209288,
+                        "nameRu": "Ларри Стирс",
+                        "nameEn": "Larry Steers",
+                        "description": "French Officer in Club, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209288.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 205448,
+                        "nameRu": "Эдвард Кноблок",
+                        "nameEn": "Edward Knoblock",
+                        "description": "пьеса",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205448.jpg"
+                    },
+                    {
+                        "id": 97520,
+                        "nameRu": "Бен Хект",
+                        "nameEn": "Ben Hecht",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_97520.jpg"
+                    },
+                    {
+                        "id": 181858,
+                        "nameRu": "Чарльз МакАртур",
+                        "nameEn": "Charles MacArthur",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_181858.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 217871,
+                        "nameRu": "Ирвинг Тальберг",
+                        "nameEn": "Irving Thalberg",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217871.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 365894,
+                        "nameRu": "Оливер Т. Марш",
+                        "nameEn": "Oliver T. Marsh",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365894.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2014802,
+                        "nameRu": "Том Хелд",
+                        "nameEn": "Tom Held",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2014802.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 15 мин",
+                "description": "История женщины, пожертвовавшая всем и ставшая воровкой, ради того, чтобы помочь своему незаконорожденному сыну.",
+                "oscar": [
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 176964,
+                                "nameRu": "Хелен Хэйес",
+                                "nameEn": "Helen Hayes",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/176964.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/90757/",
+                "webUrl": "https://www.kinopoisk.ru/film/90757/",
+                "lastSync": "2024-12-28T07:14:53.398Z"
+            },
+            {
+                "kinopoiskId": 15421,
+                "nameRu": "Эмма",
+                "nameOriginal": "Emma",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15421.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15421.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 75,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 68,
+                "ratingImdb": 6.9,
+                "ratingImdbVoteCount": 1160,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 206985,
+                        "nameRu": "Кларенс Браун",
+                        "nameEn": "Clarence Brown",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206985.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 161358,
+                        "nameRu": "Мари Дресслер",
+                        "nameEn": "Marie Dressler",
+                        "description": "Emma",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_161358.jpg"
+                    },
+                    {
+                        "id": 216978,
+                        "nameRu": "Ричард Кромуэлл",
+                        "nameEn": "Richard Cromwell",
+                        "description": "Ronnie",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216978.jpg"
+                    },
+                    {
+                        "id": 214436,
+                        "nameRu": "Джин Хершолт",
+                        "nameEn": "Jean Hersholt",
+                        "description": "Mr. Smith",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214436.jpg"
+                    },
+                    {
+                        "id": 169887,
+                        "nameRu": "Мирна Лой",
+                        "nameEn": "Myrna Loy",
+                        "description": "Isabelle",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169887.jpg"
+                    },
+                    {
+                        "id": 201653,
+                        "nameRu": "Джон Мильян",
+                        "nameEn": "John Miljan",
+                        "description": "District Attorney",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201653.jpg"
+                    },
+                    {
+                        "id": 215454,
+                        "nameRu": "Пернелл Прэтт",
+                        "nameEn": "Purnell Pratt",
+                        "description": "Haskins (в титрах: Purnell B. Pratt)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215454.jpg"
+                    },
+                    {
+                        "id": 218585,
+                        "nameRu": "Лейла Беннетт",
+                        "nameEn": "Leila Bennett",
+                        "description": "Matilda",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218585.jpg"
+                    },
+                    {
+                        "id": 187845,
+                        "nameRu": "Барбара Кент",
+                        "nameEn": "Barbara Kent",
+                        "description": "Gypsy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187845.jpg"
+                    },
+                    {
+                        "id": 365483,
+                        "nameRu": "Кэтрин Кроуфорд",
+                        "nameEn": "Kathryn Crawford",
+                        "description": "Sue",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365483.jpg"
+                    },
+                    {
+                        "id": 209591,
+                        "nameRu": "Джордж Микер",
+                        "nameEn": "George Meeker",
+                        "description": "Bill",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209591.jpg"
+                    },
+                    {
+                        "id": 219559,
+                        "nameRu": "Дэйл Фуллер",
+                        "nameEn": "Dale Fuller",
+                        "description": "Maid",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219559.jpg"
+                    },
+                    {
+                        "id": 220958,
+                        "nameRu": "Уилфред Ной",
+                        "nameEn": "Wilfred Noy",
+                        "description": "Drake",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220958.jpg"
+                    },
+                    {
+                        "id": 215863,
+                        "nameRu": "Андре Черон",
+                        "nameEn": "André Cheron",
+                        "description": "Count Pierre (в титрах: Andre Cheron)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215863.jpg"
+                    },
+                    {
+                        "id": 207244,
+                        "nameRu": "Уилсон Бендж",
+                        "nameEn": "Wilson Benge",
+                        "description": "George - the Second Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207244.jpg"
+                    },
+                    {
+                        "id": 195086,
+                        "nameRu": "Вэйд Ботелер",
+                        "nameEn": "Wade Boteler",
+                        "description": "Airport Official, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195086.jpg"
+                    },
+                    {
+                        "id": 217518,
+                        "nameRu": "Джордж Купер",
+                        "nameEn": "George Cooper",
+                        "description": "Airport Mechanic, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217518.jpg"
+                    },
+                    {
+                        "id": 155744,
+                        "nameRu": "Эдит Феллоуз",
+                        "nameEn": "Edith Fellows",
+                        "description": "Gypsy as a Child, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_155744.jpg"
+                    },
+                    {
+                        "id": 219925,
+                        "nameRu": "Кларенс Гелдарт",
+                        "nameEn": "Clarence Geldert",
+                        "description": "Trial Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219925.jpg"
+                    },
+                    {
+                        "id": 207725,
+                        "nameRu": "Шерри Холл",
+                        "nameEn": "Sherry Hall",
+                        "description": "Magazine and Candy Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207725.jpg"
+                    },
+                    {
+                        "id": 207364,
+                        "nameRu": "Эдвард Хирн",
+                        "nameEn": "Edward Hearn",
+                        "description": "Haskins' Assistant, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207364.jpg"
+                    },
+                    {
+                        "id": 218573,
+                        "nameRu": "Джон Ларкин",
+                        "nameEn": "John Larkin",
+                        "description": "Train Station Porter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218573.jpg"
+                    },
+                    {
+                        "id": 216261,
+                        "nameRu": "Эдвард ЛеСэйнт",
+                        "nameEn": "Edward LeSaint",
+                        "description": "Druggist at Trial, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216261.jpg"
+                    },
+                    {
+                        "id": 215782,
+                        "nameRu": "Уильям Х. О’Брайэн",
+                        "nameEn": "William H. O'Brien",
+                        "description": "Undetermined Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215782.jpg"
+                    },
+                    {
+                        "id": 208311,
+                        "nameRu": "Эдвард Пейл ст.",
+                        "nameEn": "Edward Peil Sr.",
+                        "description": "Undetermined Minor Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208311.jpg"
+                    },
+                    {
+                        "id": 197206,
+                        "nameRu": "Джек Пенник",
+                        "nameEn": "Jack Pennick",
+                        "description": "Man at Railway Station Who Retrieves Emma's Corset, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197206.jpg"
+                    },
+                    {
+                        "id": 212095,
+                        "nameRu": "Дороти Петерсон",
+                        "nameEn": "Dorothy Peterson",
+                        "description": "Mrs. Winthrop, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212095.jpg"
+                    },
+                    {
+                        "id": 206739,
+                        "nameRu": "Ли Фелпс",
+                        "nameEn": "Lee Phelps",
+                        "description": "Railroad Ticket Agent, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206739.jpg"
+                    },
+                    {
+                        "id": 213442,
+                        "nameRu": "Энн Ширли",
+                        "nameEn": "Anne Shirley",
+                        "description": "Isabelle as a Child, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213442.jpg"
+                    },
+                    {
+                        "id": 216311,
+                        "nameRu": "Джоан Стэндинг",
+                        "nameEn": "Joan Standing",
+                        "description": "Employment Agency Clerk, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216311.jpg"
+                    },
+                    {
+                        "id": 215598,
+                        "nameRu": "Уолтер Уолкер",
+                        "nameEn": "Walter Walker",
+                        "description": "Dr. Horton, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215598.jpg"
+                    },
+                    {
+                        "id": 214101,
+                        "nameRu": "Джей Уорд",
+                        "nameEn": "Jay Ward",
+                        "description": "Bill as a Child, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214101.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 172138,
+                        "nameRu": "Фрэнсис Мэрион",
+                        "nameEn": "Frances Marion",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_172138.jpg"
+                    },
+                    {
+                        "id": 204327,
+                        "nameRu": "Леонард Праскинс",
+                        "nameEn": "Leonard Praskins",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204327.jpg"
+                    },
+                    {
+                        "id": 220081,
+                        "nameRu": "Зельда Сирс",
+                        "nameEn": "Zelda Sears",
+                        "description": "дополнительные диалоги",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220081.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 206985,
+                        "nameRu": "Кларенс Браун",
+                        "nameEn": "Clarence Brown",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206985.jpg"
+                    },
+                    {
+                        "id": 217007,
+                        "nameRu": "Гарри Рапф",
+                        "nameEn": "Harry Rapf",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217007.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 365894,
+                        "nameRu": "Оливер Т. Марш",
+                        "nameEn": "Oliver T. Marsh",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365894.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [
+                    {
+                        "id": 206253,
+                        "nameRu": "Седрик Гиббонс",
+                        "nameEn": "Cedric Gibbons",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206253.jpg"
+                    },
+                    {
+                        "id": 220681,
+                        "nameRu": "Адриан",
+                        "nameEn": "Adrian",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220681.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2015775,
+                        "nameRu": "Уильям ЛиВэнвэй",
+                        "nameEn": "William LeVanway",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2015775.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 12 мин",
+                "description": "После смерти жены Фредерик Смит может рассчитывать только на экономку Эмму Тэтчер, которая приняла на себя все обязанности по воспитанию четырёх маленьких детей Фредерика. Проходят годы – дети выросли, а отец семейства добивается значительного профессионального успеха и становится богатым человеком. Незадолго до смерти Фредерика Эмма выходит за него замуж. Согласно последней воле мужчины значительная часть наследства достаётся жене, что становится источником конфликта между Эммой и её приёмными детьми...",
+                "oscar": [
+                    {
+                        "name": "Лучшая женская роль",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 161358,
+                                "nameRu": "Мари Дресслер",
+                                "nameEn": "Marie Dressler",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/161358.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15421/",
+                "webUrl": "https://www.kinopoisk.ru/film/15421/",
+                "lastSync": "2024-12-28T07:15:11.325Z"
+            },
+            {
+                "kinopoiskId": 13050,
+                "nameRu": "Звездный свидетель",
+                "nameOriginal": "The Star Witness",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/13050.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/13050.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 20,
+                "ratingImdb": 6.2,
+                "ratingImdbVoteCount": 767,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "криминал"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 91630,
+                        "nameRu": "Уильям А. Уэллмен",
+                        "nameEn": "William A. Wellman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_91630.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 180611,
+                        "nameRu": "Уолтер Хьюстон",
+                        "nameEn": "Walter Huston",
+                        "description": "District Attorney Whitlock",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180611.jpg"
+                    },
+                    {
+                        "id": 366435,
+                        "nameRu": "Фрэнсис Старр",
+                        "nameEn": "Frances Starr",
+                        "description": "Ma Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366435.jpg"
+                    },
+                    {
+                        "id": 180613,
+                        "nameRu": "Грант Митчелл",
+                        "nameEn": "Grant Mitchell",
+                        "description": "Pa Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180613.jpg"
+                    },
+                    {
+                        "id": 216958,
+                        "nameRu": "Сэлли Блейн",
+                        "nameEn": "Sally Blane",
+                        "description": "Sue Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216958.jpg"
+                    },
+                    {
+                        "id": 220937,
+                        "nameRu": "Ральф Инс",
+                        "nameEn": "Ralph Ince",
+                        "description": "«Maxey» Campo",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220937.jpg"
+                    },
+                    {
+                        "id": 218618,
+                        "nameRu": "Эдвард Дж. Наджент",
+                        "nameEn": "Edward J. Nugent",
+                        "description": "Jackie Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218618.jpg"
+                    },
+                    {
+                        "id": 207358,
+                        "nameRu": "Дики Мур",
+                        "nameEn": "Dickie Moore",
+                        "description": "Ned Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207358.jpg"
+                    },
+                    {
+                        "id": 194992,
+                        "nameRu": "Нат Пендлтон",
+                        "nameEn": "Nat Pendleton",
+                        "description": "Big Jack",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194992.jpg"
+                    },
+                    {
+                        "id": 217520,
+                        "nameRu": "Джордж Эрнест",
+                        "nameEn": "George Ernest",
+                        "description": "Donny Leeds",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217520.jpg"
+                    },
+                    {
+                        "id": 213319,
+                        "nameRu": "Расселл Хоптон",
+                        "nameEn": "Russell Hopton",
+                        "description": "Deputy Thorpe",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213319.jpg"
+                    },
+                    {
+                        "id": 219401,
+                        "nameRu": "Чарльз «Чик» Сэйл",
+                        "nameEn": "Charles «Chic» Sale",
+                        "description": "Private Summerill",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219401.jpg"
+                    },
+                    {
+                        "id": 210384,
+                        "nameRu": "Гай Д’Эннери",
+                        "nameEn": "Guy D'Ennery",
+                        "description": "Jack Short - Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210384.jpg"
+                    },
+                    {
+                        "id": 199414,
+                        "nameRu": "Эдгар Диаринг",
+                        "nameEn": "Edgar Dearing",
+                        "description": "Jim Sockett - Policeman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199414.jpg"
+                    },
+                    {
+                        "id": 220248,
+                        "nameRu": "Майк Донлин",
+                        "nameEn": "Mike Donlin",
+                        "description": "Mickey - Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220248.jpg"
+                    },
+                    {
+                        "id": 363925,
+                        "nameRu": "Томас Дж. Дуган",
+                        "nameEn": "Tom Dugan",
+                        "description": "Deputy Brown, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363925.jpg"
+                    },
+                    {
+                        "id": 207616,
+                        "nameRu": "Том Дуган",
+                        "nameEn": "Tom Dugan",
+                        "description": "Deputy Brown, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207616.jpg"
+                    },
+                    {
+                        "id": 216132,
+                        "nameRu": "Роберт Эллиотт",
+                        "nameEn": "Robert Elliott",
+                        "description": "Deputy Williams, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216132.jpg"
+                    },
+                    {
+                        "id": 212079,
+                        "nameRu": "Бен Холл",
+                        "nameEn": "Ben Hall",
+                        "description": "Orville - Timekeeper at W.P. Randolph, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212079.jpg"
+                    },
+                    {
+                        "id": 211520,
+                        "nameRu": "Джордж Ирвинг",
+                        "nameEn": "George Irving",
+                        "description": "Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211520.jpg"
+                    },
+                    {
+                        "id": 209621,
+                        "nameRu": "Аллан Лэйн",
+                        "nameEn": "Allan Lane",
+                        "description": "Young Deputy at the Leeds Home, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209621.jpg"
+                    },
+                    {
+                        "id": 214236,
+                        "nameRu": "Ноэль Мэдисон",
+                        "nameEn": "Noel Madison",
+                        "description": "Horan - Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214236.jpg"
+                    },
+                    {
+                        "id": 220028,
+                        "nameRu": "Флетчер Нортон",
+                        "nameEn": "Fletcher Norton",
+                        "description": "Dopey - Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220028.jpg"
+                    },
+                    {
+                        "id": 207308,
+                        "nameRu": "Боб Перри",
+                        "nameEn": "Bob Perry",
+                        "description": "Baldy - Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207308.jpg"
+                    },
+                    {
+                        "id": 200553,
+                        "nameRu": "Гарри Тенбрук",
+                        "nameEn": "Harry Tenbrook",
+                        "description": "Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200553.jpg"
+                    },
+                    {
+                        "id": 217195,
+                        "nameRu": "Гарри Уотсон",
+                        "nameEn": "Harry Watson",
+                        "description": "Boy Baseball Player, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217195.jpg"
+                    },
+                    {
+                        "id": 91630,
+                        "nameRu": "Уильям А. Уэллмен",
+                        "nameEn": "William A. Wellman",
+                        "description": "Company Workman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_91630.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 213031,
+                        "nameRu": "Люсьен Хаббард",
+                        "nameEn": "Lucien Hubbard",
+                        "description": "оригинал",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213031.jpg"
+                    },
+                    {
+                        "id": 579717,
+                        "nameRu": "Бад Барский",
+                        "nameEn": "Bud Barsky",
+                        "description": "история, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_579717.jpg"
+                    }
+                ],
+                "producer": [],
+                "operator": [
+                    {
+                        "id": 212217,
+                        "nameRu": "Джеймс Ван Трис",
+                        "nameEn": "James Van Trees",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212217.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 366479,
+                        "nameRu": "Алоис Райзер",
+                        "nameEn": "Alois Reiser",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366479.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 1997279,
+                        "nameRu": "Джон Хьюз",
+                        "nameEn": "John Hughes",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1997279.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2031908,
+                        "nameRu": "Харольд МакЛернон",
+                        "nameEn": "Harold McLernon",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2031908.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 8 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 213031,
+                                "nameRu": "Люсьен Хаббард",
+                                "nameEn": "Lucien Hubbard",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/213031.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/13050/",
+                "webUrl": "https://www.kinopoisk.ru/film/13050/",
+                "lastSync": "2024-12-28T07:15:11.469Z"
+            },
+            {
+                "kinopoiskId": 1455,
+                "nameRu": "Леди и джентльмен",
+                "nameOriginal": "Lady and Gent",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1455.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1455.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 22,
+                "ratingImdb": 6,
+                "ratingImdbVoteCount": 246,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "спорт"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 222084,
+                        "nameRu": "Стивен Робертс",
+                        "nameEn": "Stephen Roberts",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222084.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 215273,
+                        "nameRu": "Джордж Бэнкрофт",
+                        "nameEn": "George Bancroft",
+                        "description": "Slag Bailey",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215273.jpg"
+                    },
+                    {
+                        "id": 220622,
+                        "nameRu": "Винн Гибсон",
+                        "nameEn": "Wynne Gibson",
+                        "description": "Puff Rogers",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220622.jpg"
+                    },
+                    {
+                        "id": 208735,
+                        "nameRu": "Чарльз Старретт",
+                        "nameEn": "Charles Starrett",
+                        "description": "Ted Streaver",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208735.jpg"
+                    },
+                    {
+                        "id": 201537,
+                        "nameRu": "Джеймс Глисон",
+                        "nameEn": "James Gleason",
+                        "description": "Pin Streaver",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201537.jpg"
+                    },
+                    {
+                        "id": 47581,
+                        "nameRu": "Джон Уэйн",
+                        "nameEn": "John Wayne",
+                        "description": "Buzz Kinney",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_47581.jpg"
+                    },
+                    {
+                        "id": 213290,
+                        "nameRu": "Морган Уоллес",
+                        "nameEn": "Morgan Wallace",
+                        "description": "Cash Enright",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213290.jpg"
+                    },
+                    {
+                        "id": 213373,
+                        "nameRu": "Джеймс Крэйн",
+                        "nameEn": "James Crane",
+                        "description": "McSweeley",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213373.jpg"
+                    },
+                    {
+                        "id": 212174,
+                        "nameRu": "Уильям Халлиган",
+                        "nameEn": "William Halligan",
+                        "description": "Doc Hayes",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212174.jpg"
+                    },
+                    {
+                        "id": 221158,
+                        "nameRu": "Билли Баттс",
+                        "nameEn": "Billy Butts",
+                        "description": "Ted (aged 9)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221158.jpg"
+                    },
+                    {
+                        "id": 201870,
+                        "nameRu": "Джойс Комптон",
+                        "nameEn": "Joyce Compton",
+                        "description": "Betty",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201870.jpg"
+                    },
+                    {
+                        "id": 214784,
+                        "nameRu": "Фрэнк МакГлинн ст.",
+                        "nameEn": "Frank McGlynn Sr.",
+                        "description": "Principal",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214784.jpg"
+                    },
+                    {
+                        "id": 210354,
+                        "nameRu": "Чарли Грейпвин",
+                        "nameEn": "Charley Grapewin",
+                        "description": "Grocer (в титрах: Charles Grapewin)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210354.jpg"
+                    },
+                    {
+                        "id": 213978,
+                        "nameRu": "Лью Келли",
+                        "nameEn": "Lew Kelly",
+                        "description": "Coroner",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213978.jpg"
+                    },
+                    {
+                        "id": 197017,
+                        "nameRu": "Сид Сэйлор",
+                        "nameEn": "Syd Saylor",
+                        "description": "Joe",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197017.jpg"
+                    },
+                    {
+                        "id": 214484,
+                        "nameRu": "Расс Пауэлл",
+                        "nameEn": "Russ Powell",
+                        "description": "2nd Bartender",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214484.jpg"
+                    },
+                    {
+                        "id": 209845,
+                        "nameRu": "Фрэнк Дариен",
+                        "nameEn": "Frank Darien",
+                        "description": "Jim",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209845.jpg"
+                    },
+                    {
+                        "id": 213196,
+                        "nameRu": "Хэл Прайс",
+                        "nameEn": "Hal Price",
+                        "description": "1st Bartender",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213196.jpg"
+                    },
+                    {
+                        "id": 216127,
+                        "nameRu": "А.С. «Поп» Байрон",
+                        "nameEn": "A.S. «Pop» Byron",
+                        "description": "Judge (scenes deleted) (в титрах: A.S. Byron)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216127.jpg"
+                    },
+                    {
+                        "id": 210262,
+                        "nameRu": "Джон Бек",
+                        "nameEn": "John Beck",
+                        "description": "Workman",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210262.jpg"
+                    },
+                    {
+                        "id": 194702,
+                        "nameRu": "Том Кеннеди",
+                        "nameEn": "Tom Kennedy",
+                        "description": "Small Arena Fighter Spider Webb",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194702.jpg"
+                    },
+                    {
+                        "id": 212739,
+                        "nameRu": "Фрэнк Доусон",
+                        "nameEn": "Frank Dawson",
+                        "description": "Minister",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212739.jpg"
+                    },
+                    {
+                        "id": 192232,
+                        "nameRu": "Шила Бромли",
+                        "nameEn": "Sheila Bromley",
+                        "description": "Hat Check Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_192232.jpg"
+                    },
+                    {
+                        "id": 211445,
+                        "nameRu": "Эдди Чандлер",
+                        "nameEn": "Eddy Chandler",
+                        "description": "Ironton Fight Announcer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211445.jpg"
+                    },
+                    {
+                        "id": 212293,
+                        "nameRu": "Роберт Хоманс",
+                        "nameEn": "Robert Homans",
+                        "description": "Judge, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212293.jpg"
+                    },
+                    {
+                        "id": 78793,
+                        "nameRu": "Сидни Миллер",
+                        "nameEn": "Sidney Miller",
+                        "description": "Member of 8th Grade Graduating Class, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_78793.jpg"
+                    },
+                    {
+                        "id": 202238,
+                        "nameRu": "Фрэнк Миллс",
+                        "nameEn": "Frank Mills",
+                        "description": "McSweeley's Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202238.jpg"
+                    },
+                    {
+                        "id": 207308,
+                        "nameRu": "Боб Перри",
+                        "nameEn": "Bob Perry",
+                        "description": "Referee, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207308.jpg"
+                    },
+                    {
+                        "id": 218089,
+                        "nameRu": "Филип Слиман",
+                        "nameEn": "Philip Sleeman",
+                        "description": "Eddie, Puff's Nightclub ведущий, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218089.jpg"
+                    },
+                    {
+                        "id": 5922617,
+                        "nameRu": "",
+                        "nameEn": "Carolyn Spahn",
+                        "description": "Girl, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5922617.jpg"
+                    },
+                    {
+                        "id": 208697,
+                        "nameRu": "Фил Тид",
+                        "nameEn": "Phil Tead",
+                        "description": "Fight Commentator, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208697.jpg"
+                    },
+                    {
+                        "id": 218943,
+                        "nameRu": "Фред Уоллес",
+                        "nameEn": "Fred Wallace",
+                        "description": "Watchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218943.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 212536,
+                        "nameRu": "Гроувер Джонс",
+                        "nameEn": "Grover Jones",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212536.jpg"
+                    },
+                    {
+                        "id": 219247,
+                        "nameRu": "Уильям Слэвенс МакНатт",
+                        "nameEn": "William Slavens McNutt",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219247.jpg"
+                    }
+                ],
+                "producer": [],
+                "operator": [
+                    {
+                        "id": 222085,
+                        "nameRu": "Гарри Фисшбек",
+                        "nameEn": "Harry Fischbeck",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222085.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 218333,
+                        "nameRu": "Джон Лайполд",
+                        "nameEn": "John Leipold",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218333.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 24 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 212536,
+                                "nameRu": "Гроувер Джонс",
+                                "nameEn": "Grover Jones",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/212536.jpg"
+                            },
+                            {
+                                "kinopoiskId": 219247,
+                                "nameRu": "Уильям Слэвенс МакНатт",
+                                "nameEn": "William Slavens McNutt",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/219247.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/1455/",
+                "webUrl": "https://www.kinopoisk.ru/film/1455/",
+                "lastSync": "2024-12-28T07:15:11.650Z"
+            },
+            {
+                "kinopoiskId": 27457,
+                "nameRu": "Сколько стоит Голливуд?",
+                "nameOriginal": "What Price Hollywood?",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/27457.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/27457.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 50,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6.1,
+                "ratingKinopoiskVoteCount": 144,
+                "ratingImdb": 7,
+                "ratingImdbVoteCount": 2703,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "музыка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 167171,
+                        "nameRu": "Джордж Кьюкор",
+                        "nameEn": "George Cukor",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_167171.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178219,
+                        "nameRu": "Констанс Беннетт",
+                        "nameEn": "Constance Bennett",
+                        "description": "Mary Evans",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178219.jpg"
+                    },
+                    {
+                        "id": 219384,
+                        "nameRu": "Лоуелл Шерман",
+                        "nameEn": "Lowell Sherman",
+                        "description": "Max Carey",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219384.jpg"
+                    },
+                    {
+                        "id": 187676,
+                        "nameRu": "Нил Хэмилтон",
+                        "nameEn": "Neil Hamilton",
+                        "description": "Lonny Borden",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187676.jpg"
+                    },
+                    {
+                        "id": 199342,
+                        "nameRu": "Григорий Ратов",
+                        "nameEn": "Gregory Ratoff",
+                        "description": "Julius Saxe",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199342.jpg"
+                    },
+                    {
+                        "id": 200982,
+                        "nameRu": "Брукс Бенедикт",
+                        "nameEn": "Brooks Benedict",
+                        "description": "Muto",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200982.jpg"
+                    },
+                    {
+                        "id": 199567,
+                        "nameRu": "Луиз Биверс",
+                        "nameEn": "Louise Beavers",
+                        "description": "The Maid",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199567.jpg"
+                    },
+                    {
+                        "id": 211762,
+                        "nameRu": "Джордж Рид",
+                        "nameEn": "George Reed",
+                        "description": "Undetermined Secondary Role (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211762.jpg"
+                    },
+                    {
+                        "id": 220572,
+                        "nameRu": "Элис Эдейр",
+                        "nameEn": "Alice Adair",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220572.jpg"
+                    },
+                    {
+                        "id": 178217,
+                        "nameRu": "Эдди ’Рочестер’ Андерсон",
+                        "nameEn": "Eddie «Rochester» Anderson",
+                        "description": "James - Max's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178217.jpg"
+                    },
+                    {
+                        "id": 364965,
+                        "nameRu": "Сэм Армстронг",
+                        "nameEn": "Sam Armstrong",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364965.jpg"
+                    },
+                    {
+                        "id": 366051,
+                        "nameRu": "",
+                        "nameEn": "Zeena Baer",
+                        "description": "Secretary to Julius Saxe, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366051.jpg"
+                    },
+                    {
+                        "id": 212932,
+                        "nameRu": "Кинг Баггот",
+                        "nameEn": "King Baggot",
+                        "description": "Department Head, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212932.jpg"
+                    },
+                    {
+                        "id": 366052,
+                        "nameRu": "Джералд Бэрри",
+                        "nameEn": "Gerald Barry",
+                        "description": "John Reed - an Actor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366052.jpg"
+                    },
+                    {
+                        "id": 366053,
+                        "nameRu": "Флойд Белл",
+                        "nameEn": "Floyd Bell",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366053.jpg"
+                    },
+                    {
+                        "id": 215853,
+                        "nameRu": "Веда Баклэнд",
+                        "nameEn": "Veda Buckland",
+                        "description": "Nana - Jackie's Nursemaid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215853.jpg"
+                    },
+                    {
+                        "id": 366054,
+                        "nameRu": "Николас Карузо",
+                        "nameEn": "Nicholas Caruso",
+                        "description": "Chef at Brown Derby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366054.jpg"
+                    },
+                    {
+                        "id": 366055,
+                        "nameRu": "Л. Кэйси",
+                        "nameEn": "L. Casey",
+                        "description": "Writer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366055.jpg"
+                    },
+                    {
+                        "id": 216041,
+                        "nameRu": "Лита Шеврет",
+                        "nameEn": "Lita Chevret",
+                        "description": "Actress Filming on Movie Set, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216041.jpg"
+                    },
+                    {
+                        "id": 204408,
+                        "nameRu": "Хейни Конклин",
+                        "nameEn": "Heinie Conklin",
+                        "description": "Car Owner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204408.jpg"
+                    },
+                    {
+                        "id": 209218,
+                        "nameRu": "Марсель Кордей",
+                        "nameEn": "Marcelle Corday",
+                        "description": "French Nursemaid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209218.jpg"
+                    },
+                    {
+                        "id": 202287,
+                        "nameRu": "Адриэнна Д’Амбрикур",
+                        "nameEn": "Adrienne D'Ambricourt",
+                        "description": "French Cook, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202287.jpg"
+                    },
+                    {
+                        "id": 1015832,
+                        "nameRu": "Уильям Дэвис",
+                        "nameEn": "William Davis",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1015832.jpg"
+                    },
+                    {
+                        "id": 215040,
+                        "nameRu": "Гордон Де Майн",
+                        "nameEn": "Gordon De Main",
+                        "description": "The «Yes» Man, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215040.jpg"
+                    },
+                    {
+                        "id": 209204,
+                        "nameRu": "Эдди Данн",
+                        "nameEn": "Eddie Dunn",
+                        "description": "Doorman at Grauman's Theater, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209204.jpg"
+                    },
+                    {
+                        "id": 218685,
+                        "nameRu": "",
+                        "nameEn": "Effie Ellsler",
+                        "description": "Elderly Brown Derby Diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218685.jpg"
+                    },
+                    {
+                        "id": 366057,
+                        "nameRu": "Джесси Эллвуд",
+                        "nameEn": "Jesse Ellwood",
+                        "description": "Bootblack, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366057.jpg"
+                    },
+                    {
+                        "id": 214969,
+                        "nameRu": "Патриция Фарр",
+                        "nameEn": "Patricia Farr",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214969.jpg"
+                    },
+                    {
+                        "id": 364567,
+                        "nameRu": "Фред Фишер",
+                        "nameEn": "Fred Fisher",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364567.jpg"
+                    },
+                    {
+                        "id": 366058,
+                        "nameRu": "Уильям Флетчер",
+                        "nameEn": "William Fletcher",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366058.jpg"
+                    },
+                    {
+                        "id": 366059,
+                        "nameRu": "Кен Фой",
+                        "nameEn": "Ken Foy",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366059.jpg"
+                    },
+                    {
+                        "id": 216855,
+                        "nameRu": "Грэйс Гудолл",
+                        "nameEn": "Grace Goodall",
+                        "description": "Department Head, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216855.jpg"
+                    },
+                    {
+                        "id": 366060,
+                        "nameRu": "Эдна Грегори",
+                        "nameEn": "Edna Gregory",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366060.jpg"
+                    },
+                    {
+                        "id": 207351,
+                        "nameRu": "Чарли Холл",
+                        "nameEn": "Charlie Hall",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207351.jpg"
+                    },
+                    {
+                        "id": 220064,
+                        "nameRu": "Эджи Херринг",
+                        "nameEn": "Aggie Herring",
+                        "description": "Flower Vendor at Brown Derby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220064.jpg"
+                    },
+                    {
+                        "id": 222003,
+                        "nameRu": "Джин Хантли",
+                        "nameEn": "Jean Huntley",
+                        "description": "Cashier, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222003.jpg"
+                    },
+                    {
+                        "id": 203220,
+                        "nameRu": "Долли Джарвис",
+                        "nameEn": "Dolly Jarvis",
+                        "description": "Wedding Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203220.jpg"
+                    },
+                    {
+                        "id": 207573,
+                        "nameRu": "Шелдон Джетт",
+                        "nameEn": "Sheldon Jett",
+                        "description": "Studio Assistant Department Head in Screening Room, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207573.jpg"
+                    },
+                    {
+                        "id": 183282,
+                        "nameRu": "Марсия Мэй Джонс",
+                        "nameEn": "Marcia Mae Jones",
+                        "description": "Flower Girl at wedding, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_183282.jpg"
+                    },
+                    {
+                        "id": 366061,
+                        "nameRu": "",
+                        "nameEn": "Tony Jurrick",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366061.jpg"
+                    },
+                    {
+                        "id": 366062,
+                        "nameRu": "",
+                        "nameEn": "Eliz Karlin",
+                        "description": "Wedding Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366062.jpg"
+                    },
+                    {
+                        "id": 216305,
+                        "nameRu": "Чарльз Керр",
+                        "nameEn": "Charles Kerr",
+                        "description": "Photographer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216305.jpg"
+                    },
+                    {
+                        "id": 366063,
+                        "nameRu": "Элинор Кингстон",
+                        "nameEn": "Eleanor Kingston",
+                        "description": "Wedding Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366063.jpg"
+                    },
+                    {
+                        "id": 366064,
+                        "nameRu": "Конни Льюис",
+                        "nameEn": "Connie Lewis",
+                        "description": "Wedding Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366064.jpg"
+                    },
+                    {
+                        "id": 215733,
+                        "nameRu": "Уилфред Лукас",
+                        "nameEn": "Wilfred Lucas",
+                        "description": "Bill - Replacement Director, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215733.jpg"
+                    },
+                    {
+                        "id": 208859,
+                        "nameRu": "Джим Мэйсон",
+                        "nameEn": "Jim Mason",
+                        "description": "Attorney Roberts, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208859.jpg"
+                    },
+                    {
+                        "id": 196648,
+                        "nameRu": "Торбен Мейер",
+                        "nameEn": "Torben Meyer",
+                        "description": "Nick - Brown Derby Headwaiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196648.jpg"
+                    },
+                    {
+                        "id": 213562,
+                        "nameRu": "Эдмунд Мортимер",
+                        "nameEn": "Edmund Mortimer",
+                        "description": "Diner at Brown Derby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213562.jpg"
+                    },
+                    {
+                        "id": 218008,
+                        "nameRu": "Пэдди О’Флинн",
+                        "nameEn": "Paddy O'Flynn",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218008.jpg"
+                    },
+                    {
+                        "id": 219926,
+                        "nameRu": "Чарльз О’Мэлли",
+                        "nameEn": "Charles O'Malley",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219926.jpg"
+                    },
+                    {
+                        "id": 366065,
+                        "nameRu": "Джеки Пейдж",
+                        "nameEn": "Jackie Paige",
+                        "description": "Baby Jackie Borden, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366065.jpg"
+                    },
+                    {
+                        "id": 222491,
+                        "nameRu": "",
+                        "nameEn": "George Periolat",
+                        "description": "Undetermined Sedcondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222491.jpg"
+                    },
+                    {
+                        "id": 215523,
+                        "nameRu": "Гас Рид",
+                        "nameEn": "Gus Reed",
+                        "description": "Department Head, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215523.jpg"
+                    },
+                    {
+                        "id": 216415,
+                        "nameRu": "Флоренс Робертс",
+                        "nameEn": "Florence Roberts",
+                        "description": "Elderly Brown Derby Diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216415.jpg"
+                    },
+                    {
+                        "id": 211763,
+                        "nameRu": "Дик Раш",
+                        "nameEn": "Dick Rush",
+                        "description": "Policeman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211763.jpg"
+                    },
+                    {
+                        "id": 366066,
+                        "nameRu": "",
+                        "nameEn": "Arline Ryam",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366066.jpg"
+                    },
+                    {
+                        "id": 222528,
+                        "nameRu": "Льюис Сарджент",
+                        "nameEn": "Lewis Sargent",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222528.jpg"
+                    },
+                    {
+                        "id": 213106,
+                        "nameRu": "Гертруда Шорт",
+                        "nameEn": "Gertrude Short",
+                        "description": "Waitress Letting Mary Serve Max, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213106.jpg"
+                    },
+                    {
+                        "id": 200091,
+                        "nameRu": "Гарри Стрэндж",
+                        "nameEn": "Harry Strang",
+                        "description": "Reporter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200091.jpg"
+                    },
+                    {
+                        "id": 208697,
+                        "nameRu": "Фил Тид",
+                        "nameEn": "Phil Tead",
+                        "description": "Jimmy - the Assistant Director, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208697.jpg"
+                    },
+                    {
+                        "id": 366067,
+                        "nameRu": "Джек Трэйнор",
+                        "nameEn": "Jack Trainor",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366067.jpg"
+                    },
+                    {
+                        "id": 213925,
+                        "nameRu": "Брайант Уошберн",
+                        "nameEn": "Bryant Washburn",
+                        "description": "Washed-Up Star Telephoning in Brown Derby, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213925.jpg"
+                    },
+                    {
+                        "id": 206798,
+                        "nameRu": "Жозефин Уайттелл",
+                        "nameEn": "Josephine Whittell",
+                        "description": "Miss DuPont - the Interviewer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206798.jpg"
+                    },
+                    {
+                        "id": 202246,
+                        "nameRu": "Эрик Вилтон",
+                        "nameEn": "Eric Wilton",
+                        "description": "Martin - Mary's Butler, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202246.jpg"
+                    },
+                    {
+                        "id": 220617,
+                        "nameRu": "Кэрол Уайнс",
+                        "nameEn": "Carol Wines",
+                        "description": "Undetermined Secondary Role, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220617.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 211738,
+                        "nameRu": "Джин Фаулер",
+                        "nameEn": "Gene Fowler",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211738.jpg"
+                    },
+                    {
+                        "id": 216441,
+                        "nameRu": "Роулэнд Браун",
+                        "nameEn": "Rowland Brown",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216441.jpg"
+                    },
+                    {
+                        "id": 165995,
+                        "nameRu": "Адела Роджерс Ст. Джонс",
+                        "nameEn": "Adela Rogers St. Johns",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_165995.jpg"
+                    },
+                    {
+                        "id": 213564,
+                        "nameRu": "Джейн Мерфин",
+                        "nameEn": "Jane Murfin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213564.jpg"
+                    },
+                    {
+                        "id": 220457,
+                        "nameRu": "Бен Марксон",
+                        "nameEn": "Ben Markson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220457.jpg"
+                    },
+                    {
+                        "id": 215539,
+                        "nameRu": "Роберт Преснелл ст.",
+                        "nameEn": "Robert Presnell Sr.",
+                        "description": "адаптация, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215539.jpg"
+                    },
+                    {
+                        "id": 206835,
+                        "nameRu": "Аллен Ривкин",
+                        "nameEn": "Allen Rivkin",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206835.jpg"
+                    },
+                    {
+                        "id": 208852,
+                        "nameRu": "Луис Стивенс",
+                        "nameEn": "Louis Stevens",
+                        "description": "история, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208852.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 154896,
+                        "nameRu": "Пандро С. Берман",
+                        "nameEn": "Pandro S. Berman",
+                        "description": "ассоциированный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154896.jpg"
+                    },
+                    {
+                        "id": 202261,
+                        "nameRu": "Дэвид О. Селзник",
+                        "nameEn": "David O. Selznick",
+                        "description": "исполнительный продюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202261.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 217565,
+                        "nameRu": "Чарльз Рошер",
+                        "nameEn": "Charles Rosher",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217565.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 202348,
+                        "nameRu": "Макс Штайнер",
+                        "nameEn": "Max Steiner",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202348.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 1994018,
+                        "nameRu": "Кэрролл Кларк",
+                        "nameEn": "Carroll Clark",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1994018.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 221072,
+                        "nameRu": "Дель Эндрюс",
+                        "nameEn": "Del Andrews",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221072.jpg"
+                    },
+                    {
+                        "id": 361205,
+                        "nameRu": "Джек Китчин",
+                        "nameEn": "Jack Kitchin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361205.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "12+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 28 мин",
+                "description": "Официантка престижного ресторана, который часто посещают работники кино, Мэри Эванс мечтает стать актрисой. Однажды вечером, обслуживая подвыпившего знаменитого режиссера Макса Кэрри, она его очаровывает и он приглашает ее на премьеру своего фильма в китайский кинотеатр Граумон. Купив за 50 долларов «драндулет», он с эпатажем подъезжает к кинотеатру и отдает его в качестве «чаевых» парковщику стоянки, а Мэри представляет зрителям графиней.\n\nПрокутив всю ночь, он ничего не помнит на следующее утро. Доставившая его домой Мэри напоминает ему, что он обещал ей пробные съемки. Первое экранное испытание показывает, что девушка имеет гораздо больше амбиций, чем таланта и ей готовы отказать, но Мэри кроме амбиций еще и упорна…",
+                "oscar": [
+                    {
+                        "name": "Лучший сюжет",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 165995,
+                                "nameRu": "Адела Роджерс Ст. Джонс",
+                                "nameEn": "Adela Rogers St. Johns",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/165995.jpg"
+                            },
+                            {
+                                "kinopoiskId": 213564,
+                                "nameRu": "Джейн Мерфин",
+                                "nameEn": "Jane Murfin",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/213564.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/27457/",
+                "webUrl": "https://www.kinopoisk.ru/film/27457/",
+                "lastSync": "2024-12-28T07:15:11.810Z"
+            },
+            {
+                "kinopoiskId": 15426,
+                "nameRu": "Трансатлантический корабль",
+                "nameOriginal": "Transatlantic",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/15426.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/15426.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 25,
+                "ratingImdb": 6.2,
+                "ratingImdbVoteCount": 298,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "драма"
+                    },
+                    {
+                        "genre": "комедия"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 214558,
+                        "nameRu": "Уильям К. Ховард",
+                        "nameEn": "William K. Howard",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214558.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 199365,
+                        "nameRu": "Эдмунд Лоу",
+                        "nameEn": "Edmund Lowe",
+                        "description": "Monty Greer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199365.jpg"
+                    },
+                    {
+                        "id": 221248,
+                        "nameRu": "Луис Моран",
+                        "nameEn": "Lois Moran",
+                        "description": "Judy Kramer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221248.jpg"
+                    },
+                    {
+                        "id": 216012,
+                        "nameRu": "Джон Холлидэй",
+                        "nameEn": "John Halliday",
+                        "description": "Henry D. Graham",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216012.jpg"
+                    },
+                    {
+                        "id": 220990,
+                        "nameRu": "Грета Ниссен",
+                        "nameEn": "Greta Nissen",
+                        "description": "Sigrid Carline",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220990.jpg"
+                    },
+                    {
+                        "id": 169887,
+                        "nameRu": "Мирна Лой",
+                        "nameEn": "Myrna Loy",
+                        "description": "Kay Graham",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_169887.jpg"
+                    },
+                    {
+                        "id": 214436,
+                        "nameRu": "Джин Хершолт",
+                        "nameEn": "Jean Hersholt",
+                        "description": "Rudolph aka Jed Kramer",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214436.jpg"
+                    },
+                    {
+                        "id": 212078,
+                        "nameRu": "Эрл Фокс",
+                        "nameEn": "Earle Foxe",
+                        "description": "Handsome",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212078.jpg"
+                    },
+                    {
+                        "id": 209373,
+                        "nameRu": "Билли Беван",
+                        "nameEn": "Billy Bevan",
+                        "description": "Hodgkins",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209373.jpg"
+                    },
+                    {
+                        "id": 204041,
+                        "nameRu": "Рут Доннелли",
+                        "nameEn": "Ruth Donnelly",
+                        "description": "Burbank (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204041.jpg"
+                    },
+                    {
+                        "id": 209977,
+                        "nameRu": "Эдди Борден",
+                        "nameEn": "Eddie Borden",
+                        "description": "Interloper, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209977.jpg"
+                    },
+                    {
+                        "id": 365941,
+                        "nameRu": "Джесси Де Ворска",
+                        "nameEn": "Jesse De Vorska",
+                        "description": "Buyer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365941.jpg"
+                    },
+                    {
+                        "id": 207683,
+                        "nameRu": "Кроуфорд Кент",
+                        "nameEn": "Crauford Kent",
+                        "description": "1st Officer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207683.jpg"
+                    },
+                    {
+                        "id": 215407,
+                        "nameRu": "Клод Кинг",
+                        "nameEn": "Claude King",
+                        "description": "Captain, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215407.jpg"
+                    },
+                    {
+                        "id": 200456,
+                        "nameRu": "Джеймс Кирквуд",
+                        "nameEn": "James Kirkwood",
+                        "description": "Sigrid's Beau, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200456.jpg"
+                    },
+                    {
+                        "id": 204434,
+                        "nameRu": "Джек Лоу",
+                        "nameEn": "Jack Low",
+                        "description": "Waiter, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_204434.jpg"
+                    },
+                    {
+                        "id": 363713,
+                        "nameRu": "Боб Монтгомери",
+                        "nameEn": "Bob Montgomery",
+                        "description": "Socker, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363713.jpg"
+                    },
+                    {
+                        "id": 362460,
+                        "nameRu": "Гуди Монтгомери",
+                        "nameEn": "Goodee Montgomery",
+                        "description": "Peters, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362460.jpg"
+                    },
+                    {
+                        "id": 213562,
+                        "nameRu": "Эдмунд Мортимер",
+                        "nameEn": "Edmund Mortimer",
+                        "description": "Stateroom Guest, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213562.jpg"
+                    },
+                    {
+                        "id": 214965,
+                        "nameRu": "Луа Натуа",
+                        "nameEn": "Louis Natheaux",
+                        "description": "Henchman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214965.jpg"
+                    },
+                    {
+                        "id": 220135,
+                        "nameRu": "Розали Рой",
+                        "nameEn": "Rosalie Roy",
+                        "description": "Bride, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220135.jpg"
+                    },
+                    {
+                        "id": 220476,
+                        "nameRu": "Генри Седли",
+                        "nameEn": "Henry Sedley",
+                        "description": "Chalky, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220476.jpg"
+                    },
+                    {
+                        "id": 209288,
+                        "nameRu": "Ларри Стирс",
+                        "nameEn": "Larry Steers",
+                        "description": "Passenger, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209288.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 202708,
+                        "nameRu": "Гай Болтон",
+                        "nameEn": "Guy Bolton",
+                        "description": "и сюжет",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_202708.jpg"
+                    },
+                    {
+                        "id": 213161,
+                        "nameRu": "Линн Старлинг",
+                        "nameEn": "Lynn Starling",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213161.jpg"
+                    }
+                ],
+                "producer": [],
+                "operator": [
+                    {
+                        "id": 118653,
+                        "nameRu": "Джеймс Вонг Хау",
+                        "nameEn": "James Wong Howe",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_118653.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 203014,
+                        "nameRu": "Карли Элинор",
+                        "nameEn": "Carli Elinor",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203014.jpg"
+                    },
+                    {
+                        "id": 365547,
+                        "nameRu": "Р.Х. Бассетт",
+                        "nameEn": "R.H. Bassett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365547.jpg"
+                    },
+                    {
+                        "id": 201380,
+                        "nameRu": "Хьюго Фридхофер",
+                        "nameEn": "Hugo Friedhofer",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201380.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 356332,
+                        "nameRu": "Гордон Уайлз",
+                        "nameEn": "Gordon Wiles",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356332.jpg"
+                    },
+                    {
+                        "id": 360327,
+                        "nameRu": "Долли Три",
+                        "nameEn": "Dolly Tree",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_360327.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 2015474,
+                        "nameRu": "Джек Мюррэй",
+                        "nameEn": "Jack Murray",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2015474.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "1 ч 18 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 356332,
+                                "nameRu": "Гордон Уайлз",
+                                "nameEn": "Gordon Wiles",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/356332.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/15426/",
+                "webUrl": "https://www.kinopoisk.ru/film/15426/",
+                "lastSync": "2024-12-28T07:15:11.978Z"
+            },
+            {
+                "kinopoiskId": 79496,
+                "nameRu": "Наша свобода",
+                "nameOriginal": "À nous la liberté",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/79496.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/79496.jpg",
+                "reviewsCount": 2,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 2,
+                "ratingKinopoisk": 6.8,
+                "ratingKinopoiskVoteCount": 1942,
+                "ratingImdb": 7.4,
+                "ratingImdbVoteCount": 5049,
+                "ratingFilmCritics": 8.3,
+                "ratingFilmCriticsVoteCount": 19,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "Франция"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 199900,
+                        "nameRu": "Рене Клер",
+                        "nameEn": "René Clair",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199900.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 208117,
+                        "nameRu": "Анри Маршан",
+                        "nameEn": "Henri Marchand",
+                        "description": "Émile",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208117.jpg"
+                    },
+                    {
+                        "id": 205484,
+                        "nameRu": "Раймон Корди",
+                        "nameEn": "Raymond Cordy",
+                        "description": "Louis",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205484.jpg"
+                    },
+                    {
+                        "id": 551786,
+                        "nameRu": "Ролла Франс",
+                        "nameEn": "Rolla France",
+                        "description": "Jeanne",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551786.jpg"
+                    },
+                    {
+                        "id": 356486,
+                        "nameRu": "Пол Олливье",
+                        "nameEn": "Paul Ollivier",
+                        "description": "L'oncle (в титрах: Paul Olivier)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356486.jpg"
+                    },
+                    {
+                        "id": 551789,
+                        "nameRu": "Жак Шелли",
+                        "nameEn": "Jacques Shelly",
+                        "description": "Paul",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551789.jpg"
+                    },
+                    {
+                        "id": 551785,
+                        "nameRu": "Андре Мишо",
+                        "nameEn": "André Michaud",
+                        "description": "Le contremaitre",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551785.jpg"
+                    },
+                    {
+                        "id": 521619,
+                        "nameRu": "Жермен Осси",
+                        "nameEn": "Germaine Aussey",
+                        "description": "Maud - la femme de Louis",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_521619.jpg"
+                    },
+                    {
+                        "id": 551787,
+                        "nameRu": "Леон Лоран",
+                        "nameEn": "Léon Lorin",
+                        "description": "Le vieux monsieur sourd",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551787.jpg"
+                    },
+                    {
+                        "id": 551788,
+                        "nameRu": "Уильям Бёрк",
+                        "nameEn": "William Burke",
+                        "description": "L'ancien détenu",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551788.jpg"
+                    },
+                    {
+                        "id": 363163,
+                        "nameRu": "Венсан Испа",
+                        "nameEn": "Vincent Hyspa",
+                        "description": "Le vieil orateur",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363163.jpg"
+                    },
+                    {
+                        "id": 356489,
+                        "nameRu": "Альбер Брокен",
+                        "nameEn": "Albert Broquin",
+                        "description": "Le marchand de primeurs, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_356489.jpg"
+                    },
+                    {
+                        "id": 551791,
+                        "nameRu": "Роберт Шарле",
+                        "nameEn": "Robert Charlet",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551791.jpg"
+                    },
+                    {
+                        "id": 221604,
+                        "nameRu": "Леон Куртуа",
+                        "nameEn": "Léon Courtois",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221604.jpg"
+                    },
+                    {
+                        "id": 187027,
+                        "nameRu": "Александр Д’Арси",
+                        "nameEn": "Alexander D'Arcy",
+                        "description": "Le gigolo, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_187027.jpg"
+                    },
+                    {
+                        "id": 359078,
+                        "nameRu": "Маргерит де Морлэ",
+                        "nameEn": "Marguerite de Morlaye",
+                        "description": "Une invitée au diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_359078.jpg"
+                    },
+                    {
+                        "id": 551790,
+                        "nameRu": "",
+                        "nameEn": "Ritou Lancyle",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_551790.jpg"
+                    },
+                    {
+                        "id": 353334,
+                        "nameRu": "Максимильен",
+                        "nameEn": "Maximilienne",
+                        "description": "Une invitée au diner, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_353334.jpg"
+                    },
+                    {
+                        "id": 208127,
+                        "nameRu": "Эжен Стубер",
+                        "nameEn": "Eugène Stuber",
+                        "description": "Un gangster, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208127.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 199900,
+                        "nameRu": "Рене Клер",
+                        "nameEn": "René Clair",
+                        "description": "история",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199900.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 506658,
+                        "nameRu": "Фрэнк Клиффорд",
+                        "nameEn": "Frank Clifford",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_506658.jpg"
+                    },
+                    {
+                        "id": 346818,
+                        "nameRu": "Александр Каменка",
+                        "nameEn": "Alexandre Kamenka",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_346818.jpg"
+                    },
+                    {
+                        "id": 365847,
+                        "nameRu": "Роджер Ле Бон",
+                        "nameEn": "Roger Le Bon",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365847.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 205002,
+                        "nameRu": "Жорж Периналь",
+                        "nameEn": "Georges Périnal",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_205002.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 430442,
+                        "nameRu": "Жорж Орик",
+                        "nameEn": "Georges Auric",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_430442.jpg"
+                    }
+                ],
+                "design": [
+                    {
+                        "id": 861288,
+                        "nameRu": "Лазарь Меерсон",
+                        "nameEn": "Lazare Meerson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_861288.jpg"
+                    },
+                    {
+                        "id": 366678,
+                        "nameRu": "Рене Хьюберт",
+                        "nameEn": "René Hubert",
+                        "description": "по костюмам",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366678.jpg"
+                    }
+                ],
+                "editor": [
+                    {
+                        "id": 523124,
+                        "nameRu": "Рене Ле Энафф",
+                        "nameEn": "René Le Hénaff",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_523124.jpg"
+                    },
+                    {
+                        "id": 199900,
+                        "nameRu": "Рене Клер",
+                        "nameEn": "René Clair",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199900.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "1 ч 44 мин",
+                "description": "Этот фильм, о последствиях мирового экономического кризиса конца 20-х и рассказывает о двух приятелях, сидящих в тюрьме Луи и Эмил. Они работают на сборочной линии, собирая игрушки. Луи удается сбежать с помощью Эмиля и в конечном итоге он становится владельцем огромной фабрики по производству фонографов. Вся ирония в том, что работа на фабрике организована по принципу его тюремного бытия.",
+                "oscar": [
+                    {
+                        "name": "Лучшая работа художника",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 861288,
+                                "nameRu": "Лазарь Меерсон",
+                                "nameEn": "Lazare Meerson",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/861288.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/79496/",
+                "webUrl": "https://www.kinopoisk.ru/film/79496/",
+                "lastSync": "2024-12-28T07:15:12.131Z"
+            },
+            {
+                "kinopoiskId": 19846,
+                "nameRu": "Цветы и деревья",
+                "nameOriginal": "Flowers and Trees",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/19846.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/19846.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 7.1,
+                "ratingKinopoiskVoteCount": 1096,
+                "ratingImdb": 7.3,
+                "ratingImdbVoteCount": 3950,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "мелодрама"
+                    },
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 217645,
+                        "nameRu": "Берт Джиллетт",
+                        "nameEn": "Burt Gillett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217645.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 5271009,
+                        "nameRu": "",
+                        "nameEn": "Esther Campbell",
+                        "description": "озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5271009.jpg"
+                    },
+                    {
+                        "id": 214882,
+                        "nameRu": "Мэрион Дарлингтон",
+                        "nameEn": "Marion Darlington",
+                        "description": "озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214882.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "продюсер, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 8 мин",
+                "description": "Весенним утром в лесу разыгрывается романтическая история любви дерева-мальчика и дерева-девочки, не обходится без подлого и злого соперника, поющих птичек, танцующих цветочков и всенепременного хеппи-энда.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 180600,
+                                "nameRu": "Уолт Дисней",
+                                "nameEn": "Walt Disney",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/180600.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/19846/",
+                "webUrl": "https://www.kinopoisk.ru/film/19846/",
+                "lastSync": "2024-12-28T07:15:25.768Z"
+            },
+            {
+                "kinopoiskId": 19862,
+                "nameRu": "Микки Маус и сироты",
+                "nameOriginal": "Mickey's Orphans",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/19862.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/19862.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 6.5,
+                "ratingKinopoiskVoteCount": 444,
+                "ratingImdb": 6.3,
+                "ratingImdbVoteCount": 968,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 217645,
+                        "nameRu": "Берт Джиллетт",
+                        "nameEn": "Burt Gillett",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217645.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 207866,
+                        "nameRu": "Джордж Маргилл",
+                        "nameEn": "George Magrill",
+                        "description": "Parrot, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207866.jpg"
+                    },
+                    {
+                        "id": 135754,
+                        "nameRu": "Вэнс Колвиг мл.",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Pluto, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_135754.jpg"
+                    },
+                    {
+                        "id": 215765,
+                        "nameRu": "Барбара Брюстер",
+                        "nameEn": "Barbara Brewster",
+                        "description": "Orphan Kittens, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215765.jpg"
+                    },
+                    {
+                        "id": 215766,
+                        "nameRu": "Глория Брюстер",
+                        "nameEn": "Gloria Brewster",
+                        "description": "Orphan Kittens, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215766.jpg"
+                    },
+                    {
+                        "id": 200190,
+                        "nameRu": "Пинто Колвиг",
+                        "nameEn": "Pinto Colvig",
+                        "description": "Pluto, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_200190.jpg"
+                    },
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "Mickey Mouse, озвучка, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    },
+                    {
+                        "id": 217149,
+                        "nameRu": "Марселлит Гарнер",
+                        "nameEn": "Marcellite Garner",
+                        "description": "Minnie Mouse / Orphan Kittens, в титрах не указан, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217149.jpg"
+                    },
+                    {
+                        "id": 7018051,
+                        "nameRu": "",
+                        "nameEn": "Beatrice Hagen",
+                        "description": "Orphan Kittens, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7018051.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 180600,
+                        "nameRu": "Уолт Дисней",
+                        "nameEn": "Walt Disney",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_180600.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": "0+",
+                "ratingMpaa": null,
+                "filmLength": "0 ч 7 мин",
+                "description": "Семейству Микки и Минни Маус кто-то приносит под дверь корзинку с котятами... Их оказывается так много, что они заполоняют дом и доставляют немало хлопот его жильцам.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 180600,
+                                "nameRu": "Уолт Дисней",
+                                "nameEn": "Walt Disney",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/180600.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/19862/",
+                "webUrl": "https://www.kinopoisk.ru/film/19862/",
+                "lastSync": "2024-12-28T07:15:25.903Z"
+            },
+            {
+                "kinopoiskId": 256944,
+                "nameRu": "Название отсутствует",
+                "nameOriginal": "It's Got Me Again!",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/256944.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/256944.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": 5.5,
+                "ratingKinopoiskVoteCount": 139,
+                "ratingImdb": 5.8,
+                "ratingImdbVoteCount": 682,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "мультфильм"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "мюзикл"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 361678,
+                        "nameRu": "Рудольф Айсинг",
+                        "nameEn": "Rudolf Ising",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361678.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 1060321,
+                        "nameRu": "The Rhythmettes",
+                        "nameEn": "The Rhythmettes",
+                        "description": "Vocalists, в титрах не указана",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1060321.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 370092,
+                        "nameRu": "Хью Харман",
+                        "nameEn": "Hugh Harman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_370092.jpg"
+                    },
+                    {
+                        "id": 361678,
+                        "nameRu": "Рудольф Айсинг",
+                        "nameEn": "Rudolf Ising",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_361678.jpg"
+                    },
+                    {
+                        "id": 214016,
+                        "nameRu": "Леон Шлезингер",
+                        "nameEn": "Leon Schlesinger",
+                        "description": "сопродюсер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214016.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [
+                    {
+                        "id": 608502,
+                        "nameRu": "Фрэнк Марсалес",
+                        "nameEn": "Frank Marsales",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_608502.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 7 мин",
+                "description": "Мышата веселятся в пустом доме, играют с музыкальными инструментами, пока ими не заинтересовывается кот.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный анимационный фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 214016,
+                                "nameRu": "Леон Шлезингер",
+                                "nameEn": "Leon Schlesinger",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/214016.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/256944/",
+                "webUrl": "https://www.kinopoisk.ru/film/256944/",
+                "lastSync": "2024-12-28T07:15:26.069Z"
+            },
+            {
+                "kinopoiskId": 200442,
+                "nameRu": "Музыкальная шкатулка",
+                "nameOriginal": "The Music Box",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/200442.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/200442.jpg",
+                "reviewsCount": 1,
+                "ratingGoodReview": 100,
+                "ratingGoodReviewVoteCount": 1,
+                "ratingKinopoisk": 6.3,
+                "ratingKinopoiskVoteCount": 363,
+                "ratingImdb": 7.9,
+                "ratingImdbVoteCount": 8165,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "семейный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 221237,
+                        "nameRu": "Джеймс Пэррот",
+                        "nameEn": "James Parrott",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221237.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 178206,
+                        "nameRu": "Стэн Лорел",
+                        "nameEn": "Stan Laurel",
+                        "description": "Stan Laurel",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178206.jpg"
+                    },
+                    {
+                        "id": 178207,
+                        "nameRu": "Оливер Харди",
+                        "nameEn": "Oliver Hardy",
+                        "description": "Ollie Hardy",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_178207.jpg"
+                    },
+                    {
+                        "id": 586505,
+                        "nameRu": "Дина",
+                        "nameEn": "Dinah",
+                        "description": "Susie, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_586505.jpg"
+                    },
+                    {
+                        "id": 197775,
+                        "nameRu": "Билли Гилберт",
+                        "nameEn": "Billy Gilbert",
+                        "description": "Professor von Schwarzenhoffen, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197775.jpg"
+                    },
+                    {
+                        "id": 220485,
+                        "nameRu": "Уильям Гиллеспи",
+                        "nameEn": "William Gillespie",
+                        "description": "Piano Salesman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220485.jpg"
+                    },
+                    {
+                        "id": 207351,
+                        "nameRu": "Чарли Холл",
+                        "nameEn": "Charlie Hall",
+                        "description": "Postman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207351.jpg"
+                    },
+                    {
+                        "id": 220936,
+                        "nameRu": "Хэйзел Хауэлл",
+                        "nameEn": "Hazel Howell",
+                        "description": "Mrs. von Schwarzenhoffen, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220936.jpg"
+                    },
+                    {
+                        "id": 212326,
+                        "nameRu": "Лилиан Ирен",
+                        "nameEn": "Lilyan Irene",
+                        "description": "Nursemaid, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212326.jpg"
+                    },
+                    {
+                        "id": 210800,
+                        "nameRu": "Сэм Луфкин",
+                        "nameEn": "Sam Lufkin",
+                        "description": "Policeman, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210800.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 220562,
+                        "nameRu": "Х. Уолкер",
+                        "nameEn": "H.M. Walker",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220562.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 154904,
+                        "nameRu": "Хэл Роач",
+                        "nameEn": "Hal Roach",
+                        "description": "в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_154904.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 365456,
+                        "nameRu": "Лен Пауэрс",
+                        "nameEn": "Len Powers",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365456.jpg"
+                    },
+                    {
+                        "id": 215139,
+                        "nameRu": "Уолтер Лундин",
+                        "nameEn": "Walter Lundin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215139.jpg"
+                    }
+                ],
+                "composer": [
+                    {
+                        "id": 364510,
+                        "nameRu": "Гарри Грэхэм",
+                        "nameEn": "Harry Graham",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_364510.jpg"
+                    },
+                    {
+                        "id": 219492,
+                        "nameRu": "Марвин Хэтли",
+                        "nameEn": "Marvin Hatley",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219492.jpg"
+                    }
+                ],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 1854659,
+                        "nameRu": "Ричард С. Куррье",
+                        "nameEn": "Richard C. Currier",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1854659.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 29 мин",
+                "description": "Как легендарный Сизиф, грузчики Лорел и Харди пытаются пронести большое пианино по, казалось бы, непреодолимому лестничному пролёту.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 154904,
+                                "nameRu": "Хэл Роач",
+                                "nameEn": "Hal Roach",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/154904.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/200442/",
+                "webUrl": "https://www.kinopoisk.ru/film/200442/",
+                "lastSync": "2024-12-28T07:15:26.210Z"
+            },
+            {
+                "kinopoiskId": 204033,
+                "nameRu": "Крикливый рот",
+                "nameOriginal": "The Loud Mouth",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/204033.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/204033.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 4,
+                "ratingImdb": 6.3,
+                "ratingImdbVoteCount": 27,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 214154,
+                        "nameRu": "Дель Лорд",
+                        "nameEn": "Del Lord",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214154.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 208438,
+                        "nameRu": "Мэтт МакХью",
+                        "nameEn": "Matt McHugh",
+                        "description": "Loud Mouth",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208438.jpg"
+                    },
+                    {
+                        "id": 212729,
+                        "nameRu": "Марджори Кэйн",
+                        "nameEn": "Marjorie Kane",
+                        "description": "Edith Morgan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212729.jpg"
+                    },
+                    {
+                        "id": 209953,
+                        "nameRu": "Франклин Пэнгборн",
+                        "nameEn": "Franklin Pangborn",
+                        "description": "Freddie Quimby",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_209953.jpg"
+                    },
+                    {
+                        "id": 208492,
+                        "nameRu": "Рэй Кук",
+                        "nameEn": "Ray Cooke",
+                        "description": "Swat Butler of Blue Sox",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208492.jpg"
+                    },
+                    {
+                        "id": 214524,
+                        "nameRu": "Джулия Гриффит",
+                        "nameEn": "Julia Griffith",
+                        "description": "Front Row World Series Fan",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214524.jpg"
+                    },
+                    {
+                        "id": 207215,
+                        "nameRu": "Фред Келси",
+                        "nameEn": "Fred Kelsey",
+                        "description": "Max, Manager of Blue Sox",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207215.jpg"
+                    },
+                    {
+                        "id": 1680945,
+                        "nameRu": "",
+                        "nameEn": "The Los Angeles Angels",
+                        "description": "Baseball Team Members",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1680945.jpg"
+                    },
+                    {
+                        "id": 365113,
+                        "nameRu": "Дэннис Бефорт",
+                        "nameEn": "Dennis Beaufort",
+                        "description": "Freddie Quimby (replaced by Franklin Pangborn) (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365113.jpg"
+                    },
+                    {
+                        "id": 217120,
+                        "nameRu": "Джо Бордо",
+                        "nameEn": "Joe Bordeaux",
+                        "description": "2nd Bodyguard (replaced by Blackie Whiteford) (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217120.jpg"
+                    },
+                    {
+                        "id": 208864,
+                        "nameRu": "Ларри МакГрат",
+                        "nameEn": "Larry McGrath",
+                        "description": "Referee (replaced by Eddie Baker) (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208864.jpg"
+                    },
+                    {
+                        "id": 365930,
+                        "nameRu": "",
+                        "nameEn": "Ted Stroback",
+                        "description": "Doctor (replaced by George Gray) (scenes deleted)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365930.jpg"
+                    },
+                    {
+                        "id": 213411,
+                        "nameRu": "Эрни Александр",
+                        "nameEn": "Ernie Alexander",
+                        "description": "Ballpark Vendor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213411.jpg"
+                    },
+                    {
+                        "id": 194556,
+                        "nameRu": "Эдди Бэйкер",
+                        "nameEn": "Eddie Baker",
+                        "description": "Fight Referee, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194556.jpg"
+                    },
+                    {
+                        "id": 216175,
+                        "nameRu": "Гарри Бернард",
+                        "nameEn": "Harry Bernard",
+                        "description": "World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216175.jpg"
+                    },
+                    {
+                        "id": 218109,
+                        "nameRu": "Гарри Бауэн",
+                        "nameEn": "Harry Bowen",
+                        "description": "World Series Radio Announcer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218109.jpg"
+                    },
+                    {
+                        "id": 220766,
+                        "nameRu": "Том Демпси",
+                        "nameEn": "Tom Dempsey",
+                        "description": "Boxing Fan with Cigar, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220766.jpg"
+                    },
+                    {
+                        "id": 220768,
+                        "nameRu": "Джеймс Доннелли",
+                        "nameEn": "James Donnelly",
+                        "description": "World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220768.jpg"
+                    },
+                    {
+                        "id": 366024,
+                        "nameRu": "Джордж Грэй",
+                        "nameEn": "George Gray",
+                        "description": "Doctor, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_366024.jpg"
+                    },
+                    {
+                        "id": 207351,
+                        "nameRu": "Чарли Холл",
+                        "nameEn": "Charlie Hall",
+                        "description": "Front Row World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207351.jpg"
+                    },
+                    {
+                        "id": 213367,
+                        "nameRu": "Фэй Холдернесс",
+                        "nameEn": "Fay Holderness",
+                        "description": "Indignant World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213367.jpg"
+                    },
+                    {
+                        "id": 212889,
+                        "nameRu": "Бад Джеймисон",
+                        "nameEn": "Bud Jamison",
+                        "description": "Ring Announcer, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212889.jpg"
+                    },
+                    {
+                        "id": 214694,
+                        "nameRu": "Бланш Пейсон",
+                        "nameEn": "Blanche Payson",
+                        "description": "Mrs. Shapiro, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_214694.jpg"
+                    },
+                    {
+                        "id": 217378,
+                        "nameRu": "Джордж С. Пирс",
+                        "nameEn": "George C. Pearce",
+                        "description": "Mr. Morgan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217378.jpg"
+                    },
+                    {
+                        "id": 220716,
+                        "nameRu": "Пит Раш",
+                        "nameEn": "Pete Rasch",
+                        "description": "Spike's 1st Bodyguard, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220716.jpg"
+                    },
+                    {
+                        "id": 216027,
+                        "nameRu": "Тайни Сэндфорд",
+                        "nameEn": "Tiny Sandford",
+                        "description": "Big World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_216027.jpg"
+                    },
+                    {
+                        "id": 221470,
+                        "nameRu": "Хью Саксон",
+                        "nameEn": "Hugh Saxon",
+                        "description": "World Series Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221470.jpg"
+                    },
+                    {
+                        "id": 220717,
+                        "nameRu": "",
+                        "nameEn": "William Searby",
+                        "description": "Boxing Fan, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220717.jpg"
+                    },
+                    {
+                        "id": 358469,
+                        "nameRu": "Дэвид Силверштейн",
+                        "nameEn": "David Silverstein",
+                        "description": "Shapiro, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_358469.jpg"
+                    },
+                    {
+                        "id": 365720,
+                        "nameRu": "Дик Стюарт",
+                        "nameEn": "Dick Stewart",
+                        "description": "Spike Rizzolotti, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_365720.jpg"
+                    },
+                    {
+                        "id": 211931,
+                        "nameRu": "",
+                        "nameEn": "Fred «Snowflake» Toones",
+                        "description": "Black Boy's Father, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211931.jpg"
+                    },
+                    {
+                        "id": 197211,
+                        "nameRu": "Блэкки Уайтфорд",
+                        "nameEn": "Blackie Whiteford",
+                        "description": "Spike's 2nd Bodyguard, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197211.jpg"
+                    },
+                    {
+                        "id": 217531,
+                        "nameRu": "Тоби Уинг",
+                        "nameEn": "Toby Wing",
+                        "description": "Nurse, в титрах не указан",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217531.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 197844,
+                        "nameRu": "Мак Сеннет",
+                        "nameEn": "Mack Sennett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197844.jpg"
+                    }
+                ],
+                "operator": [
+                    {
+                        "id": 469502,
+                        "nameRu": "",
+                        "nameEn": "George Unholz",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_469502.jpg"
+                    }
+                ],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 20 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 197844,
+                                "nameRu": "Мак Сеннет",
+                                "nameEn": "Mack Sennett",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/197844.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/204033/",
+                "webUrl": "https://www.kinopoisk.ru/film/204033/",
+                "lastSync": "2024-12-28T07:15:26.373Z"
+            },
+            {
+                "kinopoiskId": 173276,
+                "nameRu": "Отважные сердца и золотые руки",
+                "nameOriginal": "Stout Hearts and Willing Hands",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/173276.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/173276.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 4,
+                "ratingImdb": 6.7,
+                "ratingImdbVoteCount": 35,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 196766,
+                        "nameRu": "Брайан Фой",
+                        "nameEn": "Bryan Foy",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_196766.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 208411,
+                        "nameRu": "Фрэнк Фэй",
+                        "nameEn": "Frank Fay",
+                        "description": "The Hero",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_208411.jpg"
+                    },
+                    {
+                        "id": 195004,
+                        "nameRu": "Лью Коуди",
+                        "nameEn": "Lew Cody",
+                        "description": "The Villain",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195004.jpg"
+                    },
+                    {
+                        "id": 221900,
+                        "nameRu": "Лаура Ла Планте",
+                        "nameEn": "Laura La Plante",
+                        "description": "The Heroine",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221900.jpg"
+                    },
+                    {
+                        "id": 220257,
+                        "nameRu": "Алек Б. Френсис",
+                        "nameEn": "Alec B. Francis",
+                        "description": "Heroine's Father",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220257.jpg"
+                    },
+                    {
+                        "id": 203834,
+                        "nameRu": "Мэри Карр",
+                        "nameEn": "Mary Carr",
+                        "description": "Heroine's Mother",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203834.jpg"
+                    },
+                    {
+                        "id": 78815,
+                        "nameRu": "Оуэн Мур",
+                        "nameEn": "Owen Moore",
+                        "description": "Lookalike Bartender 1",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_78815.jpg"
+                    },
+                    {
+                        "id": 211669,
+                        "nameRu": "Том Мур",
+                        "nameEn": "Tom Moore",
+                        "description": "Lookalike Bartender 2",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211669.jpg"
+                    },
+                    {
+                        "id": 201432,
+                        "nameRu": "Мэтт Мур",
+                        "nameEn": "Matt Moore",
+                        "description": "Lookalike Bartender 3",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201432.jpg"
+                    },
+                    {
+                        "id": 215710,
+                        "nameRu": "Джордж Харрис",
+                        "nameEn": "George Harris",
+                        "description": "(в титрах: Georgie Harris)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_215710.jpg"
+                    },
+                    {
+                        "id": 179831,
+                        "nameRu": "Эдди Куиллан",
+                        "nameEn": "Eddie Quillan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_179831.jpg"
+                    },
+                    {
+                        "id": 219564,
+                        "nameRu": "Мэттью Бетц",
+                        "nameEn": "Matthew Betz",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_219564.jpg"
+                    },
+                    {
+                        "id": 218304,
+                        "nameRu": "Морис Блэк",
+                        "nameEn": "Maurice Black",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_218304.jpg"
+                    },
+                    {
+                        "id": 175684,
+                        "nameRu": "Бенни Рубин",
+                        "nameEn": "Benny Rubin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_175684.jpg"
+                    },
+                    {
+                        "id": 213925,
+                        "nameRu": "Брайант Уошберн",
+                        "nameEn": "Bryant Washburn",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_213925.jpg"
+                    },
+                    {
+                        "id": 221906,
+                        "nameRu": "Форд Стерлинг",
+                        "nameEn": "Ford Sterling",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221906.jpg"
+                    },
+                    {
+                        "id": 115718,
+                        "nameRu": "Мак Суэйн",
+                        "nameEn": "Mack Swain",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_115718.jpg"
+                    },
+                    {
+                        "id": 193248,
+                        "nameRu": "Честер Конклин",
+                        "nameEn": "Chester Conklin",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_193248.jpg"
+                    },
+                    {
+                        "id": 207245,
+                        "nameRu": "Клайд Кук",
+                        "nameEn": "Clyde Cook",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207245.jpg"
+                    },
+                    {
+                        "id": 195000,
+                        "nameRu": "Джеймс Финлейсон",
+                        "nameEn": "James Finlayson",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195000.jpg"
+                    },
+                    {
+                        "id": 201706,
+                        "nameRu": "Хэнк Манн",
+                        "nameEn": "Hank Mann",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_201706.jpg"
+                    },
+                    {
+                        "id": 1065129,
+                        "nameRu": "Боб Вернон",
+                        "nameEn": "Bobby Vernon",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1065129.jpg"
+                    },
+                    {
+                        "id": 222979,
+                        "nameRu": "Бобби Вернон",
+                        "nameEn": "Bobby Vernon",
+                        "description": "Kop (в титрах: the Original Keystone Kops)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_222979.jpg"
+                    },
+                    {
+                        "id": 203918,
+                        "nameRu": "Эдвард Эрл",
+                        "nameEn": "Edward Earle",
+                        "description": "The Masque",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_203918.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 220764,
+                        "nameRu": "Альберт Остин",
+                        "nameEn": "Albert Austin",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220764.jpg"
+                    },
+                    {
+                        "id": 362754,
+                        "nameRu": "Уолтер Вимс",
+                        "nameEn": "Walter Weems",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_362754.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 199879,
+                        "nameRu": "Гарри Джо Браун",
+                        "nameEn": "Harry Joe Brown",
+                        "description": "продюсер-супервайзер",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_199879.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 891305,
+                        "nameRu": "Чарльз Крафт",
+                        "nameEn": "Charles Craft",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_891305.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 20 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/173276/",
+                "webUrl": "https://www.kinopoisk.ru/film/173276/",
+                "lastSync": "2024-12-28T07:15:26.511Z"
+            },
+            {
+                "kinopoiskId": 82408,
+                "nameRu": "Название отсутствует",
+                "nameOriginal": "Scratch-As-Catch-Can",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/82408.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/82408.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 8,
+                "ratingImdb": null,
+                "ratingImdbVoteCount": null,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "комедия"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 212218,
+                        "nameRu": "Марк Сэндрич",
+                        "nameEn": "Mark Sandrich",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212218.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 217395,
+                        "nameRu": "Бобби Кларк",
+                        "nameEn": "Bobby Clark",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217395.jpg"
+                    },
+                    {
+                        "id": 368739,
+                        "nameRu": "Пол МакКалло",
+                        "nameEn": "Paul McCullough",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_368739.jpg"
+                    },
+                    {
+                        "id": 195000,
+                        "nameRu": "Джеймс Финлейсон",
+                        "nameEn": "James Finlayson",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195000.jpg"
+                    },
+                    {
+                        "id": 207564,
+                        "nameRu": "Фил Данэм",
+                        "nameEn": "Phil Dunham",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207564.jpg"
+                    },
+                    {
+                        "id": 363033,
+                        "nameRu": "Шарлотта Огден",
+                        "nameEn": "Charlotte Ogden",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_363033.jpg"
+                    },
+                    {
+                        "id": 189293,
+                        "nameRu": "Уолтер Бреннан",
+                        "nameEn": "Walter Brennan",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_189293.jpg"
+                    },
+                    {
+                        "id": 217639,
+                        "nameRu": "Роберт Грейвз",
+                        "nameEn": "Robert Graves",
+                        "description": "(в титрах: Robert Graves Jr.)",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217639.jpg"
+                    },
+                    {
+                        "id": 211814,
+                        "nameRu": "Константин Романофф",
+                        "nameEn": "Constantine Romanoff",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_211814.jpg"
+                    },
+                    {
+                        "id": 207351,
+                        "nameRu": "Чарли Холл",
+                        "nameEn": "Charlie Hall",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_207351.jpg"
+                    },
+                    {
+                        "id": 194562,
+                        "nameRu": "Винс Барнетт",
+                        "nameEn": "Vince Barnett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_194562.jpg"
+                    }
+                ],
+                "writer": [
+                    {
+                        "id": 217395,
+                        "nameRu": "Бобби Кларк",
+                        "nameEn": "Bobby Clark",
+                        "description": "рассказ",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_217395.jpg"
+                    },
+                    {
+                        "id": 367664,
+                        "nameRu": "Уильям Грю",
+                        "nameEn": "William Grew",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_367664.jpg"
+                    },
+                    {
+                        "id": 221408,
+                        "nameRu": "Джон Грэй",
+                        "nameEn": "John Grey",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_221408.jpg"
+                    },
+                    {
+                        "id": 212218,
+                        "nameRu": "Марк Сэндрич",
+                        "nameEn": "Mark Sandrich",
+                        "description": "адаптация",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_212218.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 220446,
+                        "nameRu": "Лу Брок",
+                        "nameEn": "Lou Brock",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_220446.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [
+                    {
+                        "id": 2004062,
+                        "nameRu": "Тед Чизмен",
+                        "nameEn": "Ted Cheesman",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2004062.jpg"
+                    }
+                ],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 19 мин",
+                "description": "Описание отсутствует",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный комедийный фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/82408/",
+                "webUrl": "https://www.kinopoisk.ru/film/82408/",
+                "lastSync": "2024-12-28T07:15:40.101Z"
+            },
+            {
+                "kinopoiskId": 204035,
+                "nameRu": "Схватка с рыбой-меч",
+                "nameOriginal": "Wrestling Swordfish",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/204035.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/204035.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 11,
+                "ratingImdb": 4.9,
+                "ratingImdbVoteCount": 33,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1931,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "приключения"
+                    },
+                    {
+                        "genre": "спорт"
+                    },
+                    {
+                        "genre": "документальный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [],
+                "actor": [],
+                "writer": [
+                    {
+                        "id": 206401,
+                        "nameRu": "Джин Таун",
+                        "nameEn": "Gene Towne",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_206401.jpg"
+                    }
+                ],
+                "producer": [
+                    {
+                        "id": 197844,
+                        "nameRu": "Мак Сеннет",
+                        "nameEn": "Mack Sennett",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_197844.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 8 мин",
+                "description": "Рыбак в небольшой лодке пытается поймать 300-фунтовую меч-рыбу, которая без боя не сдается.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный драматический фильм",
+                        "win": true,
+                        "year": 1932,
+                        "persons": [
+                            {
+                                "kinopoiskId": 197844,
+                                "nameRu": "Мак Сеннет",
+                                "nameEn": "Mack Sennett",
+                                "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/197844.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/204035/",
+                "webUrl": "https://www.kinopoisk.ru/film/204035/",
+                "lastSync": "2024-12-28T07:15:40.259Z"
+            },
+            {
+                "kinopoiskId": 250095,
+                "nameRu": "Взлет",
+                "nameOriginal": "Swing High",
+                "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/250095.jpg",
+                "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/250095.jpg",
+                "reviewsCount": null,
+                "ratingGoodReview": null,
+                "ratingGoodReviewVoteCount": null,
+                "ratingKinopoisk": null,
+                "ratingKinopoiskVoteCount": 23,
+                "ratingImdb": 6.6,
+                "ratingImdbVoteCount": 199,
+                "ratingFilmCritics": null,
+                "ratingFilmCriticsVoteCount": null,
+                "ratingAwait": null,
+                "ratingAwaitCount": null,
+                "ratingRfCritics": null,
+                "ratingRfCriticsVoteCount": null,
+                "year": 1932,
+                "nominatedYear": 1932,
+                "countries": [
+                    {
+                        "country": "США"
+                    }
+                ],
+                "genres": [
+                    {
+                        "genre": "спорт"
+                    },
+                    {
+                        "genre": "документальный"
+                    },
+                    {
+                        "genre": "короткометражка"
+                    }
+                ],
+                "director": [
+                    {
+                        "id": 195525,
+                        "nameRu": "Джек Каммингс",
+                        "nameEn": "Jack Cummings",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_195525.jpg"
+                    }
+                ],
+                "actor": [
+                    {
+                        "id": 1071691,
+                        "nameRu": "",
+                        "nameEn": "The Flying Codonas",
+                        "description": "играют самих себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1071691.jpg"
+                    },
+                    {
+                        "id": 210058,
+                        "nameRu": "Пит Смит",
+                        "nameEn": "Pete Smith",
+                        "description": "рассказчик, озвучка",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210058.jpg"
+                    },
+                    {
+                        "id": 1071692,
+                        "nameRu": "",
+                        "nameEn": "Edward Codona",
+                        "description": "играет самого себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1071692.jpg"
+                    },
+                    {
+                        "id": 1071693,
+                        "nameRu": "",
+                        "nameEn": "Lalo Codona",
+                        "description": "играет самого себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1071693.jpg"
+                    },
+                    {
+                        "id": 1015436,
+                        "nameRu": "",
+                        "nameEn": "Alfredo Codona",
+                        "description": "играет самого себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1015436.jpg"
+                    },
+                    {
+                        "id": 1071694,
+                        "nameRu": "",
+                        "nameEn": "Vera Codona",
+                        "description": "играет саму себя",
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1071694.jpg"
+                    }
+                ],
+                "writer": [],
+                "producer": [
+                    {
+                        "id": 210058,
+                        "nameRu": "Пит Смит",
+                        "nameEn": "Pete Smith",
+                        "description": null,
+                        "posterUrl": "https://st.kp.yandex.net/images/actor_iphone/iphone360_210058.jpg"
+                    }
+                ],
+                "operator": [],
+                "composer": [],
+                "design": [],
+                "editor": [],
+                "worldPremiere": "",
+                "ageLimitLine": null,
+                "ratingMpaa": null,
+                "filmLength": "0 ч 10 мин",
+                "description": "Знаменитая группа воздушных гимнастов «Flying Codona»s' осуществляет невероятные трюки высоко в небе.",
+                "oscar": [
+                    {
+                        "name": "Лучший короткометражный драматический фильм",
+                        "win": false,
+                        "year": 1932,
+                        "persons": []
+                    }
+                ],
+                "video": "https://www.kinopoisk.ru/film/250095/",
+                "webUrl": "https://www.kinopoisk.ru/film/250095/",
+                "lastSync": "2024-12-28T07:15:40.598Z"
+            },            
+        ]
+    }, // 1932 - 26(27)
+]
+
+let nominationYear = data[1].films;
+
+// Функция, принимающая массив фильмов и год
+function printNameRu(films, yearToCheck) {
+    const nameFilmArray = [];
+    const duplicates = new Map();
+    const emptyOscarFilms = [];
+    const nonMatchingYearFilms = [];
+
+    // Собираем все значения nameRu и проверяем на дубликаты
+    films.forEach(film => {
+        const name = film.nameOriginal;
+        nameFilmArray.push(name);
+
+        // Проверяем, есть ли дубликаты
+        const count = nameFilmArray.filter(n => n === name).length;
+        if (count > 1) {
+            duplicates.set(name, count); // Добавляем дубликаты с количеством
+        }
+
+        // Проверяем, пуст ли массив oscar
+        if (!film.oscar || film.oscar.length === 0) {
+            emptyOscarFilms.push(name);
+        } else {
+            // Проверяем, соответствует ли хотя бы один год в oscar указанному году
+            const matchesYear = film.oscar.some(oscar => oscar.year === yearToCheck);
+            if (!matchesYear) {
+                nonMatchingYearFilms.push(name);
+            }
+        }
+    });
+
+    // Выводим дубликаты и их количество
+    if (duplicates.size > 0) {
+        console.log("\nДублирующиеся названия:");
+        duplicates.forEach((count, name) => {
+            console.log(`${name} - встречается ${count} раз`);
+        });
+    } else {
+        console.log("\nДублирующихся названий нет.");
+    }
+
+    // Выводим количество фильмов
+    console.log("Общее количество фильмов:", films.length);
+
+    // Выводим фильмы с пустым массивом oscar
+    if (emptyOscarFilms.length > 0) {
+        console.log("\nФильмы с пустым массивом oscar:");
+        emptyOscarFilms.forEach(name => console.log(name));
+    } else {
+        console.log("\nВсе фильмы имеют значение в массиве oscar.");
+    }
+
+    // Выводим фильмы, которые не соответствуют указанному году
+    if (nonMatchingYearFilms.length > 0) {
+        console.log(`\nФильмы, не соответствующие году ${yearToCheck}:`);
+        nonMatchingYearFilms.forEach(name => console.log(name));
+    } else {
+        console.log(`\nВсе фильмы соответствуют году ${yearToCheck}.`);
+    }
+}
+
+// Пример вызова функции
+// printNameRu(nominationYear, 1932);
+
+export default data;

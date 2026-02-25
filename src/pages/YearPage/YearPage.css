@@ -1,0 +1,84 @@
+/* Победитель — золотистая рамка */
+.card-wrapper.winner {
+  outline: 3px solid #B29930;
+  outline-offset: 4px;
+  border-radius: 12px;
+  position: relative;
+}
+
+/* Общий контейнер для карточек в режиме person */
+.movies-grid.person-mode {
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 28px;
+}
+
+/* Карточка человека */
+.person-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #1e1e1e;
+  border-radius: 12px;
+  padding: 16px 12px;
+  transition: transform 0.15s ease;
+}
+
+.person-card:hover {
+  transform: translateY(-6px);
+}
+
+.person-photo {
+  width: 140px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 14px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.5);
+}
+
+.person-info {
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.person-name {
+  color: #e0e0ff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.person-name:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.separator {
+  color: #777;
+  margin: 0 8px;
+  font-weight: normal;
+}
+
+.film-title {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.film-title:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* Бейджик победителя */
+.winner-badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: #B29930;
+  color: #000;
+  font-size: 0.78rem;
+  font-weight: bold;
+  padding: 4px 10px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(178, 153, 48, 0.5);
+}

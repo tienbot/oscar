@@ -1,0 +1,55 @@
+.movie-card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    outline: solid 6px transparent;
+}
+
+.movie-card img{
+    position: relative;
+    width: 100%;
+    display: block;
+    aspect-ratio: 1 / 1.5;
+    object-fit: cover;
+    background-color: #1118;
+    border-radius: 4px;
+    transition: 0.3s ease-out;
+}
+
+.movie-card a{
+    outline: none;
+}
+
+.movie-card:hover img {
+    border-radius: 4px;
+    outline: solid 6px #ffffff22;
+}
+
+
+.movie-card .title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #faf8ed;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin: 0;
+    text-align: left;
+}
+.movie-card .meta{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 4px;
+    font-size: 14px;
+    color: #fff8;
+    white-space: nowrap;
+    flex-wrap: wrap;
+}
+
+.movie-card.winner:hover img {
+  outline: 6px solid #B29930;
+}
