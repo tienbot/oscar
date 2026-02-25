@@ -9,3 +9,10 @@ body{
   width: 100%;
   margin-top: 80px;
 }
+
+h2{
+  position: sticky;
+  top: 90px;
+  background-color: #242424;
+  z-index: 10;;
+}

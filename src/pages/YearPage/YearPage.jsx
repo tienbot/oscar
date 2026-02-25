@@ -1,9 +1,10 @@
 // src/pages/YearPage.jsx
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getOscarsByRange } from '../../data/oscars-loader.js';
-import MovieCard from '../../components/MovieCard/MovieCard';
-import PersonCard from '../../components/PersonCard/PersonCard';
+import { getOscarsByRange } from '@/data/oscars-loader.js';
+import MovieCard from '@/components/MovieCard/MovieCard';
+import PersonCard from '@/components/PersonCard/PersonCard';
+import loadingSvg from '@/assets/loading.svg';
 
 function YearPage() {
   const { year } = useParams();
@@ -47,6 +48,14 @@ function YearPage() {
     "Лучшая женская роль второго плана",
     "Лучший режиссер",
   ]);
+
+  // Меняем заголовок вкладки браузера
+  useEffect(() => {
+    document.title = `Номинации ${yearNum} года`;
+    return () => {
+      document.title = 'Oscar Films';
+    };
+  }, [yearNum]);
 
   useEffect(() => {
     if (!yearNum || isNaN(yearNum)) {
@@ -126,8 +135,8 @@ function YearPage() {
   if (isLoading) {
     return (
       <div className="loading">
-        <img src="/assets/loading.svg" alt="Загрузка..." />
-        <p>Загрузка номинантов {year} года...</p>
+        <img src={loadingSvg} alt="Загрузка..." />
+        <p>Загрузка номинантов {year} года</p>
       </div>
     );
   }
@@ -158,7 +167,6 @@ function YearPage() {
         <section key={section.nominationName} className="nomination-section">
           <h2 className="nomination-title">
             {section.nominationName}
-            <span className="film-count"> ({section.films.length})</span>
           </h2>
 
           <div className={`movies-grid ${section.isPersonCategory ? 'person-mode' : ''}`}>

@@ -16,10 +16,10 @@ function App() {
       <Header />
       <main>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/year/:year" element={<YearPage />} />
-          <Route path="/nominations/:slug" element={<Nominations />} />
-          <Route path="/countries/:country" element={<CountryPage />} />
+          <Route path="/oscar" element={<Home />} />
+          <Route path="/oscar/year/:year" element={<YearPage />} />
+          <Route path="/oscar/nominations/:slug" element={<Nominations />} />
+          <Route path="/oscar/countries/:country" element={<CountryPage />} />
         </Routes>
       </main>
       {/* <Footer /> */}

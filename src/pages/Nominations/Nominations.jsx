@@ -1,9 +1,10 @@
 // src/pages/Nominations.jsx
 import { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
-import { getOscarsByRange } from '../../data/oscars-loader.js';
-import MovieCard from '../../components/MovieCard/MovieCard';
-import PersonCard from '../../components/PersonCard/PersonCard'; // ← должен существовать
+import { getOscarsByRange } from '@/data/oscars-loader.js';
+import MovieCard from '@/components/MovieCard/MovieCard';
+import PersonCard from '@/components/PersonCard/PersonCard';
+import loadingSvg from '@/assets/loading.svg';
 
 const slugToRussianTitle = {
   "best-picture":                 "Лучший фильм",
@@ -53,6 +54,14 @@ function Nominations() {
   const [error, setError] = useState(null);
   const [oldestLoadedYear, setOldestLoadedYear] = useState(3000);
   const loaderRef = useRef(null);
+
+    // Меняем заголовок вкладки браузера
+  useEffect(() => {
+    document.title = `${russianTitle}`;
+    return () => {
+      document.title = 'Oscar Films';
+    };
+  }, [russianTitle]);
 
   useEffect(() => {
     if (!russianTitle) {
@@ -159,7 +168,9 @@ function Nominations() {
   const hasMore = oldestLoadedYear > MIN_YEAR;
 
   if (loading && yearsData.length === 0) {
-    return <div style={{ padding: '120px 20px', textAlign: 'center' }}>Загрузка...</div>;
+    return <div style={{ padding: '120px 20px', textAlign: 'center' }}>
+        <img src={loadingSvg} alt="Загрузка..." />
+      </div>;
   }
 
   if (error) {
@@ -183,8 +194,7 @@ function Nominations() {
             marginBottom: '16px',
             borderBottom: '1px solid #444',
             paddingBottom: '8px',
-          }}>
-            {year} <span style={{ color: '#888', fontSize: '0.9em' }}>({films.length})</span>
+          }}>{year}
           </h2>
 
           <div className={`movies-grid ${isPersonCategory ? 'person-mode' : ''}`} style={{
@@ -220,7 +230,7 @@ function Nominations() {
           ref={loaderRef}
           style={{ textAlign: 'center', padding: '40px 0', color: '#777' }}
         >
-          {loadingMore ? 'Загружаем более ранние годы...' : 'Прокрутите вниз для загрузки старых церемоний'}
+          {loadingMore ? <img src={loadingSvg} alt="Загрузка..." /> : '' }
         </div>
       )}
     </div>

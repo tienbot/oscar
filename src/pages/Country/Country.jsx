@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import { getOscarsByRange } from '../../data/oscars-loader.js';
 import MovieCard from '../../components/MovieCard/MovieCard';
 import PersonCard from '../../components/PersonCard/PersonCard';
+import loadingSvg from '@/assets/loading.svg';
 
 const INITIAL_YEARS_BACK = 5;
 const CHUNK_SIZE_YEARS = 6;
@@ -40,6 +41,15 @@ function CountryPage() {
   const [error, setError] = useState(null);
   const [oldestLoadedYear, setOldestLoadedYear] = useState(3000);
   const loaderRef = useRef(null);
+
+  // Меняем заголовок вкладки браузера
+  useEffect(() => {
+    document.title = `${decodedCountry} на Оскаре`;
+    
+    return () => {
+      document.title = 'Oscar Films';
+    };
+  }, [decodedCountry]);
 
   useEffect(() => {
     let cancelled = false;
@@ -149,14 +159,16 @@ function CountryPage() {
   const hasMore = oldestLoadedYear > MIN_YEAR;
 
   if (loading && yearsData.length === 0) {
-    return <div style={{ padding: '120px 20px', textAlign: 'center' }}>Загрузка фильмов из {decodedCountry}...</div>;
+    return <div style={{ padding: '120px 20px', textAlign: 'center' }}>
+      <img src={loadingSvg} alt="Загрузка..." />
+    </div>;
   }
 
   if (error) return <div style={{ padding: '100px', textAlign: 'center', color: '#e74c3c' }}>{error}</div>;
 
   return (
     <div style={{ padding: '20px' }}>
-      <h1>Фильмы из {decodedCountry} на Оскаре</h1>
+      <h1>{decodedCountry} на Оскаре</h1>
 
       {yearsData.length === 0 && !loading && (
         <p style={{ textAlign: 'center', color: '#888', fontSize: '1.2rem' }}>
@@ -173,7 +185,7 @@ function CountryPage() {
           {nominations.map(section => (
             <div key={section.nominationName} style={{ marginBottom: '50px' }}>
               <h3 style={{ fontSize: '1.55rem', margin: '25px 0 15px', color: '#ddd' }}>
-                {section.nominationName} <span style={{ color: '#888' }}>({section.films.length})</span>
+                {section.nominationName}
               </h3>
 
               <div className={`movies-grid ${personNominations.has(section.nominationName) ? 'person-mode' : ''}`} style={{
@@ -198,7 +210,7 @@ function CountryPage() {
 
       {hasMore && (
         <div ref={loaderRef} style={{ textAlign: 'center', padding: '50px 0', color: '#777' }}>
-          {loadingMore ? 'Загружаем более ранние годы...' : ''}
+          {loadingMore ? <img src={loadingSvg} alt="Загрузка..." /> : ''}
         </div>
       )}
     </div>

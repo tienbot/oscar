@@ -74,23 +74,23 @@ function Header() {
   };
 
   const handleYearClick = (year) => {
-    navigate(`/year/${year}`);
+    navigate(`/oscar/year/${year}`);
     setOpenMenu(null);
   };
 
   const handleNominationClick = (slug) => {
-    navigate(`/nominations/${slug}`);
+    navigate(`/oscar/nominations/${slug}`);
     setOpenMenu(null);
   };
 
   const handleCountryClick = (countryName) => {
-    navigate(`/countries/${encodeURIComponent(countryName)}`);
+    navigate(`/oscar/countries/${encodeURIComponent(countryName)}`);
     setOpenMenu(null);
   };
 
   return (
     <header className="header">
-      <Link to="/" style={{ color: 'white', textDecoration: 'none' }}>
+      <Link to="/oscar" style={{ color: 'white', textDecoration: 'none' }}>
       <div className="logo"> 
           <img src={logo} alt="Oscar Films Logo" />Oscar Films
         </div>
