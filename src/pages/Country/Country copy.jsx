@@ -1,10 +1,8 @@
-// src/pages/Country/Country.jsx
 import { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
-import { getOscarsByRange } from '@/data/oscars-loader.js';
-import { countriesList } from '@/data/countries.js'; 
-import MovieCard from '@/components/MovieCard/MovieCard';
-import PersonCard from '@/components/PersonCard/PersonCard';
+import { getOscarsByRange } from '../../data/oscars-loader.js';
+import MovieCard from '../../components/MovieCard/MovieCard';
+import PersonCard from '../../components/PersonCard/PersonCard';
 import loadingSvg from '@/assets/loading.svg';
 
 const INITIAL_YEARS_BACK = 5;
@@ -34,28 +32,25 @@ const desiredOrder = [
 ];
 
 function CountryPage() {
-  const { country: countrySlug } = useParams();
+  const { country } = useParams();
+  const decodedCountry = decodeURIComponent(country);
 
-  // Находим русское название по slug
-  const currentCountry = countriesList.find(c => c.slug === countrySlug);
-  const countryName = currentCountry ? currentCountry.name : decodeURIComponent(countrySlug);
-
-  // Меняем заголовок вкладки браузера
-  useEffect(() => {
-    document.title = `${countryName} на Оскаре • Oscar Films`;
-    return () => {
-      document.title = 'Oscar Films';
-    };
-  }, [countryName]);
-
-  const [yearsData, setYearsData] = useState([]);
+  const [yearsData, setYearsData] = useState([]); // [{ year, nominations: [{nominationName, films}] }]
   const [loading, setLoading] = useState(true);
   const [loadingMore, setLoadingMore] = useState(false);
   const [error, setError] = useState(null);
   const [oldestLoadedYear, setOldestLoadedYear] = useState(3000);
   const loaderRef = useRef(null);
 
-  // Загрузка данных
+  // Меняем заголовок вкладки браузера
+  useEffect(() => {
+    document.title = `${decodedCountry} на Оскаре`;
+    
+    return () => {
+      document.title = 'Oscar Films';
+    };
+  }, [decodedCountry]);
+
   useEffect(() => {
     let cancelled = false;
 
@@ -68,11 +63,10 @@ function CountryPage() {
         const data = await getOscarsByRange(start, 2026);
         if (cancelled) return;
 
-        const processed = processData(data, countryName);
+        const processed = processData(data, decodedCountry);
         setYearsData(processed);
         setOldestLoadedYear(start);
       } catch (err) {
-        console.error("Ошибка загрузки:", err);
         setError("Не удалось загрузить данные");
       } finally {
         if (!cancelled) setLoading(false);
@@ -81,7 +75,7 @@ function CountryPage() {
 
     initialLoad();
     return () => { cancelled = true; };
-  }, [countryName]);
+  }, [decodedCountry]);
 
   const processData = (groups, targetCountry) => {
     const yearMap = new Map();
@@ -139,7 +133,7 @@ function CountryPage() {
       const end = oldestLoadedYear - 1;
       const start = Math.max(MIN_YEAR, end - CHUNK_SIZE_YEARS + 1);
       const data = await getOscarsByRange(start, end);
-      const newChunks = processData(data, countryName);
+      const newChunks = processData(data, decodedCountry);
 
       setYearsData(prev => [...prev, ...newChunks]);
       setOldestLoadedYear(start);
@@ -160,33 +154,21 @@ function CountryPage() {
 
     obs.observe(loaderRef.current);
     return () => obs.disconnect();
-  }, [yearsData, oldestLoadedYear, loading, loadingMore, countryName]);
+  }, [yearsData, oldestLoadedYear, loading, loadingMore]);
 
   const hasMore = oldestLoadedYear > MIN_YEAR;
 
   if (loading && yearsData.length === 0) {
-    return (
-      <div style={{ 
-        padding: '120px 20px', 
-        textAlign: 'center',
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        gap: '16px'
-      }}>
-        <img src={loadingSvg} alt="Загрузка..." style={{ width: '64px', height: '64px' }} />
-        <p>Загрузка фильмов из {countryName}...</p>
-      </div>
-    );
+    return <div style={{ padding: '120px 20px', textAlign: 'center' }}>
+      <img src={loadingSvg} alt="Загрузка..." />
+    </div>;
   }
 
-  if (error) {
-    return <div style={{ padding: '100px', textAlign: 'center', color: '#e74c3c' }}>{error}</div>;
-  }
+  if (error) return <div style={{ padding: '100px', textAlign: 'center', color: '#e74c3c' }}>{error}</div>;
 
   return (
     <div style={{ padding: '20px' }}>
-      <h1>{countryName} на Оскаре</h1>
+      <h1>{decodedCountry} на Оскаре</h1>
 
       {yearsData.length === 0 && !loading && (
         <p style={{ textAlign: 'center', color: '#888', fontSize: '1.2rem' }}>
@@ -196,22 +178,14 @@ function CountryPage() {
 
       {yearsData.map(({ year, nominations }) => (
         <section key={year} style={{ marginBottom: '70px' }}>
-          <h2 style={{ 
-            fontSize: '2rem', 
-            borderBottom: '2px solid #444', 
-            paddingBottom: '10px' 
-          }}>
+          <h2 style={{ fontSize: '2rem', borderBottom: '2px solid #444', paddingBottom: '10px' }}>
             {year}
           </h2>
 
           {nominations.map(section => (
             <div key={section.nominationName} style={{ marginBottom: '50px' }}>
-              <h3 style={{ 
-                fontSize: '1.55rem', 
-                margin: '25px 0 15px', 
-                color: '#ddd' 
-              }}>
-                {section.nominationName} <span style={{ color: '#888' }}>({section.films.length})</span>
+              <h3 style={{ fontSize: '1.55rem', margin: '25px 0 15px', color: '#ddd' }}>
+                {section.nominationName}
               </h3>
 
               <div className={`movies-grid ${personNominations.has(section.nominationName) ? 'person-mode' : ''}`} style={{
@@ -222,11 +196,7 @@ function CountryPage() {
                 {section.films.map((entry, idx) => (
                   <div key={`${entry.kinopoiskId}-${idx}`} className={entry.isWinner ? 'winner' : ''}>
                     {personNominations.has(section.nominationName) ? (
-                      <PersonCard 
-                        movie={entry} 
-                        nominationContext={section.nominationName} 
-                        isWinner={entry.isWinner} 
-                      />
+                      <PersonCard movie={entry} nominationContext={section.nominationName} isWinner={entry.isWinner} />
                     ) : (
                       <MovieCard movie={entry} isWinner={entry.isWinner} />
                     )}
@@ -239,15 +209,8 @@ function CountryPage() {
       ))}
 
       {hasMore && (
-        <div 
-          ref={loaderRef} 
-          style={{ textAlign: 'center', padding: '50px 0', color: '#777' }}
-        >
-          {loadingMore ? (
-            <img src={loadingSvg} alt="Загрузка..." style={{ width: '48px', height: '48px' }} />
-          ) : (
-            'Прокрутите вниз для загрузки более ранних годов'
-          )}
+        <div ref={loaderRef} style={{ textAlign: 'center', padding: '50px 0', color: '#777' }}>
+          {loadingMore ? <img src={loadingSvg} alt="Загрузка..." /> : ''}
         </div>
       )}
     </div>

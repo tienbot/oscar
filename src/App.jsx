@@ -7,19 +7,22 @@ import Header from './components/Header/Header';
 import Home from './pages/Home/Home';
 import YearPage from './pages/YearPage/YearPage';
 import Nominations from './pages/Nominations/Nominations';
-import CountryPage from './pages/Country/Country';
+import Country from './pages/Country/Country';
+import Film from './pages/Film/Film';
+
 
 
 function App() {
   return (
-    <Router>
+    <Router basename="/oscar">
       <Header />
       <main>
         <Routes>
-          <Route path="/oscar" element={<Home />} />
-          <Route path="/oscar/year/:year" element={<YearPage />} />
-          <Route path="/oscar/nominations/:slug" element={<Nominations />} />
-          <Route path="/oscar/countries/:country" element={<CountryPage />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/year/:year" element={<YearPage />} />
+          <Route path="/nominations/:slug" element={<Nominations />} />
+          <Route path="/countries/:country" element={<Country />} />
+          <Route path="/film/:kinopoiskId" element={<Film />} />
         </Routes>
       </main>
       {/* <Footer /> */}
